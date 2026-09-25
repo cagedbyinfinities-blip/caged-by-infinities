@@ -1,0 +1,12 @@
+---
+import { getCollection } from 'astro:content';
+import Base from '../layouts/Base.astro';
+const chapters = (await getCollection('chapters')).sort((a,b)=>a.data.order-b.data.order);
+---
+<Base title="Caged by Infinities">
+  <h1>Caged by Infinities</h1>
+  <p><em>A layman's introduction to philosophy</em></p>
+  <ul>
+    {chapters.map(c => <li><a href={`/chapters/${c.slug}/`}>{c.data.title}</a></li>)}
+  </ul>
+</Base>

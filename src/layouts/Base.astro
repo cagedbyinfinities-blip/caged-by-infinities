@@ -1,0 +1,20 @@
+---
+const { title } = Astro.props;
+---
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>{title} | Caged by Infinities</title>
+    <!-- AdSense: paste your script here after approval -->
+  </head>
+  <body style="max-width: 700px; margin: 2rem auto; padding: 0 1rem; font-family: Georgia, serif; line-height: 1.7;">
+    <header>
+      <a href="/">← Caged by Infinities</a>
+    </header>
+    <main><slot /></main>
+    <footer style="margin-top: 4rem; opacity: 0.6; font-size: 0.9rem;">
+      <p>© Deepak Raja Nadarajan</p>
+    </footer>
+  </body>
+</html>

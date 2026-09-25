@@ -1,0 +1,21 @@
+---
+import { getCollection } from 'astro:content';
+import Base from '../../layouts/Base.astro';
+export async function getStaticPaths() {
+  const chapters = await getCollection('chapters');
+  return chapters.map(c => ({ params: { slug: c.slug }, props: { chapter: c } }));
+}
+const { chapter } = Astro.props;
+const { Content } = await chapter.render();
+const all = (await getCollection('chapters')).sort((a,b)=>a.data.order-b.data.order);
+const idx = all.findIndex(c => c.slug === chapter.slug);
+const prev = all[idx-1]; const next = all[idx+1];
+---
+<Base title={chapter.data.title}>
+  <h1>{chapter.data.title}</h1>
+  <Content />
+  <nav style="display:flex; justify-content:space-between; margin-top:3rem;">
+    <span>{prev && <a href={`/chapters/${prev.slug}/`}>← {prev.data.title}</a>}</span>
+    <span>{next && <a href={`/chapters/${next.slug}/`}>{next.data.title} →</a>}</span>
+  </nav>
+</Base>
