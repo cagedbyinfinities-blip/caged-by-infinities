@@ -39,7 +39,7 @@ On the other hand, if you come to terms with the absurdity all around us, the ph
 
 So what’s the goal of this writing? It is my attempt to introduce people to philosophy, people who have never touched a philosophy book. My goal is to write it in a way that is easy to grasp and hopefully a bit fun. One might be tempted to call this Philosophy for Dummies. But considering the fact that I don’t have any qualification in philosophy, it is probably better called Philosophy by a Dummy.
 
-
+![Thinking about thinking](/images/Ch1Think.jpg)
 
 Over the chapters, I will try to focus on what makes philosophy hard, the questions philosophers have been trying to answer and why the answers always seem elusive. I will also call out the fundamental assumptions we take for granted as truths in our lives and the paradoxes these assumptions lead us to. Though I have promised not to do propaganda for any particular philosophy, I may focus more on one or two philosophies just because they are more popular. I am not paid by those philosophers who support those philosophies. Most of them aren’t that rich anyway.
 

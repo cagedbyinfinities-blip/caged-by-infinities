@@ -37,7 +37,7 @@ If you have zeroed in on a philosophy like physicalism or dualism or idealism, y
 
 As discussed earlier, there are certain features of the world which are subjective. Many philosophers consider morality to be in this category. In modern day Western countries, the widely but vaguely accepted moral is that you can do whatever you want as long as it doesn’t affect others. It is based on Stuart Mill's harm principle. This automatically rules out killing or hurting others. This belief also has grey areas. Is it okay for your neighbour to play loud music in the daytime? Many would agree that it is wrong to do so in the night but daytime is okay. What if you work night shifts and sleep during the day? How about emotional offense? What if someone makes a social media post that emotionally offends you? Is it morally wrong? Or should you just block the person and not see the post? Again, different people have different opinions on this.
 
-
+![Subjective Morals](/images/Ch17Morals.jpg)
 
 Morals seem to differ from time to time and from society to society. Just like how we built a system to understand the nature of reality, we could also build a system of morals. This means we need some brute laws. When we built the scientific system, we had the external world we perceive, which is objective. This allowed us to add laws to the system, reaching consensus with others using a strictly defined scientific process. Morals are not like that. On what basis can we reach agreement with others on what is morally right and wrong? For that to work, we need everyone in the society to agree on the same thing, which is not an easy feat when you have millions of people in the society.
 
@@ -46,6 +46,8 @@ This is what religion did for societies. Once they got people to agree on God as
 
 
 Can we find a common ground? You might have heard of Maslow's hierarchy of needs.
+
+![Maslow's hierarchy](/images/Ch17Maslow.jpg)
 
 
 This seems to be a strongly-opinionated prioritised list of what humans need. Many people don’t agree with this entirely as there are always people who outright reject some of them or prioritise them in different orders. I could think of numerous people I know who don’t care about reproduction or status. But anyway, if we do find a common ground in any of these needs, we could build morals from there.

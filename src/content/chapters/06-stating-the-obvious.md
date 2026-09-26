@@ -21,6 +21,7 @@ We have a foundation and we are going to build on that. Let us add our first sta
 * Other people I see in this world have a mental experience similar to mine
 
 
+![Obvious buddy](/images/Ch6Obvious.gif)
 
 ### Objective world
 

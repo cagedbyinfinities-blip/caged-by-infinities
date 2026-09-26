@@ -99,7 +99,7 @@ Are rationalism and empiricism all kinds of knowledge we are capable of? Maybe t
 Mystic philosophies believe that there is a different type of knowledge we could potentially access, that takes us to the Absolute Truth or God. By definition, knowledge is not something we can explain with words to others, though the method to achieve this knowledge is generally shared and is obviously not easy.
 
 
-
+![I drink and I know things](/images/Ch4Drink.jpg)
 
 
 

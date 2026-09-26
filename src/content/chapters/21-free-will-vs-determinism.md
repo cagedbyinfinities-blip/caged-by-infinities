@@ -32,7 +32,7 @@ Let us ignore quantum physics for a minute and imagine a universe where only cla
 
 Here lies the problem. The Laplace Demon doesn’t know who it is dealing with. You and I are Free-Will Demons. If the Laplace Demon says that I will do something, I will do the entire opposite and so will you, depending on what the Laplace Demon says about you. If the Laplace Demon says that I will eat salad today, I will eat ice-cream instead and show it to its face. If the Demon says you will just have a normal day at work, you will decide to take the day off and go to the beach. Within a day, I expect the so-called Laplace Demon to pack its bags and call it a day. To give it a send-off, we can ask it to make one last prediction about us. No matter what it says, we will use a baseball bat to destroy the Laplace Demon ourselves. Victory to the Free-Will Demons!
 
-
+![Free-will demons](/images/Ch12_2Demon.jpg)
 
 We assumed that the mathematical equations were correct and we could also measure everything accurately. The Laplace Demon was supposed to predict the future precisely with accurate equations and data. And we still showed how we can make the Laplace Demon wrong. How did that happen? That’s the paradox.
 

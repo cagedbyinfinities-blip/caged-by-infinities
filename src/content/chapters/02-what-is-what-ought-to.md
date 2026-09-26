@@ -87,7 +87,7 @@ As I promised in the Introduction, I am not going to take sides here. All you ha
 
 2. We have the ability to choose how to act. What Ought To? The question deals with our moral values and purpose of life.
 
-
+![The Triad](/images/Ch2_triad.jpg)
 
 We will deal with the What Is? question in the upcoming chapters, after which we will move on to the what ought to question.
 

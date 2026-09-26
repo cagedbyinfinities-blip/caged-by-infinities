@@ -30,6 +30,7 @@ My point is that there could be multiple causes of the same event. Then there is
 
 Does science give us an answer? Not exactly. What it does say is that because nothing can travel faster than the speed of light, we could build what is called a light-cone. If you have a graph of space and time and mark a point denoting the window breaking incident, from that point, you draw a cone stretching into the past: it contains every place-and-time from which even a light signal could have arrived just in time for the breaking, one second back, two seconds back and so on.
 
+![Light cone](/images/Ch16Light.jpg)
 
 Physics gives us an outer limit: because nothing travels faster than light, only events inside the 'past light-cone' of the window breaking — events close enough in space and time that their influence could have reached the window — are even eligible as physical causes. Using some verbal gymnastics, one might take any event in the cone and argue that it is the cause. But even if you stick to picking causes which the common sense agrees with, that still leaves a huge number of candidates, from the thrown ball to the builder's shoddy work.
 

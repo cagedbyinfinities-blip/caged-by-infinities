@@ -16,6 +16,7 @@ Anyway, the question is can our senses be trusted? According to physicalism, lig
 
 Or we could be fitted with a virtual reality device that controls all the signals that are reaching our body. Maybe, in a future world, some advanced biotechnicians could hijack our nervous system and send the signals that would make us sense Pikachus everywhere we go. Or, some neuroscientist could hijack our brain itself to create an illusion that you are living in a world with no other humans, like the Matrix. And even if what you are sensing at a moment is real, what about your memories? What if the demon modified the past memories in your brain to make you believe that you owe money to the demon?
 
+![What to trust](/images/Ch10_1Trust.jpg)
 
 Why is this a big problem? Remember the rule of the scientific system - Any law added to the system must make observable predictions and be falsifiable. Our entire system depends on us making observations which are real. And yet, according to the physicalist philosophy, our own senses cannot be trusted. Put it another way, our description of the nature of reality(Ontology) makes our primary source of knowledge(primary epistemology) not so trustworthy.
 

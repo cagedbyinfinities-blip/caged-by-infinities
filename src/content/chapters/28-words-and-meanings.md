@@ -82,6 +82,7 @@ Mahalik: That's because it's a rat, fool!
 
 CJ: Damn! You mighta just made fact. That's some real shit right there! A-Ha!
 
+![I am Yu](/images/Ch15_Yu.jpg)
 
 
 Book recommendations
