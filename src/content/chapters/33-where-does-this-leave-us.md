@@ -45,4 +45,4 @@ Be ready to embrace defeats and learn to pick yourself up after them. Life may h
 
 When you let the infinite possibilities overwhelm you, those infinities feel like a cage. Remember that the mind that conceived these infinite possibilities is more than capable of navigating them too. Pick one of the infinite paths in front of you and go for it with purpose. It would be rude not to.
 
-
+![Caged by infinities](/images/Ch20Caged.jpg)

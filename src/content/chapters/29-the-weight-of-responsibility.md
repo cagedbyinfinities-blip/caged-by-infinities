@@ -60,6 +60,7 @@ Look at this from the kid’s perspective. He was offered money to break the win
 
 We could go back in the causal chain forever. Where does this even stop? Should we just blame everyone in society? For this reason, there are indeed societies which are against punishment for crimes and want to help with rehabilitation. That is not a perfect solution either. But if someone commits a crime because he knows that he won’t be punished by the society, wouldn’t society be blamed for not punishing criminals?
 
+![Society made me do it](/images/Ch16society.jpg)
 
 If we take a different approach and assign blame on the kid as the kid has free-will and agency, consider a different situation. Instead of being offered money, assume that he was made to do this with a gun on his head. What happens now? Is it fair to assign responsibility to the kid? Most of us would say no. When do we assign responsibility to the person who was the immediate cause of the event and when do we pass the responsibility to others who made this person do it? And if we go into mental health issues and crime, we have much bigger problems to grapple with.
 

@@ -9,7 +9,7 @@ How do you know if something/someone is alive? Is there even a binary answer to 
 
 Most of us would agree that a living thing is anything that has a “conscious experience”. If a robot doesn’t “sense” anything, in terms of seeing colors, hearing sound, no matter how good it is, in solving real world problems, we won’t consider it a living thing. All it does is to process bits in its hardware. A colour in a camera image it is processing is just a number it stores in the chips. This is where our inability to have direct access to the consciousness of others makes it difficult. If we did, we could use that to decide if something is alive.
 
-
+![Are you sentient](/images/Ch12_1Sentient.jpg)
 
 Take the Chinese Room argument by John Searle. Imagine a person who knows only English sitting in a room. People outside the room insert notes written in Chinese into the room through a window. The person inside has a huge book that tells him what Chinese reply to write and send it out for each of the incoming questions. It would be impossible for the people outside to know if the person inside understands Chinese or not. Searle used this example to show that a computer program can never be “conscious” because that is pretty much what many computer programs do - Looking up answers from a database.
 

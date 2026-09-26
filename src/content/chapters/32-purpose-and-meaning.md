@@ -58,7 +58,7 @@ Absurdism, on the other hand, says that the universe is absurd and impossible to
 
 Here is a quote for you by Marvin the robot from The Hitchhiker's Guide to the Galaxy
 
-
+![Marvin](/images/Ch19Marvin.jpg)
 
 All these philosophies started trending over the last couple of centuries. The reason being the slow death of religion. When we discussed morals, we saw how religions gave us some brute laws of morals. Whether they liked it or not, people were expected to follow it. Though religious laws can be considered problematic by modern people, it saved people from the struggle to find their morals, the struggle which we are facing now.
 
