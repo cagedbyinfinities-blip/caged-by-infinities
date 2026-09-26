@@ -7,7 +7,7 @@ order: 22
 We all have seen this quote written or used in many places - Change is the only constant in Life.
 
 
-It is attributed to the Greek Philosopher Heraclitus. It is popular because it is true in our perceived world. Though it doesn’t call out the fact that things get more disorderly with time, it says that things change with time. We see ourselves get old, cities getting gentrified, weather changing every month, politicians changing their opinions every week and so on.  Some changes are rapid while the others are slow. If you look at the planet earth from the time it was created around 4.5 billion years ago, it would look unrecognisable.
+It is attributed to the Greek Philosopher Heraclitus. It is popular because it is true in our perceived world. Though it doesn’t call out the fact that things get more disorderly with time, it says that things change with time. We see ourselves get old, cities getting gentrified, weather changing every month, politicians changing their opinions every week and so on. Some changes are rapid while the others are slow. If you look at the planet earth from the time it was created around 4.5 billion years ago, it would look unrecognisable.
 
 
 This leads us to an interesting philosophical problem, popularly named the Ship of Theseus problem. This is how the story goes - An ancient Greek hero named Theseus sailed in a ship. The people of Greece preserved this ship as a memorial. The ship was made of wood that rots with time. Whenever a piece of wood rotted, they replaced it with a new piece. After many years, all the wood from the original ship got replaced by new pieces. At that point, was it still the ship of Theseus?
@@ -47,7 +47,7 @@ Depending on your answer, there are a lot of moral and legal implications. In th
 A physicalist could just put up his hand and say that the concept of unique identity is an illusion in the world of physicalism. If the world does reach a situation where we clone or transport people like this, we just need to come up with a new moral and legal framework to work around the problems. And it is a totally reasonable answer.
 
 
-A dualist, an idealist or a theist on the other hand can either say that the clone is a different person, the clone is not even a human or that they don’t know. Either way, these philosophies don’t rely on empirical verification on matters of mind, like physicalism does. They claim that the mind or soul is an entity outside of the physical world.  Claiming that the clone is the same person would be difficult to explain as it leads to questions around how this single mental entity could attach to multiple physical bodies just when the body is cloned but not otherwise.
+A dualist, an idealist or a theist on the other hand can either say that the clone is a different person, the clone is not even a human or that they don’t know. Either way, these philosophies don’t rely on empirical verification on matters of mind, like physicalism does. They claim that the mind or soul is an entity outside of the physical world. Claiming that the clone is the same person would be difficult to explain as it leads to questions around how this single mental entity could attach to multiple physical bodies just when the body is cloned but not otherwise.
 
 
 Either way, this is an interesting puzzle to ponder over, don’t you think?

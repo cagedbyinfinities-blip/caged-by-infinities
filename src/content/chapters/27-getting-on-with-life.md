@@ -4,7 +4,7 @@ description: "14. Getting on with Life"
 order: 27
 ---
 
-As we saw in the previous chapter, we have 4 choices - Don’t care about the What Is? question, try to find the truth,  pick some philosophy with some brute statements or pick a philosophy with self-references and infinite regressions.
+As we saw in the previous chapter, we have 4 choices - Don’t care about the What Is? question, try to find the truth, pick some philosophy with some brute statements or pick a philosophy with self-references and infinite regressions.
 
 
 As we don’t have a clear answer anyway, what is a person supposed to do in their day to day life? Fortunately or unfortunately, most people just choose the first option. They don’t care or they have some vague idea about the nature of reality but they don’t think much about it or even validate if it makes sense. If we did, many will realise the logical contradictions and inconsistencies in our beliefs. Historically, many people just stuck with religious philosophies and hardly questioned it. Now that many people are giving up religion, it creates a void for other philosophies to fill in and many people seem to pick physical laws.

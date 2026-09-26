@@ -66,4 +66,4 @@ Overall, this is a philosophical question that doesn’t have a definitive answe
 
 - What is Life? By Erwin Schrödinger
 - I am a Strange Loop by Douglas Hofstadter
-If the Universe Is Teeming with Aliens ... WHERE IS EVERYBODY?: Seventy-Five Solutions to the Fermi Paradox and the Problem of Extraterrestrial Life by Stephen Webb
+If the Universe Is Teeming with Aliens... WHERE IS EVERYBODY?: Seventy-Five Solutions to the Fermi Paradox and the Problem of Extraterrestrial Life by Stephen Webb

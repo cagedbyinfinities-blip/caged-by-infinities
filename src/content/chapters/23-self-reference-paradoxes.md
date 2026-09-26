@@ -4,7 +4,7 @@ description: "12.4 Self Reference Paradoxes"
 order: 23
 ---
 
-I used to think that the brain was the most wonderful organ in my body. Then I realized who was telling me this.  - Emo Philips
+I used to think that the brain was the most wonderful organ in my body. Then I realized who was telling me this. - Emo Philips
 
 
 Self-reference statements are fun to play around with. But there are also serious philosophical implications to these kinds of statements. Mathematicians and philosophers have been wrestling with this problem for centuries now. Let us go over some of the most popular self-reference paradoxes.
@@ -78,13 +78,13 @@ The second theorem says that consistency of the system cannot be proved by its o
 Bertrand Russell discovered a paradox in set theory, which is called the Russell’s paradox. I could avoid getting into set theory if I just explain this paradox using Barber’s paradox which is analogous. But we will need set theory knowledge in the next section about Cantor’s paradox anyway. So here it goes.
 
 
-A set is a group of distinct objects which are treated as one. It is usually written within curly brackets. For example, {Red, Green, Blue} is the set of primary colours. {Heads, Tails} is the set of potential outcomes of a coin toss. In mathematics, it is primarily used for numbers. Many of these sets are infinite. {1, 2, 3, 4,…} is the set of all natural numbers. `{1, 3, 5, 7, 9, . . .}` is the set of all odd numbers.
+A set is a group of distinct objects which are treated as one. It is usually written within curly brackets. For example, {Red, Green, Blue} is the set of primary colours. {Heads, Tails} is the set of potential outcomes of a coin toss. In mathematics, it is primarily used for numbers. Many of these sets are infinite. {1, 2, 3, 4,…} is the set of all natural numbers. `{1, 3, 5, 7, 9,...}` is the set of all odd numbers.
 
 
-A set can contain more sets. `{{1, 2}, {2,3}, {1,3},. . . .}` is the set of all sets of natural numbers of size two.  In most practical cases, a set doesn’t contain itself. Russell’s paradox asks if we create a set S with all the sets which do not contain themselves, will S be in that set? This is a paradox. To make it easy to think about, someone came up with the barber’s paradox, which is analogous.
+A set can contain more sets. `{{1, 2}, {2,3}, {1,3},....}` is the set of all sets of natural numbers of size two. In most practical cases, a set doesn’t contain itself. Russell’s paradox asks if we create a set S with all the sets which do not contain themselves, will S be in that set? This is a paradox. To make it easy to think about, someone came up with the barber’s paradox, which is analogous.
 
 
-Imagine a town with one barber. He only shaves men in the town who do not shave themselves.  Does the barber shave himself? If he shaved himself, then he shouldn’t shave himself. If he doesn’t shave himself, he should shave himself.
+Imagine a town with one barber. He only shaves men in the town who do not shave themselves. Does the barber shave himself? If he shaved himself, then he shouldn’t shave himself. If he doesn’t shave himself, he should shave himself.
 
 
 Russell’s paradox is the mathematical version of the same thing. If the set belongs to itself, it should not belong to itself. If the set does not belong to itself, it should belong to itself. Yet another situation where self-reference forces us to give up on consistency.

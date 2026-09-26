@@ -53,7 +53,7 @@ This equation is one of the most important equations used in our day to day life
 
 ### Einstein’s Laws of Relativity
 
-With Newton's Laws and Maxwell’s equations, we had a good toolkit that was capable of explaining most things we observe  around us in our day-to-day life. Many thought that physics was very close to being finished. But there was one lingering issue which took years to figure out - The mystery about the speed of light.
+With Newton's Laws and Maxwell’s equations, we had a good toolkit that was capable of explaining most things we observe around us in our day-to-day life. Many thought that physics was very close to being finished. But there was one lingering issue which took years to figure out - The mystery about the speed of light.
 
 
 

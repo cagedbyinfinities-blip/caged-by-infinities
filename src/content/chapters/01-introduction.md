@@ -29,7 +29,7 @@ When we ask ourselves serious questions about the world, life and existence, we 
 
 
 
-In a way, finding a simple answer and going on with our lives is probably good for us. Darwinians might find an evolutionary explanation for this too. Trying to dig deeper would eventually expose us to the baseless assumptions on which the entire foundation of our lives and belief systems is built. Questioning those assumptions will come in the way of spreading our genes. But more importantly, questioning these assumptions will destroy the foundation of all the values in our lives. While some take this as a challenge and get joy out of it, others may struggle handling this existential and moral crisis. There are quite a few philosophers who struggled with mental health issues, while a few of them went outright mad.
+In a way, finding a simple answer and going on with our lives is probably good for us. Darwinians might find an evolutionary explanation for this too. Trying to dig deeper would eventually expose us to the baseless assumptions on which the entire foundation of our lives and belief systems is built. Questioning those assumptions will get in the way of spreading our genes. But more importantly, questioning these assumptions will destroy the foundation of all the values in our lives. While some take this as a challenge and get joy out of it, others may struggle handling this existential and moral crisis. There are quite a few philosophers who struggled with mental health issues, while a few of them went outright mad.
 
 
 
