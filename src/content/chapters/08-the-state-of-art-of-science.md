@@ -9,14 +9,14 @@ We have what we call a scientific philosophical system. Interestingly, no one de
 
 
 
-How well does science answer the *What Is?* question? Remember, the What Is? question has to explain the subject(mind/self), the object(the world) and the nature of knowledge.
+How well does science answer the *What Is?* question? Remember, the What Is? question has to explain the subject (mind/self), the object (the world) and the nature of knowledge.
 
 * Science is the best tool we have to explain the world we perceive. There are some caveats from a philosophical perspective which we discuss in later chapters.
 * The rules we have in the system already explains the nature of knowledge. For example, the rule about observable predictions tells us that empiricism is a valid form of knowledge. The rules of inferences and logical reasoning already cover some valid rational knowledge. We use Mathematics extensively to develop scientific theories. While not accurate, let us treat Mathematics as an advanced form or rational knowledge.
 
 
 
-What about the subject(mind/self)? Explaining that too will give us a complete philosophy. But we will deal with that after going on a journey through science as it is not that straightforward.
+What about the subject (mind/self)? Explaining that too will give us a complete philosophy. But we will deal with that after going on a journey through science as it is not that straightforward.
 
 
 
@@ -47,5 +47,8 @@ What We Cannot Know by Marcus du Sautoy
 Reality Is Not What It Seems by Carlo Rovelli
 
 The Biggest Ideas in the Universe series by Sean Carroll if you want to get a little bit deeper into the Mathematics
+
+
+
 
 

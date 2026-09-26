@@ -18,11 +18,14 @@ Or we could be fitted with a virtual reality device that controls all the signal
 
 ![What to trust](/images/Ch10_1Trust.jpg)
 
-Why is this a big problem? Remember the rule of the scientific system - Any law added to the system must make observable predictions and be falsifiable. Our entire system depends on us making observations which are real. And yet, according to the physicalist philosophy, our own senses cannot be trusted. Put it another way, our description of the nature of reality(Ontology) makes our primary source of knowledge(primary epistemology) not so trustworthy.
+Why is this a big problem? Remember the rule of the scientific system - Any law added to the system must make observable predictions and be falsifiable. Our entire system depends on us making observations which are real. And yet, according to the physicalist philosophy, our own senses cannot be trusted. Put it another way, our description of the nature of reality (Ontology) makes our primary source of knowledge (primary epistemology) not so trustworthy.
 
 
 Maybe we can rely on the information we receive from the others to confirm our observations. Remember that, even those “others” could be faked in this illusion. Add to the fact that our own memories let us down sometimes, the foundations get a bit shaky.
 
 
 I admit that this is just a theoretical attack on the foundation. I don’t expect nor advise anyone to take this seriously unless they want a free ticket to an institution. But it is still a fun thought experiment and a valid attack on the foundations of physicalism.
+
+
+
 

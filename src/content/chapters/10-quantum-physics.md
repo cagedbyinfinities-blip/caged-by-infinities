@@ -13,7 +13,7 @@ Just like there was a lingering issue about the speed of light, solving which le
 
 
 
-I said that in classical physics, if you know the position of all matter at one time, you can predict their state in the future(and even the past). Imagine you see a ball that is flying in empty space. You see it go in front of you at 20kmph. Theoretically, you can predict where exactly it will be after five minutes, unless there is something else that could impact its motion. In practice, there are limitations in knowing its exact position because our ability to measure its position and speed is never 100% precise. But in theory, we know where to find it after five minutes.
+I said that in classical physics, if you know the position of all matter at one time, you can predict their state in the future (and even the past). Imagine you see a ball that is flying in empty space. You see it go in front of you at 20kmph. Theoretically, you can predict where exactly it will be after five minutes, unless there is something else that could impact its motion. In practice, there are limitations in knowing its exact position because our ability to measure its position and speed is never 100% precise. But in theory, we know where to find it after five minutes.
 
 
 
@@ -24,7 +24,7 @@ Quantum physics puts theoretical limitations to our ability to do this. The clas
 This is roughly how it works:
 
 * Any particle’s state is written in the form of what is called a wave function. The wave function tells us the probability of different states the particle could be in, when we observe it. Think of it like a weather map. For something like a coin toss, you can say '50% heads, 50% tails' and they add to 100%. But position isn't like a coin toss - there are endless places the particle could be. So instead of a simple percentage for each spot, the wave function gives you a kind of 'likelihood map.' Where the map is darker, you're more likely to find the particle there. Add up the whole map, and you get 100% - the particle has to be somewhere.
-* The particle’s state(wave function) evolves with time according to Schrödinger’s wave equation. Yes, he did more than talking about cats. Maybe after a few seconds, the probability of observing that particle in X is 0.05 while that of observing it in Y is 0.9.
+* The particle’s state (wave function) evolves with time according to Schrödinger’s wave equation. Yes, he did more than talking about cats. Maybe after a few seconds, the probability of observing that particle in X is 0.05 while that of observing it in Y is 0.9.
 * When we observe the particle and try to measure its position, the wave function “collapses” into a precise state. This is the measurement we take. The value we measure depends on the probability that is set by the wave function. So unlike classical physics, we cannot be 100% sure where the particle will be in the future. We could theoretically find the particle in a position that has a very low probability too.
 * Then the wave function evolves again according to Schrödinger's wave equation.
 * There is another complication that fits within the above system that is described by Heisenberg’s uncertainty principle. If you measure the particle’s position accurately, you won’t have precise momentum of the particle and vice versa.
@@ -45,10 +45,10 @@ Erwin Schrödinger came up with a famous thought experiment - a cat in a sealed 
 
 Pop-science often phrases this as "the cat is both alive and dead at the same time." That's catchy, but it's not quite what the theory says. Schrödinger himself wasn't claiming the cat was somehow two things at once, and he wasn't trying to prove quantum physics was nonsense - he helped build the theory. He invented the cat as a joke, to show what happens when you take that particular reading of the theory too literally and stretch it to everyday objects. A tiny particle refusing to pick a definite state is strange enough; a cat doing it is absurd - and that was exactly his point.
 
-![Shocked](/images/Ch8_2cat.jpg)
+![Shocked cat meme](/images/Ch8_2cat.jpg)
 
 
-As expected, this turned the fundamentals of physics upside down. There are other magical phenomena like entanglement which come out of it which we won’t discuss here. Quantum Field Theory(QFT) is the culmination of years of work in the field of Quantum Physics, which is considered the best explanation of reality we have today. This theory works on the idea that all that we consider particles(like electrons, protons, neutrons and many more) are fundamentally just fields which pervade throughout the universe. We are not talking about one field per each electron. There is a single field that permeates throughout the universe for electrons. All the electrons we observe are just excitations of this one field in different places. Similarly, there is a field associated with every other particle that covers both matter and forces we observe - Muon field for Muons, Electromagnetic field for photons, Higgs field for Higgs-Boson particles, and so on. The field equations describe how these fields evolve.
+As expected, this turned the fundamentals of physics upside down. There are other magical phenomena like entanglement which come out of it which we won’t discuss here. Quantum Field Theory (QFT) is the culmination of years of work in the field of Quantum Physics, which is considered the best explanation of reality we have today. This theory works on the idea that all that we consider particles (like electrons, protons, neutrons and many more) are fundamentally just fields which pervade throughout the universe. We are not talking about one field per each electron. There is a single field that permeates throughout the universe for electrons. All the electrons we observe are just excitations of this one field in different places. Similarly, there is a field associated with every other particle that covers both matter and forces we observe - Muon field for Muons, Electromagnetic field for photons, Higgs field for Higgs-Boson particles, and so on. The field equations describe how these fields evolve.
 
 
 
@@ -95,5 +95,8 @@ What We Cannot Know by Marcus du Sautoy
 Reality Is Not What It Seems by Carlo Rovelli
 
 The Biggest Ideas in the Universe series by Sean Carroll if you want to get a little bit deeper into the Mathematics
+
+
+
 
 

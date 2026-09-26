@@ -21,19 +21,19 @@ Similarly, I want you, the reader, to empty your mind of all the assumptions you
 
 
 
-*I think, therefore I am.
+*I think, therefore I am.*
 
 
 
-I am having an experience of being inside a body. I perceive a world outside my body through my sensations. I can see, I can smell, I can hear, I can taste, I can feel a touch, I can feel hot/cold. These sensations give rise to internal feelings like joy, sorrow, anger, love, hatred, embarrassment and many more.
+*I am having an experience of being inside a body. I perceive a world outside my body through my sensations. I can see, I can smell, I can hear, I can taste, I can feel a touch, I can feel hot/cold. These sensations give rise to internal feelings like joy, sorrow, anger, love, hatred, embarrassment and many more.*
 
 
 
-I can think. Thinking is what I am doing right now. I could imagine things, I could recognise patterns. I could ask questions. I could do logical reasoning.
+*I can think. Thinking is what I am doing right now. I could imagine things, I could recognise patterns. I could ask questions. I could do logical reasoning.*
 
 
 
-I have will. I could decide to do something and act on it with the body that seems to be in my control.*
+*I have will. I could decide to do something and act on it with the body that seems to be in my control.*
 
 
 
@@ -60,7 +60,7 @@ To explain with examples, Ontology would say that the universe sits on top of a 
 
 
 
-At this point, I have to point out the circular nature of epistemology/ontology. As I said above, Ontology is the study of the nature of reality. How would you know the nature of reality? Through Knowledge. Epistemology is the study of the nature of knowledge. How do you know if a particular type of knowledge is true? Based on the nature of reality. If you are hooked on a Virtual Reality headset, what you know about the nature of reality(that you are living in a world in which you are hooked up to a VR headset) tells you that what you perceive in the VR headset isn’t the truth and is not a valid form of knowledge.
+At this point, I have to point out the circular nature of epistemology/ontology. As I said above, Ontology is the study of the nature of reality. How would you know the nature of reality? Through Knowledge. Epistemology is the study of the nature of knowledge. How do you know if a particular type of knowledge is true? Based on the nature of reality. If you are hooked on a Virtual Reality headset, what you know about the nature of reality (that you are living in a world in which you are hooked up to a VR headset) tells you that what you perceive in the VR headset isn’t the truth and is not a valid form of knowledge.
 
 
 
@@ -84,11 +84,11 @@ This philosopher has pointed out the inconsistency between my ontology and epist
 
 
 
-So, any combination of Ontology/Epistemology should tell us a story that is consistent with each other. Not only that, they must also be consistent with the world we are observing on a day to day basis. It must explain how we have the sensory experience of a world, how we think and how we feel a sense of will. Many people can imagine worlds/universes which are just consistent with each other. Fantasy fiction is full of that. But to also make it consistent with our own experience is where the challenge lies.
+So, any combination of Ontology/Epistemology should tell us a story that is consistent with each other. Not only that, they must also be consistent with the world we are observing on a day-to-day basis. It must explain how we have the sensory experience of a world, how we think and how we feel a sense of will. Many people can imagine worlds/universes which are just consistent with each other. Fantasy fiction is full of that. But to also make it consistent with our own experience is where the challenge lies.
 
 
 
-Ontology specifically must explain both the knower(our mind/self) and the known(the world). Epistemology explains how our self/mind can know the world. The self/mind is the subject that is the knower. The world is the object that is known.
+Ontology specifically must explain both the knower (our mind/self) and the known (the world). Epistemology explains how our self/mind can know the world. The self/mind is the subject that is the knower. The world is the object that is known.
 
 
 
@@ -105,5 +105,8 @@ Book recommendations
 Does the Center Hold? By Donald Palmer
 
 Meditations on First Philosophy, by René Descartes.
+
+
+
 
 

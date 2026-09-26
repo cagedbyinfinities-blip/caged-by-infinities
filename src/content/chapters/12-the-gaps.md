@@ -94,12 +94,15 @@ Science allows us to predict the future and past state of a system from its curr
 
 ### Mind
 
-In the previous chapter, I mentioned how science explains the world(the object) but not the self/mind(the subject). Well, it doesn’t explain the subject yet. The problem of the Mind is quite a huge one itself that I will tackle in a future chapter. For now, I will point out that scientists and many non-scientists assume that some magic happens in the brain and that results in the mental experience we have. They believe that what is considered magic now can be easily explained through the scientific laws in the future based on neuroscientific research. But we haven’t done it yet. The fact that we haven’t explained it yet through science doesn’t mean that we will never be able to explain. But for now, this is still a gap.
+In the previous chapter, I mentioned how science explains the world (the object) but not the self/mind (the subject). Well, it doesn’t explain the subject yet. The problem of the Mind is quite a huge one itself that I will tackle in a future chapter. For now, I will point out that scientists and many non-scientists assume that some magic happens in the brain and that results in the mental experience we have. They believe that what is considered magic now can be easily explained through the scientific laws in the future based on neuroscientific research. But we haven’t done it yet. The fact that we haven’t explained it yet through science doesn’t mean that we will never be able to explain. But for now, this is still a gap.
 
 
 
 ## Further Reading
 
 * What We Cannot Know by Marcus du Sautoy
+
+
+
 
 

@@ -5,7 +5,7 @@ description: "5. The Blueprint"
 order: 5
 ---
 
-Where are we now? We are trying to answer the What Is? question. We want to explain the subject(our self/mind), the object(the world) and the nature of knowledge(how we learn about the world), put together as ontology and epistemology. We did a walk through of types of knowledge - Experience(empiricism), thinking(rationalism) and a mix of both. Different philosophies may accept one or more of these as valid types of knowledge.
+Where are we now? We are trying to answer the What Is? question. We want to explain the subject (our self/mind), the object (the world) and the nature of knowledge (how we learn about the world), put together as ontology and epistemology. We did a walk through of types of knowledge - Experience (empiricism), thinking (rationalism) and a mix of both. Different philosophies may accept one or more of these as valid types of knowledge.
 
 
 
@@ -122,8 +122,11 @@ Most popular philosophies rely on dogmatic proofs - A bunch of brute statements 
 
 This means that any informal philosophical system we build will have at least one of these:
 
-* Brute statements(Most common)
+* Brute statements (Most common)
 * Circular references
 * Infinite number of statements
+
+
+
 
 

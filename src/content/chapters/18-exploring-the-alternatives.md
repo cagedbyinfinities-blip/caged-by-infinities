@@ -5,7 +5,7 @@ description: "11. Exploring the Alternatives"
 order: 18
 ---
 
-We did a deep dive on Physicalism primarily because it goes well with science and the majority of the scientists are Physicalists(I think). As I called it out before, science is the best and the most successful tool we have to explain the world. It is only when we try to build an entire philosophy that explains everything, including our mind, we run into some issues which we saw in the last few chapters. Whether science will be able to surmount these challenges in the future, is an open question.
+We did a deep dive on Physicalism primarily because it goes well with science and the majority of the scientists are Physicalists (I think). As I called it out before, science is the best and the most successful tool we have to explain the world. It is only when we try to build an entire philosophy that explains everything, including our mind, we run into some issues which we saw in the last few chapters. Whether science will be able to surmount these challenges in the future, is an open question.
 
 
 
@@ -56,7 +56,7 @@ Pros
 
 Cons
 
-* What is the nature of the relationship of this non-physical entity with the physical world? If we believe in free-will of mind, the mind should be able to affect the physical world. But if we can see the impact of this supposed non-physical entity on real life, shouldn’t it just be considered a physical entity as we could make observation of its presence, albeit indirectly? Another way to look at it is that it would really break the scientific laws if a substance sitting outside of the physical reality can cause changes in the physical world.
+* What is the nature of the relationship of this non-physical entity with the physical world? If we believe in free will of mind, the mind should be able to affect the physical world. But if we can see the impact of this supposed non-physical entity on real life, shouldn’t it just be considered a physical entity as we could make observation of its presence, albeit indirectly? Another way to look at it is that it would really break the scientific laws if a substance sitting outside of the physical reality can cause changes in the physical world.
 * If a dualist says that this non-physical entity only experiences the world but doesn’t have an impact on the physical world, it makes the above problem go away. But still there is an open question of how this non-physical entity connects with the world to experience it. Dualists could argue that we will never find out.
 * Unlike science, dualism gets away with some hard problems of consciousness by handwaving and saying that we have no way to know how the second reality works because it is not part of physical reality. This puts off people who want some kind of explanation for these phenomena.
 
@@ -123,7 +123,7 @@ All the religious philosophies which involve a personal God tend to believe in t
 These philosophies tend to posit that the personal God has some level of control over the world, while also imposing moral values that people must follow, which leads to a lot of open questions.
 
 * If God is good and has control over the world, why do bad things happen in this world?
-* If things are anyway in God’s control, why do we have free-will and why are we punished for our bad deeds after life if God could have stopped us from doing the bad deeds?
+* If things are anyway in God’s control, why do we have free will and why are we punished for our bad deeds after life if God could have stopped us from doing the bad deeds?
 
 
 
@@ -131,7 +131,7 @@ Different religions answer these differently which may be convincing for some bu
 
 ### Eastern philosophies
 
-Eastern philosophies(both Hinduism/Vedic philosophies and Buddhism) deal a lot with the philosophy of mind. They have their own versions of dualism and idealism. There are also some esoteric philosophies which are very close but don’t quite fit with idealism or dualism. If you are interested, do read about Advaita Vedanta (the Vedic view that everything is ultimately one reality, Brahman), Vishishtadvaita (the world and individual souls are real but inseparably depend on God), Madhyamaka or 'Emptiness' (the Buddhist view that nothing has an independent essence), Yogacara or 'Consciousness-only' (everything we know is shaped by mind), and the later Buddhist synthesis of the two.
+Eastern philosophies (both Hinduism/Vedic philosophies and Buddhism) deal a lot with the philosophy of mind. They have their own versions of dualism and idealism. There are also some esoteric philosophies which are very close but don’t quite fit with idealism or dualism. If you are interested, do read about Advaita Vedanta (the Vedic view that everything is ultimately one reality, Brahman), Vishishtadvaita (the world and individual souls are real but inseparably depend on God), Madhyamaka or 'Emptiness' (the Buddhist view that nothing has an independent essence), Yogacara or 'Consciousness-only' (everything we know is shaped by mind), and the later Buddhist synthesis of the two.
 
 
 
@@ -182,5 +182,8 @@ Philosophy of Mind: A Comprehensive Introduction by William Jaworski
 What the Buddha Taught by Walpola Rahula
 
 A Critical Survey of Indian Philosophy by Chandradhar Sharma
+
+
+
 
 

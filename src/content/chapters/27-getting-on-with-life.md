@@ -9,7 +9,7 @@ As we saw in the previous chapter, we have 4 choices - Don’t care about the Wh
 
 
 
-As we don’t have a clear answer anyway, what is a person supposed to do in their day to day life? Fortunately or unfortunately, most people just choose the first option. They don’t care or they have some vague idea about the nature of reality but they don’t think much about it or even validate if it makes sense. If we did, many will realise the logical contradictions and inconsistencies in our beliefs. Historically, many people just stuck with religious philosophies and hardly questioned it. Now that many people are giving up religion, it creates a void for other philosophies to fill in and many people seem to pick physical laws.
+As we don’t have a clear answer anyway, what is a person supposed to do in their day-to-day life? Fortunately or unfortunately, most people just choose the first option. They don’t care or they have some vague idea about the nature of reality but they don’t think much about it or even validate if it makes sense. If we did, many will realise the logical contradictions and inconsistencies in our beliefs. Historically, many people just stuck with religious philosophies and hardly questioned it. Now that many people are giving up religion, it creates a void for other philosophies to fill in and many people seem to pick physical laws.
 
 
 
@@ -34,7 +34,7 @@ How do we go about achieving those desires? We generally go through a cycle of l
 
 
 
-Your ability to successfully achieve your desires depends on your knowledge(step 1), your ability to think(step 2) and your ability to act(step 3).
+Your ability to successfully achieve your desires depends on your knowledge (step 1), your ability to think (step 2) and your ability to act (step 3).
 
 
 
@@ -58,7 +58,7 @@ Then there is the ability to act. Some people may understand it is risky and it 
 
 
 
-Ultimately, there are two things which affect your ability to achieve your desires - Knowledge and Power. When I say knowledge, it includes both factual knowledge(knowledge about the terrain) and ability to think(predicting weather, plotting routes so that you can go up and come down with minimal risk). Power is your ability to do what you have planned(physical strength to pull it off or even your positional power over other people).
+Ultimately, there are two things which affect your ability to achieve your desires - Knowledge and Power. When I say knowledge, it includes both factual knowledge (knowledge about the terrain) and ability to think (predicting weather, plotting routes so that you can go up and come down with minimal risk). Power is your ability to do what you have planned (physical strength to pull it off or even your positional power over other people).
 
 
 
@@ -76,5 +76,8 @@ How does one’s philosophical beliefs affect this? A physicalist may stick to f
 
 
 No matter what happens, they will always find a way to justify our beliefs. Unless the probability is 0 or 1, you can justify any outcome. We do things. We tell ourselves a story about what happened there and move on with our life.
+
+
+
 
 

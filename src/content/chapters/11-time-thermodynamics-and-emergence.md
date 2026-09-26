@@ -29,7 +29,7 @@ A better way to think about it: entropy counts how many different microscopic ar
 
 
 
-Imagine a set of playing cards which are ordered based on its numbers and type. This is its macroscopic appearance - cards arranged in an order. There are a very few ways to do this(ascending, descending orders of numbers and types). But imagine the macroscopic state that the cards are in random order. There are numerous ways to jumble the cards. The latter state is more disorderly and has high entropy. The second law of thermodynamics states that systems tend to move towards a high entropy state with time, i.e the cards in random order.
+Imagine a set of playing cards which are ordered based on its numbers and type. This is its macroscopic appearance - cards arranged in an order. There are a very few ways to do this (ascending, descending orders of numbers and types). But imagine the macroscopic state that the cards are in random order. There are numerous ways to jumble the cards. The latter state is more disorderly and has high entropy. The second law of thermodynamics states that systems tend to move towards a high entropy state with time, i.e the cards in random order.
 
 But we can always arrange a set of disorderly cards in a specific order, thereby moving the system from high entropy to low entropy state. Doesn’t that go against the second law of thermodynamics? Remember that the law states that entropy increases in a closed system. So you should not see the cards in isolation. If you add the human who arranged the cards into the system, that person burns food and spends energy to arrange the cards and this energy which is spent results in more disorderliness in the system by generating heat. Though you are making the cards orderly, the process of doing so creates more disorderliness in the system. Even if you create a machine that can put back a broken egg by bringing back all the atoms in place, the machine will end up spending a lot of energy and causing more disorderliness in the system.
 
@@ -62,5 +62,8 @@ What We Cannot Know by Marcus du Sautoy
 Reality Is Not What It Seems by Carlo Rovelli
 
 The Biggest Ideas in the Universe series by Sean Carroll if you want to get a little bit deeper into the Mathematics
+
+
+
 
 

@@ -61,7 +61,7 @@ Build yourself one or pick an existing philosophical system that has a lot of br
 
 
 Just remember…..
-![Draw 25](/images/Ch13Notalie.jpg)
+![It is not a lie if you believe it](/images/Ch13Notalie.jpg)
 
 
 
@@ -72,5 +72,8 @@ Try to embrace the self-references and infinites. Build a philosophy with infini
 
 
 We have infinite possibilities in front of us. The situation may look overwhelming. But remember that your mind conceived of these possibilities. Of the four options I have listed above, no one option is better than the other option. Go for what you feel works for you. You can always change it later if it doesn’t work. That’s the best part about having infinite choices.
+
+
+
 
 

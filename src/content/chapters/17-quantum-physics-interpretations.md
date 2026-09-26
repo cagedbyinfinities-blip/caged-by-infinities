@@ -9,7 +9,7 @@ Life was simple when we just believed in classical physics. Classical physics di
 
 
 
-To remind you of what we learned in the chapter about quantum physics, unlike classical physics which allowed us to measure the state of things and predict accurately(in theory) the position and momentum of objects in time, quantum physics defined the state of particles in terms of wave functions and equations. The wave functions which describe the state of the particles evolve with time. But they don’t tell us the exact state. They only tell us the probability of what we will find when we observe the state of the particle. Two big questions arise from this:
+To remind you of what we learned in the chapter about quantum physics, unlike classical physics which allowed us to measure the state of things and predict accurately (in theory) the position and momentum of objects in time, quantum physics defined the state of particles in terms of wave functions and equations. The wave functions which describe the state of the particles evolve with time. But they don’t tell us the exact state. They only tell us the probability of what we will find when we observe the state of the particle. Two big questions arise from this:
 
 
 
@@ -38,10 +38,13 @@ The Copenhagen Interpretation states that there is no point in assigning definit
 
 
 
-This explanation(though it doesn’t really explain and just gives up) wasn’t satisfactory to many physicists who wanted a sense of understanding of reality. The other interpretation that is The Many-Worlds Interpretation gave them that. According to this interpretation, at every measurement, the universe splits into multiple universes and depending on the universe, the observed measurements differ. How is probability explained here? Why does one outcome have a higher probability over the other? It is explained by a concept called quantum amplitude. The rough idea: each branch has a number attached called its amplitude, and the square of that number gives the probability (this is called the Born rule). Why the universe should work that way is still debated - that's the 'probability problem' of many-worlds. It is a fun theory though. The multiple universe theory is a staple in many science fiction and even in superhero stories these days.
+This explanation (though it doesn’t really explain and just gives up) wasn’t satisfactory to many physicists who wanted a sense of understanding of reality. The other interpretation that is The Many-Worlds Interpretation gave them that. According to this interpretation, at every measurement, the universe splits into multiple universes and depending on the universe, the observed measurements differ. How is probability explained here? Why does one outcome have a higher probability over the other? It is explained by a concept called quantum amplitude. The rough idea: each branch has a number attached called its amplitude, and the square of that number gives the probability (this is called the Born rule). Why the universe should work that way is still debated - that's the 'probability problem' of many-worlds. It is a fun theory though. The multiple universe theory is a staple in many science fiction and even in superhero stories these days.
 
 
 
 With all these interpretations, one can see the impact of Quantum Physics on the field of Philosophy. If the Copenhagen interpretation were to be believed, then what exactly is reality? How can we believe in Physicalism if even Physics doesn’t say anything about the nature of reality? If the many-worlds theory is to be believed, it gives rise to a lot of moral questions - I may be a good person in this branch. Does that mean there are other branches where I am an evil person who uses loudspeakers in public transport? But physicalism does survive in the many-worlds theory though it leads to a lot of moral questions.
 
 ![Quantum interpretations](/images/Ch10_3Interpret.jpg)
+
+
+

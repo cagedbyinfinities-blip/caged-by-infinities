@@ -66,3 +66,6 @@ Either way, this is an interesting puzzle to ponder over, don’t you think?
 Book Recommendations
 
 Reasons and Persons by Derek Parfit
+
+
+

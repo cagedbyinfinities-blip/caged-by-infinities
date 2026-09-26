@@ -37,7 +37,7 @@ Philosophers often use the word qualia to describe our sensory experience. What 
 
 
 
-How does science explain how we sense these? Is colour, for example, a property of matter in itself or a property of how we sense it? How does science explain colour? When light waves hit an object, the object absorbs a part of the light and reflects the remaining part(depending on the wavelength of the light). This light wave of a given wave length reaches our eyes which react to this light. The cones and the nerves in the eyes react differently to different colours. Thus, the eye translates the light signals to different nervous signals which eventually reach the brain.
+How does science explain how we sense these? Is colour, for example, a property of matter in itself or a property of how we sense it? How does science explain colour? When light waves hit an object, the object absorbs a part of the light and reflects the remaining part (depending on the wavelength of the light). This light wave of a given wave length reaches our eyes which react to this light. The cones and the nerves in the eyes react differently to different colours. Thus, the eye translates the light signals to different nervous signals which eventually reach the brain.
 
 
 
@@ -149,5 +149,8 @@ I am a Strange Loop by Douglas Hofstadter
 Consciousness Explained by Daniel Dennett
 
 Note: Dennett is on the other side of this debate - he argues the hard problem is an illusion. I've included him so you hear the strongest counterargument.
+
+
+
 
 

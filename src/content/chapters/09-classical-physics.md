@@ -36,7 +36,7 @@ We all have heard of Newton’s three laws of motion, especially the third law -
 
 
 
-You put them all together, and you have a basic set of laws which allow you to predict the trajectory of objects in our day to day life. You can calculate how hard and how high you have to throw a ball, for it to land in the basket ball net. But we don’t have the time to do these calculations in a real basketball game. And even if we did, we may not be able to actually throw the ball accurately based on our calculations.
+You put them all together, and you have a basic set of laws which allow you to predict the trajectory of objects in our day-to-day life. You can calculate how hard and how high you have to throw a ball, for it to land in the basket ball net. But we don’t have the time to do these calculations in a real basketball game. And even if we did, we may not be able to actually throw the ball accurately based on our calculations.
 
 Taken further, you can calculate how hard you have to throw an object so that it never falls back on the earth. This is the calculation they use in the rockets to determine how to send it out of the Earth’s atmosphere.
 
@@ -46,7 +46,7 @@ James Clerk Maxwell came up with an equation which describes how electromagnetic
 
 
 
-This equation is one of the most important equations used in our day to day life in all the electrical appliances around us.
+This equation is one of the most important equations used in our day-to-day life in all the electrical appliances around us.
 
 ### Einstein’s Laws of Relativity
 
@@ -62,7 +62,7 @@ Forget Newton’s laws. These are also basic concepts we live by. If Einstein's 
 
 
 
-The story goes like this. If you measure the speed of an oncoming car while you are standing on a road, then you measure the speed of the same car while you are also in a car driving towards that car, the second measurement of the speed will be higher than the first measurement. The speed of any object is usually measured in relative terms. In our day to day life, we don’t normally talk about what the speed is relative to. We just say that the train was going at a speed of 80kmph. Others assume that it was measured from the perspective of someone standing next to the railway track.
+The story goes like this. If you measure the speed of an oncoming car while you are standing on a road, then you measure the speed of the same car while you are also in a car driving towards that car, the second measurement of the speed will be higher than the first measurement. The speed of any object is usually measured in relative terms. In our day-to-day life, we don’t normally talk about what the speed is relative to. We just say that the train was going at a speed of 80kmph. Others assume that it was measured from the perspective of someone standing next to the railway track.
 
 
 
@@ -70,7 +70,7 @@ But in scientific terms, it is necessary to mention what it is measured relative
 
 
 
-Going back to your story, Maxwell’s equation and Michelson Morley’s experiment showed that the speed of light is a certain huge value(299,792 km per second) usually represented as C. But what was it relative to? We just understood how speed is always measured relative to something else. It turned out that the speed of light remains constant no matter what your state of motion is when you are measuring it.
+Going back to your story, Maxwell’s equation and Michelson Morley’s experiment showed that the speed of light is a certain huge value (299,792 km per second) usually represented as C. But what was it relative to? We just understood how speed is always measured relative to something else. It turned out that the speed of light remains constant no matter what your state of motion is when you are measuring it.
 
 
 
@@ -104,7 +104,7 @@ The fact that time runs differently for different people is probably one of the 
 
 Classical physics is a vast subject and I only touched the surface of it with too many simplifications that I am not particularly proud of. But to convey my thoughts about philosophy, what we have seen now is enough. There are two major philosophical implications from classical physics.
 
-* **Determinism** - If the classical physics assumption that if we know the position and momentum of all particles in the universe, we can predict the future state is true, does it mean that the universe’s fate is pre-written? But what about free-will? We feel like we are in control of our actions. If it is all pre-determined, does it mean that free-will is an illusion?
+* **Determinism** - If the classical physics assumption that if we know the position and momentum of all particles in the universe, we can predict the future state is true, does it mean that the universe’s fate is pre-written? But what about free will? We feel like we are in control of our actions. If it is all pre-determined, does it mean that free will is an illusion?
 * **Nature of space and time** - This one is on relativity. The idea that spacetime isn’t absolute and can be bent breaks down or at least asks some difficult questions to many philosophies. For example, many religions rely on a God watching the world and affecting things in the world based on people’s actions. If time goes differently in different parts of the Universe and for different people, how does time flow for God? It’s not just Religion. Many philosophers before relativity wrote their philosophies on the fundamental assumption that space and time are absolute. Turns out they are not.
 
 
@@ -126,5 +126,8 @@ What We Cannot Know by Marcus du Sautoy
 Reality Is Not What It Seems by Carlo Rovelli
 
 The Biggest Ideas in the Universe series by Sean Carroll if you want to get a little bit deeper into the Mathematics
+
+
+
 
 

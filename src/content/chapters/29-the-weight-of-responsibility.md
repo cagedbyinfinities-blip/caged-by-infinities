@@ -22,7 +22,7 @@ Philosophers have proposed a neat test for this, called the counterfactual theor
 Now imagine that this is a pretty bad neighbourhood. Your investigation reveals another interesting fact. Around the same time the ball went that way, another neighbour threw a stone on the window. But the ball hit the window first. If the ball hadn’t hit the window, the stone would have broken it anyway. This makes the second clause, “the event E is expected not to have happened if C hadn’t happened” false if C is the act of throwing the stone. The glass window would have broken anyway.
 
 
-As you are stuck in a dilemma, you come across another fact that could change the whole direction of the investigation. The builder who built that house had promised that the window was bulletproof(remember that this is a bad neighbourhood), only for it to be broken by a ball. Is the builder’s negligence the cause? Going by our definition, the glass wouldn’t have broken if the builder did indeed use bullet-proof glass and the glass broke because it is not bullet-proof glass. So this could also be a cause.
+As you are stuck in a dilemma, you come across another fact that could change the whole direction of the investigation. The builder who built that house had promised that the window was bulletproof (remember that this is a bad neighbourhood), only for it to be broken by a ball. Is the builder’s negligence the cause? Going by our definition, the glass wouldn’t have broken if the builder did indeed use bullet-proof glass and the glass broke because it is not bullet-proof glass. So this could also be a cause.
 
 
 My point is that there could be multiple causes of the same event. Then there is the matter of causal chains. When you investigated the kids who were responsible for the ball that hit the window, they told you that someone gave them money to do so. Does this make the person who gave the kids money the cause? One could argue so.
@@ -56,16 +56,19 @@ Even if we ignore the builder, could we assign criminal responsibility to the ki
 
 
 
-Look at this from the kid’s perspective. He was offered money to break the window of the neighbour’s home. He had a choice to take the money or not take the money. If we are absolving responsibility from the kid because he is poor, does it mean that the kid could not have acted any differently in the circumstances? That would take away the free-will or agency on the part of the kid. If we want to blame it on the person who offered money to the kid, we might actually find a back-story about that person that explains why this person did such a thing. Maybe he had a bad childhood with bad parents because of which he grew up this way.
+Look at this from the kid’s perspective. He was offered money to break the window of the neighbour’s home. He had a choice to take the money or not take the money. If we are absolving responsibility from the kid because he is poor, does it mean that the kid could not have acted any differently in the circumstances? That would take away the free will or agency on the part of the kid. If we want to blame it on the person who offered money to the kid, we might actually find a back-story about that person that explains why this person did such a thing. Maybe he had a bad childhood with bad parents because of which he grew up this way.
 
 
 We could go back in the causal chain forever. Where does this even stop? Should we just blame everyone in society? For this reason, there are indeed societies which are against punishment for crimes and want to help with rehabilitation. That is not a perfect solution either. But if someone commits a crime because he knows that he won’t be punished by the society, wouldn’t society be blamed for not punishing criminals?
 
 ![Society made me do it](/images/Ch16society.jpg)
 
-If we take a different approach and assign blame on the kid as the kid has free-will and agency, consider a different situation. Instead of being offered money, assume that he was made to do this with a gun on his head. What happens now? Is it fair to assign responsibility to the kid? Most of us would say no. When do we assign responsibility to the person who was the immediate cause of the event and when do we pass the responsibility to others who made this person do it? And if we go into mental health issues and crime, we have much bigger problems to grapple with.
+If we take a different approach and assign blame on the kid as the kid has free will and agency, consider a different situation. Instead of being offered money, assume that he was made to do this with a gun on his head. What happens now? Is it fair to assign responsibility to the kid? Most of us would say no. When do we assign responsibility to the person who was the immediate cause of the event and when do we pass the responsibility to others who made this person do it? And if we go into mental health issues and crime, we have much bigger problems to grapple with.
 
 
 Assigning responsibility is probably more difficult than assigning cause. And responsibility is only half the story - even once we've decided who is responsible, we still have to decide what they ought to have done. That's the next chapter.
+
+
+
 
 

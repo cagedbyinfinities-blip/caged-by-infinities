@@ -9,7 +9,7 @@ I hope you enjoyed the quick detour to see how far science has progressed. It is
 
 
 
-What is Physicalism? It is a philosophy that is built on the ontological claim that everything that exists is ultimately physical. Everything about reality is ultimately just physical. This means that both the subject(our selves) and the objects(the world) are just physical. This is one of the most widely accepted philosophies among the scientists though there are some skeptics among the scientists too.
+What is Physicalism? It is a philosophy that is built on the ontological claim that everything that exists is ultimately physical. Everything about reality is ultimately just physical. This means that both the subject (our selves) and the objects (the world) are just physical. This is one of the most widely accepted philosophies among the scientists though there are some skeptics among the scientists too.
 
 
 
@@ -36,7 +36,7 @@ Another way is to stick with partial acceptance of the scientific framework to e
 
 
 
-We will discuss them in detail in another chapter. For now, let’s focus on physicalism. Physicalism is a type of “monism”. Monist philosophies tend to explain everything based on one single fundamental entity. There are also other types of monism like idealism(everything is mental), neutral monism, Advaita(an Indian Philosophy). Physicalism says that the single fundamental entity is the physical world and there is nothing outside of it.
+We will discuss them in detail in another chapter. For now, let’s focus on physicalism. Physicalism is a type of “monism”. Monist philosophies tend to explain everything based on one single fundamental entity. There are also other types of monism like idealism (everything is mental), neutral monism, Advaita (an Indian Philosophy). Physicalism says that the single fundamental entity is the physical world and there is nothing outside of it.
 
 ![They are the same](/images/Ch9Same.jpg)
 
@@ -90,10 +90,13 @@ Physics and Philosophy by Werner Heisenberg
 
 10. Criticism Against Physicalism
 
-We already saw the gaps in science in a previous chapter. Scientists could argue that there is no reason to believe that these knowledge gaps will not be filled up in the future. At the very least, we can still use the dogmatic proof of a Münchhausen trilemma to ensure that all the boundaries are covered. For example, we could just assume that the Standard Model(of particle physics) is the ultimate theory of the small and move on with our lives without worrying about the existence of things smaller than the particles in that model while research can still continue to look into what happens inside the fundamental particles. It is not the end of the world.
+We already saw the gaps in science in a previous chapter. Scientists could argue that there is no reason to believe that these knowledge gaps will not be filled up in the future. At the very least, we can still use the dogmatic proof of a Münchhausen trilemma to ensure that all the boundaries are covered. For example, we could just assume that the Standard Model (of particle physics) is the ultimate theory of the small and move on with our lives without worrying about the existence of things smaller than the particles in that model while research can still continue to look into what happens inside the fundamental particles. It is not the end of the world.
 
 
 
 But there is criticism against the foundation of physicalism, like consistency issues and paradoxes. Remember that the rules of logical consistency and inferences are the foundation of any system that we build. In the next 3 chapters, we explore the criticism levelled against the foundations of physicalism.
+
+
+
 
 

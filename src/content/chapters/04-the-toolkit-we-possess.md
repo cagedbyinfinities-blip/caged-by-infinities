@@ -19,7 +19,7 @@ This is the knowledge we gain through our senses, from our experience. In philos
 
 
 
-Depending on the proposed ontology, your dreams and hallucinations themselves may be real or not real. In our day to day life, we consider dreams as unreal. That’s because we live our day-to-day life assuming that there is a real objective world out there. That is an Ontology in itself. And in this Ontology, dreams aren’t real. But what if the whole experience of what we call this “real world” is a dream? Why would one dream be more real than another dream? Don’t scoff at this. This is why I asked you to keep an open mind in the last chapter. There is going to be more of it.
+Depending on the proposed ontology, your dreams and hallucinations themselves may be real or not real. In our day-to-day life, we consider dreams as unreal. That’s because we live our day-to-day life assuming that there is a real objective world out there. That is an Ontology in itself. And in this Ontology, dreams aren’t real. But what if the whole experience of what we call this “real world” is a dream? Why would one dream be more real than another dream? Don’t scoff at this. This is why I asked you to keep an open mind in the last chapter. There is going to be more of it.
 
 
 
@@ -110,5 +110,8 @@ The Encyclopedia Logic by G.W.F Hegel
 An Enquiry Concerning Human Understanding by David Hume
 
 Both are about rationalism. I don’t have any books to recommend about empiricism. Just stay awake and experience the world and you are good.
+
+
+
 
 

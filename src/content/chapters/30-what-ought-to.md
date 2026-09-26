@@ -101,3 +101,6 @@ As with the philosophy about reality, you are free to pick a moral philosophy.
 - On the Genealogy of Morals by Friedrich Nietzsche
 - Beyond Good and Evil by Friedrich Nietzsche
 - The Iliad by Homer
+
+
+

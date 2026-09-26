@@ -47,3 +47,6 @@ When you let the infinite possibilities overwhelm you, those infinities feel lik
 
 ![Caged by infinities](/images/Ch20Caged.jpg)
 
+
+
+

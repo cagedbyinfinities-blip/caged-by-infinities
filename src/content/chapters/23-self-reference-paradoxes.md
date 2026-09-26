@@ -46,7 +46,7 @@ This is a mathematical theorem that was derived by Tarski which can be considere
 
 
 
-The theorem technically requires the language to handle basic arithmetic - the why is a technical detail we don't need here. All that matters for us is: if a language is expressive enough to talk about numbers, it can't define its own truth without breaking. The idea is that if you are building a language, you cannot define truth in that language. You must build a Meta Language to define truth in that language. Let us assume that English passes the basic arithmetic test(According to Tarski, it doesn’t). To define if a statement in English is true, you have to create a new meta language Alienese that talks about English. But what is true in Alienese? You create another meta language to define truth in Alienese.
+The theorem technically requires the language to handle basic arithmetic - the why is a technical detail we don't need here. All that matters for us is: if a language is expressive enough to talk about numbers, it can't define its own truth without breaking. The idea is that if you are building a language, you cannot define truth in that language. You must build a Meta Language to define truth in that language. Let us assume that English passes the basic arithmetic test (According to Tarski, it doesn’t). To define if a statement in English is true, you have to create a new meta language Alienese that talks about English. But what is true in Alienese? You create another meta language to define truth in Alienese.
 
 Tarski’s proof uses the liar paradox. He takes a language that supports basic arithmetic. He assumes that one can define truth in that language. Based on the assumption, he creates a statement that says, “This statement is not true”. But this breaks consistency, as it is the liar’s paradox. Hence, the only way to define truth is by using a Meta language.
 
@@ -106,7 +106,7 @@ Russell’s paradox is the mathematical version of the same thing. If the set be
 
 ### Cantor’s paradox
 
-This is also very similar to Russell’s paradox. While Russell asks if we can create a set with all sets which do not contain themselves, Cantor asks if there is a set that contains all sets? No, according to Cantor's theorem which states that for any set S, there is a power set P(which is a set of all subsets of S) which is bigger than S.
+This is also very similar to Russell’s paradox. While Russell asks if we can create a set with all sets which do not contain themselves, Cantor asks if there is a set that contains all sets? No, according to Cantor's theorem which states that for any set S, there is a power set P (which is a set of all subsets of S) which is bigger than S.
 
 
 
@@ -125,5 +125,8 @@ Many philosophers consider the philosophy of mind or the hard problem of conscio
 * Gödel, Escher, Bach: an Eternal Golden Braid by Douglas Hofstadter
 * I am a Strange Loop by Douglas Hofstadter
 * Infinity and the Mind by Rudy Rucker
+
+
+
 
 

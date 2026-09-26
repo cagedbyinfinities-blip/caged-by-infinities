@@ -68,7 +68,7 @@ And this is why I hate many debates:
 
 I hope you're as frustrated with modern political discourse as I am. For most people, this seems to be their ideology:
 
-![Auth](/images/Ch18Auth.jpg)
+![We all want to be authoritarian](/images/Ch18Auth.jpg)
 
 
 
@@ -77,5 +77,8 @@ I hope you're as frustrated with modern political discourse as I am. For most pe
 * The Righteous Mind by Jonathan Haidt
 * Does the Center Hold? By Donald Palmer
 The Worldly Philosophers: The Lives, Times, and Ideas of the Great Economic Thinkers by Robert L Heilbroner
+
+
+
 
 

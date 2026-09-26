@@ -52,3 +52,6 @@ Lastly, there is the topic of God or the Absolute that we discussed in the last 
 There are numerous things in our day-to-day life where the objectivity-subjectivity problem comes up though we never address it directly. Philosophers, on the other hand, like a good fight over it.
 
 ![Subjective good](/images/Ch12_6Subjective.jpg)
+
+
+

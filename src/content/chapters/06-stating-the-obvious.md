@@ -5,7 +5,7 @@ description: "6. Stating The Obvious"
 order: 6
 ---
 
-Where are we now? We are trying to answer the What Is? question. We want to explain the subject(the self/mind), the object(the world) and the nature of knowledge, put together as ontology and epistemology. We walked through the potential types of knowledge. We started with a clean slate. What have we built so far?
+Where are we now? We are trying to answer the What Is? question. We want to explain the subject (the self/mind), the object (the world) and the nature of knowledge, put together as ontology and epistemology. We walked through the potential types of knowledge. We started with a clean slate. What have we built so far?
 
 
 
@@ -13,7 +13,7 @@ We now have a system named **The Informal Philosophical System** that one can us
 
 
 
-We have a foundation and we are going to build on that. Let us add our first statements to the system. We begin by taking some very obvious assumptions we make in our day to day life and add them to our system. These are assumptions we make in our real life without really having any direct empirical evidence. But the patterns we have seen in the world for years since we were born means we take them for granted. We don’t dare question these assumptions. There are two main ones. These assumptions fit as Brute statements in our system:
+We have a foundation and we are going to build on that. Let us add our first statements to the system. We begin by taking some very obvious assumptions we make in our day-to-day life and add them to our system. These are assumptions we make in our real life without really having any direct empirical evidence. But the patterns we have seen in the world for years since we were born means we take them for granted. We don’t dare question these assumptions. There are two main ones. These assumptions fit as Brute statements in our system:
 
 
 
@@ -33,7 +33,7 @@ Isn’t this just too obvious? Why is it a brute statement? Remember, we started
 
 
 
-If it may not be true, why do we feel sure that it is true? This is the result of our day to day experience. The world around us seems to have certain patterns and follow certain rules and we are good at seeing those patterns. I see a ball rolling about 5 metres away from me. I look away. Then I look at it again to find it about 10 metres away from me as it keeps rolling. My immediate assumption is that the ball has been rolling even when I was not looking. That part of the world existed and functioned when I was not looking. An objective world most probably exists. It is a fair conclusion to arrive at. But it is not a proven truth based on other statements. So we treat this as a brute statement we start with.
+If it may not be true, why do we feel sure that it is true? This is the result of our day-to-day experience. The world around us seems to have certain patterns and follow certain rules and we are good at seeing those patterns. I see a ball rolling about 5 metres away from me. I look away. Then I look at it again to find it about 10 metres away from me as it keeps rolling. My immediate assumption is that the ball has been rolling even when I was not looking. That part of the world existed and functioned when I was not looking. An objective world most probably exists. It is a fair conclusion to arrive at. But it is not a proven truth based on other statements. So we treat this as a brute statement we start with.
 
 ### Other minds
 
@@ -49,7 +49,7 @@ Don’t get ready to refer me to a mental hospital. At least not yet. If it is h
 
 
 
-Like the objective world assumption, it is easy to understand why we make this assumption. Being a solipsist is a sure-shot way to be considered crazy by the society. Maybe that’s the plan after all. Maybe the world is just a prison for you, the people you see around you are zombies(aka Philosophical Zombies) who don’t have a mind like you but you are forced to accept that they all have minds because not doing so will mean you will be treated as someone who's lost their mind by those zombies.
+Like the objective world assumption, it is easy to understand why we make this assumption. Being a solipsist is a sure-shot way to be considered crazy by the society. Maybe that’s the plan after all. Maybe the world is just a prison for you, the people you see around you are zombies (aka Philosophical Zombies) who don’t have a mind like you but you are forced to accept that they all have minds because not doing so will mean you will be treated as someone who's lost their mind by those zombies.
 
 
 
@@ -65,7 +65,7 @@ Philosophy of mind, including the hard problem of consciousness, is a vast topic
 
 
 
-These are the two brute assumptions we make about reality in our day to day life. Now let us move on to expand our system using science.
+These are the two brute assumptions we make about reality in our day-to-day life. Now let us move on to expand our system using science.
 
 
 
@@ -82,5 +82,8 @@ Putting them all together, this is The layman’s philosophical system so far.
 
 
 This is not a complete system as it doesn’t fully explain the nature of knowledge and reality. But it is a good start.
+
+
+
 
 
