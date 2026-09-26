@@ -9,15 +9,15 @@ To tackle the What Is? question about the nature of reality, we need to find the
 
 
 
-Let us start with a clean slate, Tabula Rasa, a Latin term which was popularised by John Locke. John Locke used it as a metaphor to a newly born human’s mind. His point was that humans are born without any kind of in-built knowledge and learn as we observe the world, unlike other philosophers who claim that humans have some knowledge that is independent of what we learn from the world.
+Let us start with a clean slate, Tabula Rasa, a Latin term which was popularised by John Locke. John Locke used it as a metaphor to a newly born human’s mind. His point was that humans are born without any kind of in-built knowledge and learn as we observe the world, unlike the rationalists (Descartes, Leibniz), who argued that some knowledge is innate.
 
 
 
-I am not going to dive deep into that debate. I used Tabula Rasa as a metaphor for how we should start thinking about the problem - try your best to forget everything you have learned over your life and start thinking with a clean slate. This is similar to the path which René Descartes took with his meditations. He wanted to find one thing which can be absolutely sure that it exists. He came up with “I think, therefore I am.” His argument was that as he is the one who was thinking, his existence is of absolute certainty. Now the meaning of this “I” is itself an interesting philosophical debate. But let us leave that aside for now. He started from there and then tried to find more “truths” following that statement.
+I am not going to dive deep into that debate. I used Tabula Rasa as a metaphor for how we should start thinking about the problem - try your best to forget everything you have learned over your life and start thinking with a clean slate. This is similar to the path which René Descartes took with his meditations. He wanted to find one thing whose existence he could be absolutely sure of. He came up with “I think, therefore I am.” His argument was that as he is the one who was thinking, his existence is of absolute certainty. Now the meaning of this “I” is itself an interesting philosophical debate. But let us leave that aside for now. He started from there and then tried to find more “truths” following that statement.
 
 
 
-Similarly. I want you, the reader, to empty your mind of all the assumptions you have made in your life and start with only the absolute truths you are sure about. Though our starting point is similar to Descartes’s, the goal is different. Descartes wanted to build an entire philosophical framework. Our goal is just to find the components of our experience we will have to explain in order to answer the What Is? question. I have written my thought process in a first person perspective. Hope you can read it from your perspective. Here it goes:
+Similarly, I want you, the reader, to empty your mind of all the assumptions you have made in your life and start with only the absolute truths you are sure about. Though our starting point is similar to Descartes’s, the goal is different. Descartes wanted to build an entire philosophical framework. Our goal is just to find the components of our experience we will have to explain in order to answer the What Is? question. I have written my thought process in a first person perspective. Hope you can read it from your perspective. Here it goes:
 
 
 
@@ -56,15 +56,15 @@ Academic philosophy splits the whole What Is? question into two topics:
 
 
 
-To explain with examples, Ontology would say that the universe sits on the top of a turtle or the universe is nothing but a simulation inside a Matrix. Epistemology might say that only the knowledge we gain from scientific experiments is true knowledge but if your neighbour tells something, you can’t trust it to be true. Note that the subject and the object are both part of Ontology. Only the act of knowing is part of Epistemology.
+To explain with examples, Ontology would say that the universe sits on top of a turtle or the universe is nothing but a simulation inside a Matrix. Epistemology might say that only the knowledge we gain from scientific experiments is true knowledge but if your neighbour tells something, you can’t trust it to be true. Note that the subject and the object are both part of Ontology. Only the act of knowing is part of Epistemology.
 
 
 
-At this point, I have to point out the circular nature of epistemology/ontology. As I said above, Ontology is the study of the nature of reality. How would you know the nature of reality? Through Knowledge. Epistemology is the study of the nature of knowledge. How do you know if a particular type of knowledge is true? Based on the nature of reality. If you are hooked on a Virtual Reality headset, what you know about the nature of reality(that you are living in a world from which you are hooked on a VR headset) tells you that what you perceive in the VR headset isn’t the truth and is not a valid form of knowledge.
+At this point, I have to point out the circular nature of epistemology/ontology. As I said above, Ontology is the study of the nature of reality. How would you know the nature of reality? Through Knowledge. Epistemology is the study of the nature of knowledge. How do you know if a particular type of knowledge is true? Based on the nature of reality. If you are hooked on a Virtual Reality headset, what you know about the nature of reality(that you are living in a world in which you are hooked up to a VR headset) tells you that what you perceive in the VR headset isn’t the truth and is not a valid form of knowledge.
 
 
 
-So, you need to know the reality to validate the knowledge. And you need to know the validity of your knowledge to make statements about reality. How do you know for sure that you are indeed from a different world and what you are experiencing is just a virtual reality? This is a classic circular dependency. Great place to start philosophy, isn’t it? In practice, most philosophies dealing with the What Is? questions come in pairs of Ontology and Epistemology. The challenge is to make sure that the relationship between the nature of reality and how you gain knowledge in this reality is consistent and aren’t contradicting one another.
+So, you need to know the reality to validate the knowledge. And you need to know the validity of your knowledge to make statements about reality. How do you know for sure that you are indeed from a different world and what you are experiencing is just a virtual reality? This is a classic circular dependency. Great place to start philosophy, isn’t it? In practice, most philosophies dealing with the What Is? questions come in pairs of Ontology and Epistemology. The challenge is to make sure that the relationship between the nature of reality and how you gain knowledge in this reality is consistent and don't contradict one another.
 
 
 
@@ -96,7 +96,7 @@ Before we finish, I will also quickly point out another circular reference. I sa
 
 
 
-Before we dive deeper, I would like to ask you to keep an open mind. Start with a clean slate as I mentioned in the start of this chapter and get rid of all the assumptions we have made in our lives so far. Many philosophies may sound outright stupid but you may not be able to prove it wrong. That is what makes it fun.
+Before we dive deeper, I would like to ask you to keep an open mind. Start with a clean slate as I mentioned in the start of this chapter and get rid of all the assumptions we have made in our lives so far. Many philosophies may sound outright stupid but you may not be able to prove them wrong. That is what makes it fun.
 
 
 

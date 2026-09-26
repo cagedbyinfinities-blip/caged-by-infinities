@@ -21,15 +21,15 @@ Then there are those rare days when we stop and ask ourselves the question - Why
 
 
 
-In spite of the fact that we humans tend to hit the TV remotes on their heads when they stop working, we pride ourselves on being rational creatures. So it is unsurprising that we ask such questions. After all, asking the Why question is what makes us rational creatures. We have a tendency to look for reasons why things happened.
+In spite of the fact that we humans tend to smack the top of the TV remote with our hands when it stops working, we pride ourselves on being rational creatures. So it is unsurprising that we ask such questions. After all, asking the Why question is what makes us rational creatures. We have a tendency to look for reasons why things happened.
 
 
 
-When we ask ourselves serious questions about the world, life and existence, we usually tell ourselves a simplistic answer which would not withstand a serious debate. If the answers were that simple, we wouldn’t have philosophers argue about it over millennia and still not agree on a single issue.
+When we ask ourselves serious questions about the world, life and existence, we usually tell ourselves a simplistic answer which would not withstand a serious debate. If the answers were that simple, we wouldn’t have philosophers argue about it over millennia and still haven't agreed on the big questions.
 
 
 
-In a way, finding a simple answer and going on with our lives is probably good for us. Darwinians might find an evolutionary explanation for this too. Trying to dig deeper would eventually expose us to the baseless assumptions on which the entire foundation of our lives and belief systems is built. Questioning those assumptions will get in the way of spreading our genes. But more importantly, questioning these assumptions will destroy the foundation of all the values in our lives. While some take this as a challenge and get joy out of it, others may struggle handling this existential and moral crisis. There are quite a few philosophers who struggled with mental health issues, while a few of them went outright mad.
+In a way, finding a simple answer and going on with our lives is probably good for us. Darwinians might find an evolutionary explanation for this too. Trying to dig deeper would eventually expose us to the baseless assumptions on which the entire foundation of our lives and belief systems is built. Questioning those assumptions will get in the way of spreading our genes. But more importantly, questioning these assumptions will destroy the foundation of all the values in our lives. While some take this as a challenge and get joy out of it, others may struggle handling this existential and moral crisis. There are quite a few philosophers who struggled with mental health issues, while a few of them suffered serious mental breakdowns.
 
 
 

@@ -13,7 +13,7 @@ Why is that car parked upside down? Because it lost control and went off the roa
 
 
 
-Why are roses red in colour? Because they are made of molecules which absorb light and primarily emit light of red colour wavelength.
+Why are roses red in colour? Because they are made of molecules which absorb other wavelengths and reflect light of red wavelength.
 
 
 
@@ -33,11 +33,11 @@ As you can see, the different why questions have different answers. In the case 
 
 
 
-What is the common thread across all the answers to the why questions? The answer always gives some information or knowledge based on which we can infer the predicate of the why question. When someone buys too many lemons, we don’t have enough information to know why. The moment he says that he wants to drink lemon juice every day, we can infer that he wants a lot of lemons.
+What is the common thread across all the answers to the why questions? The answer always gives some information or knowledge based on which we can infer the answer the question was after. When someone buys too many lemons, we don’t have enough information to know why. The moment he says that he wants to drink lemon juice every day, we can infer that he wants a lot of lemons.
 
 
 
-Now, the why question doesn’t stop there. I can ask him why he wants to drink lemon juice every day. He then tells me about a health article that he read about the benefits of drinking lemon juice every day. I can ask again, why the health article says it is healthy. He might explain the presence of Vitamin C in lemons that gives us health benefits. I can test this person’s patience by asking why again. At this point, he will ask me to do one. But anyway, you see what I am getting at?
+Now, the why question doesn’t stop there. I can ask him why he wants to drink lemon juice every day. He then tells me about a health article that he read about the benefits of drinking lemon juice every day. I can ask again, why the health article says it is healthy. He might explain the presence of Vitamin C in lemons that gives us health benefits. I can test this person’s patience by asking why again. At this point, he will ask me to get lost. But anyway, you see what I am getting at?
 
 
 
@@ -49,11 +49,11 @@ Philosophy doesn’t ask the why question on such mundane things. It usually ask
 
 
 
-It is an earnest wish to learn more about reality. How did we find ourselves in this world? Why are we experiencing time and space this way? Is the sequence of the big bang, an expanding universe, a galaxy, a star, a planet, life and evolution all there is? Is there a God? Is there something else? Is this all a dream? Are we in the Matrix while our real bodies are locked in a pod with tubes attached to us in awkward positions? These are one kind of questions philosophers try to answer. It would make things more precise, if we replace the why question with the What Is? question. This questions the nature of reality and existence.
+It is an earnest wish to learn more about reality. How did we find ourselves in this world? Why are we experiencing time and space this way? Is the sequence of the big bang, an expanding universe, a galaxy, a star, a planet, life and evolution all there is? Is there a God? Is there something else? Is this all a dream? Are we in the Matrix while our real bodies are locked in a pod with tubes attached to us in awkward positions? These are the kind of questions philosophers try to answer. It would make things more precise, if we replace the why question with the What Is? question. This questions the nature of reality and existence.
 
 
 
-Because we humans are capable of thinking and acting, at least sometimes, there is another kind of question philosophers ponder over - What Ought To? This is the field of philosophy that focuses on what humans are supposed to do. What is the purpose of life? What are the moral values we should take? Even political and economic theories emerge from these studies.
+Because we humans are capable of thinking and acting, at least sometimes, there is another kind of question philosophers ponder over - What Ought To? This is the field of philosophy that focuses on what humans are supposed to do. What is the purpose of life? What are the moral values we should live by? Even political and economic theories emerge from these studies.
 
 
 
@@ -69,7 +69,7 @@ Answer 1: Because I have seen the pictures and the brain cells and nerve cells i
 
 
 
-Answer 2: Because humans need to have purpose and ambitions. And my ambition is to climb that mountain. What doesn’t kill you makes you stronger.
+Answer 2: Because humans need to have purpose and ambitions. And my ambition is to climb that mountain. What doesn’t kill you makes you stronger, as Nietzsche put it.
 
 
 
@@ -77,7 +77,7 @@ The first answer explains it in biological terms which is primarily related to t
 
 
 
-Some philosophers argue that the What Is? question is the ultimate question and what ought to and many other questions are downstream to the What Is? question. But other philosophers respond by pointing out that humans will never find answers to the What Is? question and hence we should try to find answers for what ought to question irrespective of the answer to the What Is? question.
+Some philosophers argue that the What Is? question is the ultimate question and what ought to and many other questions are downstream of the What Is? question. But other philosophers respond by pointing out that humans will never find answers to the What Is? question and hence we should try to find answers for what ought to question irrespective of the answer to the What Is? question.
 
 
 
