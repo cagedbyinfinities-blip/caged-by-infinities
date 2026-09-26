@@ -121,7 +121,7 @@ Nature of space and time - This one is on relativity. The idea that spacetime is
 
 The Feynman Lectures by Richard Feynman
 
-The Fabric of Cosmos by Brian Greene
+The Fabric of the Cosmos by Brian Greene
 
 A Brief History of Time by Stephen Hawking
 

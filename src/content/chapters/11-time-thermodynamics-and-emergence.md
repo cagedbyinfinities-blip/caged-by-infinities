@@ -45,7 +45,7 @@ One popular philosophical debate on emergence is weak emergence vs strong emerge
 
 The Feynman Lectures by Richard Feynman
 
-The Fabric of Cosmos by Brian Greene
+The Fabric of the Cosmos by Brian Greene
 
 A Brief History of Time by Stephen Hawking
 
