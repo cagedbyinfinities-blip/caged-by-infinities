@@ -53,8 +53,9 @@ Depending on your answer, there are a lot of moral and legal implications. In th
 
 
 
-A physicalist could just put up their hand and say that the concept of unique identity is an illusion in the world of physicalism. If the world does reach a situation where we clone or teleport people like this, we just need to come up with a new moral and legal framework to work around the problems. And it is a totally reasonable answer.
+A physicalist could just put up their hand and say that the concept of unique identity is an illusion in the world of physicalism. If the world does reach a situation where we clone or teleport people like this, we just need to come up with a new moral and legal framework to work around the problems. And it is a totally reasonable answer. A question has to be asked - Is it even possible to clone humans accurately?
 
+![Cristiano Ronaldo](/images/Ch12_3Ronaldo.jpg)
 
 
 A dualist, an idealist or a theist on the other hand can either say that the clone is a different person, the clone is not even a human or that they don’t know. Either way, these philosophies don’t rely on empirical verification on matters of mind, like physicalism does. They claim that the mind or soul is an entity outside of the physical world. Claiming that the clone is the same person would be difficult to explain as it leads to questions around how this single mental entity could attach to multiple physical bodies just when the body is cloned but not otherwise.
