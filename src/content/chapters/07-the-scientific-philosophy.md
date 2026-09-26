@@ -26,6 +26,7 @@ We also add one Brute statement to the system.
 
 ### Predictions and Falsifiability
 
+![Draw 25](/images/Ch7draw25.jpg)
 
 
 This is what makes a scientific law different from any random statement and makes science so powerful compared to the other methods we have to understand reality. Newton came up with the law of Gravitation. It wouldn’t have become a scientific law if there was no way to verify if it was true. The law stated exactly how planets would move around the sun. Those are verifiable predictions and falsifiable. We could observe the planets and if there were any discrepancies, we would have considered Newton’s law of Gravitation to be false. If one fine day, Mars decides to move in a zig-zag path like it’s drunk, we would have stated that Newton's law of gravitation is wrong, unless we have some other explanation.

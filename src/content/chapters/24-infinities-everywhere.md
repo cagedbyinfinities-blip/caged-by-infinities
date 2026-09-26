@@ -59,7 +59,7 @@ Now, what happens when the mind thinks about itself? Imagine a room that has its
 
 Practically speaking, the picture obviously stops the infinite regress at some point as the size of the picture within the picture gets smaller and smaller. But theoretically, whether there can be a picture that shows an infinite regression of the picture within the picture depends on whether matter is infinitely divisible or not. If matter can be infinitely divisible, then some entity that is capable of breaking matter to smaller and smaller parts an infinite number of times could theoretically make the picture with real infinite regression.
 
-
+![mental self loop](/images/Ch12_5MentalInf.gif)
 
 What about the mental image of itself? If the mind is physical, like physicalists claim, then the argument for whether the mind’s reference to itself is an infinite regression depends on whether you believe matter is infinitely divisible, just like the case with the picture.
 
