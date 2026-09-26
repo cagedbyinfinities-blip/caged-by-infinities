@@ -1,4 +1,5 @@
----
+\---
+
 title: "12.5 Infinities Everywhere"
 description: "12.5 Infinities Everywhere"
 order: 24
@@ -12,7 +13,7 @@ Let us start with a fun paradox. Let’s say you have to travel 2 km. To do so, 
 
 1 + ½ + ¼ + ⅛ +..... = 2
 
-Thus you get the 2km though you are walking an infinite distance.
+Thus you reach the 2km mark, even though we divided the journey into infinitely many steps. The distance is finite; it's the number of divisions that's infinite.
 
 ### Infinite reasoning
 
@@ -42,7 +43,7 @@ The other situation where we came across infinities is when we discussed the Gap
 
 Maybe real physical infinities exist but humans are incapable of grasping them. Maybe they don’t exist and what you see is what you get. We may never be able to find answers to these questions.
 
-Sometimes, we try to differentiate Actual Infinity and Potential Infinity. Actual infinity is just that - Either space or time is really infinite. Potential infinity means that even if an entity could be infinite, there is no way for us to reach it because of the limitations of the human mind.
+Philosophers sometimes distinguish potential infinity from actual infinity. Potential infinity is an unending process — no matter how far you count, you can always count one more, but you never hold the whole infinite collection. Actual infinity is the idea of a completed infinite totality — like Cantor's set of all natural numbers treated as a single finished object. Whether actual infinities exist (in physics, in the mind, or anywhere) is the controversial part.
 
 ### Mental infinities
 
@@ -56,11 +57,12 @@ To answer the question, let us take the list of all natural numbers. We consider
 
 How about this? We just imagine all natural numbers using their mathematical description - N is a set. It has 1. And for any number x, in the set, it also has x+1. This uses the principle of mathematical induction. The set has 1. Because it needs to have x+1 for any number x, it has 2 and because it has 2, it also has 3, and so on.
 
-If we just visualise this rules-based description, aren’t we practically holding an infinite set in our mind? There is one problem here. The description we have here can also be used to describe other sets and hence this description is not unique to just a set of all natural numbers. The details of how to find that set is a bit technical. But Thoralf Skolem showed that any finite description of the set of all natural numbers one comes up with, there will be a different set N* that also fits the same description. This doesn’t prove that infinite thoughts are impossible. They may still be possible, but they may not be unique.
+If we just visualise this rules-based description, aren’t we practically holding an infinite set in our mind? There is one problem here. The description we have here can also be used to describe other sets and hence this description is not unique to just a set of all natural numbers. The details of how to find that set is a bit technical. But Thoralf Skolem showed something unsettling: any precise formal description of the natural numbers (in the kind of logic mathematicians use) also fits some other, weird set N\* that isn't quite the natural numbers. So even our best formal description doesn't pin down the natural numbers uniquely. This doesn’t prove that infinite thoughts are impossible. They may still be possible, but they may not be unique.
 
 Now, what happens when the mind thinks about itself? Imagine a room that has its picture hanging on the wall. There is a small twist. The picture also shows the wall with the picture that is hanging on the wall. Now that picture also shows the wall with the picture hanging on the wall and so on.
 
 Practically speaking, the picture obviously stops the infinite regress at some point as the size of the picture within the picture gets smaller and smaller. But theoretically, whether there can be a picture that shows an infinite regression of the picture within the picture depends on whether matter is infinitely divisible or not. If matter can be infinitely divisible, then some entity that is capable of breaking matter to smaller and smaller parts an infinite number of times could theoretically make the picture with real infinite regression.
+
 
 
 What about the mental image of itself? If the mind is physical, like physicalists claim, then the argument for whether the mind’s reference to itself is an infinite regression depends on whether you believe matter is infinitely divisible, just like the case with the picture.
@@ -72,34 +74,43 @@ But what if the mind is not physical? There are two ways to look at this. “A m
 We saw how the physical entities, mental entities and our mind itself could be either infinite or not. What about the other entity that is proposed by different philosophies?
 
 
+
 If you skip the religious philosophies which have personal Gods, interestingly, you can find many philosophies that describe God in terms of infinities. Below is the quote by Thomas Aquinas:
+
 
 
 Since therefore the divine being is not a being received in anything, but He is His own subsistent being... it is clear that God Himself is limitless and perfect.
 
 
+
 St. Augustine in The City of God:
+
 
 
 And thus, if everything which is comprehended is defined or made finite by the comprehension of him who knows it, then all infinity is in some ineffable way made finite to God
 
 
+
 Below is a quote from Taittiriya Upanishad, part of important scriptures of Indian philosophy:
+
 
 
 Brahman is Truth, Knowledge, Infinite.
 
 
+
 As you have seen above, many philosophers tend to define God in terms of infinity. If we assume that God is infinite, does it have any consequences on physical and mental infinities? To understand that, let us look at the Mathematical framework of infinities built by Cantor.
+
 
 
 Cantor showed that unlike the belief of many that all infinities are the same, there is actually a hierarchy of infinities. He categorised them into transfinities and absolute infinity. Transfinities can be calculated and placed in sets. Physical and mental infinities fall under the category of transfinities. The absolute infinity cannot be treated as a set and leads to paradoxes if we tried to. This is the Cantor’s paradox we talked about in the previous chapter.
 
 
 
-A God who is infinite should be an absolute infinity in Cantor’s framework. What is the consequence of assuming that God exists and is the absolute infinity or just that absolute infinity exists? According to the Reflection Principle, any conceivable property of this Absolute infinity set is also a property of some other set. I won’t get into the proof or further mathematical details. But the consequence is that because we can conceive an infinite nature of the absolute, it becomes a conceivable property and hence it must be part of other sets, according to the Reflection principle. In this case, mental infinities must exist.
+A God who is infinite should be an absolute infinity in Cantor’s framework. What is the consequence of assuming that God exists and is the absolute infinity or just that absolute infinity exists? One could argue it like this: the Reflection Principle says that any property of the Absolute shows up somewhere smaller too. If we grant that the Absolute is infinite — and infinity is a conceivable property — then infinity must show up somewhere short of the Absolute as well. The mind, which can conceive of infinity, is a natural candidate. On this line of thought, if an Absolute Infinity exists, mental infinity comes along with it.
 
 Also, because God is the absolute infinity of all infinities, you can’t use rational thinking to reach God. Mathematics doesn’t allow you to do that. This is where mysticism comes into picture. Mystics say that you can reach God through mystic practices.
+
 
 
 Putting them all together:
@@ -129,8 +140,8 @@ Mental infinity must exist
 You cannot reach this God by rational thinking. Mystics suggest different paths to reach such a God.
 
 
+
 Book recommendations
 
 Infinity and the Mind by Rudy Rucker
-
 

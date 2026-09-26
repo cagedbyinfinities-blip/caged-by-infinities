@@ -1,4 +1,5 @@
----
+\---
+
 title: "12.4 Self Reference Paradoxes"
 description: "12.4 Self Reference Paradoxes"
 order: 23
@@ -7,11 +8,13 @@ order: 23
 I used to think that the brain was the most wonderful organ in my body. Then I realized who was telling me this. - Emo Philips
 
 
+
 Self-reference statements are fun to play around with. But there are also serious philosophical implications to these kinds of statements. Mathematicians and philosophers have been wrestling with this problem for centuries now. Let us go over some of the most popular self-reference paradoxes.
 
 ### Liar’s paradox
 
 Let’s start with the simple one.
+
 
 
 This statement is a lie.
@@ -23,52 +26,63 @@ Everything I say is a lie.
 All statements are subjective. There is no objective truth.
 
 
+
 All the above statements have something in common. They all tell something about the statement itself either directly or indirectly. They all say that the statement is not true. Now you ask a question - Are these statements true or false?
+
 
 
 Take the first statement - This statement is a lie. If the statement is true, then the content of the statement must be true. But the content of the statement says that the statement is a lie, which is contradictory to our view that the statement is true.
 
-If the statement is false, then the content of the statement must be false. But the content of the statement also says that it is a lie. If we consider that false, then the statement itself is true, which is contradictory to our original assumption that the statement is true. The same is the case with the second statement.
+If the statement is false, then the content of the statement must be false. But the content of the statement also says that it is a lie. If we consider that false, then the statement itself is true, which is contradictory to our original assumption that the statement is false. The same is the case with the second statement.
 
 
 
 The third statement is a bit different in the sense that instead of directly talking about the statement itself, it says something about the speaker of the statement which also implies that the statement is a lie. If everything I say is a lie, that statement also must be a lie. The last statement is similar in the sense that it tells something about all statements, including itself. So a critic can ask the person who said this, “Doesn’t that mean the statement you are making itself is subjective and not the objective truth?”
 
 
+
 This is what the liar’s paradox is all about. How do we explain this paradox? Some philosophers question our basic rules of logical reasoning. Why can’t a statement be both true and false? Why can’t a statement be neither true nor false? Some just call the liar paradox statements meaningless and have no philosophical implications to it. There are other serious explanations like the one given by Tarski.
 
 ### Tarski’s Undefinability Theorem
 
-This is a mathematical theorem that was derived by Tarski which can be considered one of the explanations of Liar’s paradox. It states that language that is rich enough to talk about basic arithmetic if it wants to stay consistent.
+This is a mathematical theorem that was derived by Tarski which can be considered one of the explanations of Liar’s paradox. It states that truth for a language rich enough to talk about basic arithmetic cannot be defined inside that language itself, if the language is to stay consistent.
 
 
-Let’s ignore the basic arithmetic part. The idea is that if you are building a language, you cannot define truth in that language. You must build a Meta Language to define truth in that language. Let us assume that English passes the basic arithmetic test(According to Tarski, it doesn’t). To define if a statement in English is true, you have to create a new meta language Alienese that talks about English. But what is true in Alienese? You create another meta language to define truth in Alienese.
+
+The theorem technically requires the language to handle basic arithmetic — the why is a technical detail we don't need here. All that matters for us is: if a language is expressive enough to talk about numbers, it can't define its own truth without breaking. The idea is that if you are building a language, you cannot define truth in that language. You must build a Meta Language to define truth in that language. Let us assume that English passes the basic arithmetic test(According to Tarski, it doesn’t). To define if a statement in English is true, you have to create a new meta language Alienese that talks about English. But what is true in Alienese? You create another meta language to define truth in Alienese.
 
 Tarski’s proof uses the liar paradox. He takes a language that supports basic arithmetic. He assumes that one can define truth in that language. Based on the assumption, he creates a statement that says, “This statement is not true”. But this breaks consistency, as it is the liar’s paradox. Hence, the only way to define truth is by using a Meta language.
+
 
 
 In English, the way we do this is by saying “Snow is white” is true if snow is white. The line between quotes is a statement, which is true if it is indeed true in reality. Because we can define truth in English, Tarski claims that English, or any other daily spoken language for that matter, is not consistent.
 
 ### Gödel’s Incompleteness Theorems
 
-While many mathematicians avoided dealing with self-references, Gödel relished in them. He came up with two theorems that are very similar to Tarski’s undefinability theorem which may sound very similar to Tarski’s theorems. The truth is Gödel's incompleteness theorems were published two years before Tarski’s Undefinability theorem and Tarski’s theorem is inspired from Gödel’s methods. It is also said that Gödel knew the undefinability theorem as he mentioned it in other discussions. But he never officially published it. I chose to go with Tarski’s theorem first because it is relatively easier to grasp compared to Gödel’s two theorems. Here they go:
+While many mathematicians avoided dealing with self-references, Gödel relished in them. He came up with two theorems closely related to Tarski's — which makes sense, since Tarski's work was inspired by Gödel's methods. The truth is Gödel's incompleteness theorems were published two years before Tarski’s Undefinability theorem and Tarski’s theorem is inspired from Gödel’s methods. It is also said that Gödel knew the undefinability theorem as he mentioned it in other discussions. But he never officially published it. I chose to go with Tarski’s theorem first because it is relatively easier to grasp compared to Gödel’s two theorems. Here they go:
 
 
-First theorem - Any logical system strong enough to do basic math will contain true statements about numbers that the system can never prove using its own rules.
+
+First theorem - Any consistent logical system strong enough to do basic math will contain true statements about numbers that the system can never prove using its own rules.
+
 
 
 Second theorem - A logical system strong enough to do math cannot prove that it is consistent—meaning it cannot prove from within itself that it will never lead to a contradiction.
 
 
-As you can see, these theorems also require the systems considered to be able to do basic arithmetic, like Tarski’s theorem. When we built our layman’s system and scientific system, we didn’t need a requirement for Math but we did have a requirement of consistency. And consistency is important here and has mostly the same meaning.
+
+Notice the two requirements showing up again: the system must handle basic arithmetic (like Tarski's theorem needed), and it must be consistent. That second one should feel familiar — it's the same consistency rule we demanded from our layman's system and our scientific system in the earlier chapters. And consistency is important here and has mostly the same meaning.
+
 
 
 Imagine a system of mathematical rules, axioms and theorems which follow the consistency rules. Gödel’s first theorem states that it has a statement that is “true” but cannot be provable within the system. How can you even come up with a true statement that cannot be proven? How do you know that a statement is true if it cannot be proven? Gödel used a method called the Gödel numbering to show that you can always derive a mathematical statement in the system that says “This statement cannot be proven within the system.” Though not exactly the same, this is similar to the liar’s paradox and Tarski also used Gödel numbering to arrive at the liar’s paradox statement to prove his undefinability theorem.
 
 
+
 Can this statement be proven? If you can prove G by inference from other statements in the system, then the statement is false. But that means the system has proven a false statement, thereby making it inconsistent.
 
 If this statement cannot be proven, then the statement is true. So, if the system has to remain consistent, then you have to admit that the statement is true but cannot be proven.
+
 
 
 The second theorem says that consistency of the system cannot be proved by its own statements. You always have to step out of the system to prove that the system is consistent. This is similar to Tarski’s theorem that says that we have to step out of a language to define truth in the language.
@@ -78,13 +92,17 @@ The second theorem says that consistency of the system cannot be proved by its o
 Bertrand Russell discovered a paradox in set theory, which is called the Russell’s paradox. I could avoid getting into set theory if I just explain this paradox using Barber’s paradox which is analogous. But we will need set theory knowledge in the next section about Cantor’s paradox anyway. So here it goes.
 
 
-A set is a group of distinct objects which are treated as one. It is usually written within curly brackets. For example, {Red, Green, Blue} is the set of primary colours. {Heads, Tails} is the set of potential outcomes of a coin toss. In mathematics, it is primarily used for numbers. Many of these sets are infinite. {1, 2, 3, 4,…} is the set of all natural numbers. `{1, 3, 5, 7, 9,...}` is the set of all odd numbers.
+
+A set is a group of distinct objects which are treated as one. It is usually written within curly brackets. For example, {Red, Green, Yellow} is the set of primary colours. {Heads, Tails} is the set of potential outcomes of a coin toss. In mathematics, it is primarily used for numbers. Many of these sets are infinite. {1, 2, 3, 4,…} is the set of all natural numbers. `{1, 3, 5, 7, 9,...}` is the set of all odd numbers.
+
 
 
 A set can contain more sets. `{{1, 2}, {2,3}, {1,3},....}` is the set of all sets of natural numbers of size two. In most practical cases, a set doesn’t contain itself. Russell’s paradox asks if we create a set S with all the sets which do not contain themselves, will S be in that set? This is a paradox. To make it easy to think about, someone came up with the barber’s paradox, which is analogous.
 
 
+
 Imagine a town with one barber. He only shaves men in the town who do not shave themselves. Does the barber shave himself? If he shaved himself, then he shouldn’t shave himself. If he doesn’t shave himself, he should shave himself.
+
 
 
 Russell’s paradox is the mathematical version of the same thing. If the set belongs to itself, it should not belong to itself. If the set does not belong to itself, it should belong to itself. Yet another situation where self-reference forces us to give up on consistency.
@@ -94,7 +112,8 @@ Russell’s paradox is the mathematical version of the same thing. If the set be
 This is also very similar to Russell’s paradox. While Russell asks if we can create a set with all sets which do not contain themselves, Cantor asks if there is a set that contains all sets? No, according to Cantor's theorem which states that for any set S, there is a power set P(which is a set of all subsets of S) which is bigger than S.
 
 
-If S is {1, 2,3}, then its power set is the set of all combination of these elements, including empty set - {}, {1}, {2}, {3}, {1,2}, {2,3}, {1,3} and {1,2,3}. Based on Cantor’s theorem, any such power set will be bigger than the original. So if any set S pretends to be the universal set containing all sets, we can always find a power set that is larger than it. That would make our original assumption that S was indeed the universal set of all sets.
+
+If S is {1, 2,3}, then its power set is the set of all combination of these elements, including empty set - {}, {1}, {2}, {3}, {1,2}, {2,3}, {1,3} and {1,2,3}. Based on Cantor’s theorem, any such power set will be bigger than the original. So if any set S pretends to be the universal set containing all sets, we can always find a power set that is larger than it. That would contradict our original assumption that S was the universal set of all sets — so no such universal set can exist.
 
 ### Self-references and philosophy
 
@@ -103,11 +122,10 @@ Many philosophers consider the philosophy of mind or the hard problem of conscio
 
 
 
+
 ## Further Reading
 
-- Gödel, Escher, Bach: an Eternal Golden Braid by Douglas Hofstadter
-- I am a Strange Loop by Douglas Hofstadter
-- Infinity and the Mind by Rudy Rucker
-
-
+* Gödel, Escher, Bach: an Eternal Golden Braid by Douglas Hofstadter
+* I am a Strange Loop by Douglas Hofstadter
+* Infinity and the Mind by Rudy Rucker
 
