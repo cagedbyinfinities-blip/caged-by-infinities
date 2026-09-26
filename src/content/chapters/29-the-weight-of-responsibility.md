@@ -1,4 +1,4 @@
----
+﻿---
 title: "16. The Weight of Responsibility"
 description: "16. The Weight of Responsibility"
 order: 29
@@ -16,7 +16,7 @@ If an event happens, how do you define its cause? Let’s assume that a glass wi
 From this example, how can I define cause? We know that if a ball is thrown at a glass window, it will break. If the ball wasn’t thrown, the window wouldn’t have broken.
 
 
-Philosophers have proposed a neat test for this, called the counterfactual theory — most famously worked out by David Lewis in the 1970s: C counts as a cause of E if E would happen when C happens, and E would not have happened if C hadn't happened. Sounds grand, right? In this case, the glass window is expected to break if it is hit with the ball and the window wouldn’t have broken if it wasn’t hit by the ball.
+Philosophers have proposed a neat test for this, called the counterfactual theory - most famously worked out by David Lewis in the 1970s: C counts as a cause of E if E would happen when C happens, and E would not have happened if C hadn't happened. Sounds grand, right? In this case, the glass window is expected to break if it is hit with the ball and the window wouldn’t have broken if it wasn’t hit by the ball.
 
 
 Now imagine that this is a pretty bad neighbourhood. Your investigation reveals another interesting fact. Around the same time the ball went that way, another neighbour threw a stone on the window. But the ball hit the window first. If the ball hadn’t hit the window, the stone would have broken it anyway. This makes the second clause, “the event E is expected not to have happened if C hadn’t happened” false if C is the act of throwing the stone. The glass window would have broken anyway.
@@ -32,7 +32,7 @@ Does science give us an answer? Not exactly. What it does say is that because no
 
 ![Light cone](/images/Ch16Light.jpg)
 
-Physics gives us an outer limit: because nothing travels faster than light, only events inside the 'past light-cone' of the window breaking — events close enough in space and time that their influence could have reached the window — are even eligible as physical causes. Using some verbal gymnastics, one might take any event in the cone and argue that it is the cause. But even if you stick to picking causes which the common sense agrees with, that still leaves a huge number of candidates, from the thrown ball to the builder's shoddy work.
+Physics gives us an outer limit: because nothing travels faster than light, only events inside the 'past light-cone' of the window breaking - events close enough in space and time that their influence could have reached the window - are even eligible as physical causes. Using some verbal gymnastics, one might take any event in the cone and argue that it is the cause. But even if you stick to picking causes which the common sense agrees with, that still leaves a huge number of candidates, from the thrown ball to the builder's shoddy work.
 
 If you look at the example of the window breaking incident, you could consider that all of the ball, the stone, the dishonest builder to be the cause. You can even blame the parents of the kid who kicked the ball for not parenting the kid well enough so that the kid would know not to break other people’s windows just because someone offered money. All of them would be in the light cone. If you explore the light-cone more, you could even find more causes.
 
@@ -66,5 +66,6 @@ We could go back in the causal chain forever. Where does this even stop? Should 
 If we take a different approach and assign blame on the kid as the kid has free-will and agency, consider a different situation. Instead of being offered money, assume that he was made to do this with a gun on his head. What happens now? Is it fair to assign responsibility to the kid? Most of us would say no. When do we assign responsibility to the person who was the immediate cause of the event and when do we pass the responsibility to others who made this person do it? And if we go into mental health issues and crime, we have much bigger problems to grapple with.
 
 
-Assigning responsibility is probably more difficult than assigning cause. And responsibility is only half the story — even once we've decided who is responsible, we still have to decide what they ought to have done. That's the next chapter.
+Assigning responsibility is probably more difficult than assigning cause. And responsibility is only half the story - even once we've decided who is responsible, we still have to decide what they ought to have done. That's the next chapter.
+
 

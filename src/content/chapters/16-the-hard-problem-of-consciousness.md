@@ -1,11 +1,11 @@
----
+﻿---
 
 title: "10.2 The Hard Problem of Consciousness"
 description: "10.2 The Hard Problem of Consciousness"
 order: 16
 ---
 
-Anyone who has dabbled in the field of philosophy would have definitely come across “The Hard Problem of Consciousness”. It is a controversial topic. There are many people who don’t admit that there is a hard problem here at all. I beg to differ. The phrase 'the hard problem' comes from philosopher David Chalmers. He distinguished the 'easy problems' (how the brain processes information, focuses attention, etc. — easy in the sense that they're the normal business of neuroscience) from the hard problem: why does any of it feel like something from the inside?
+Anyone who has dabbled in the field of philosophy would have definitely come across “The Hard Problem of Consciousness”. It is a controversial topic. There are many people who don’t admit that there is a hard problem here at all. I beg to differ. The phrase 'the hard problem' comes from philosopher David Chalmers. He distinguished the 'easy problems' (how the brain processes information, focuses attention, etc. - easy in the sense that they're the normal business of neuroscience) from the hard problem: why does any of it feel like something from the inside?
 
 
 
@@ -148,5 +148,6 @@ I am a Strange Loop by Douglas Hofstadter
 
 Consciousness Explained by Daniel Dennett
 
-Note: Dennett is on the other side of this debate — he argues the hard problem is an illusion. I've included him so you hear the strongest counterargument.
+Note: Dennett is on the other side of this debate - he argues the hard problem is an illusion. I've included him so you hear the strongest counterargument.
+
 

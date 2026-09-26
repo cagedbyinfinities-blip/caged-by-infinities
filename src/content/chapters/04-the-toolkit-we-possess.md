@@ -1,4 +1,4 @@
----
+﻿---
 
 title: "4. The Toolkit We Possess"
 description: "4. The Toolkit We Possess"
@@ -110,4 +110,5 @@ The Encyclopedia Logic by G.W.F Hegel
 An Enquiry Concerning Human Understanding by David Hume
 
 Both are about rationalism. I don’t have any books to recommend about empiricism. Just stay awake and experience the world and you are good.
+
 

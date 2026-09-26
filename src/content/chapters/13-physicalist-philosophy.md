@@ -1,4 +1,4 @@
----
+﻿---
 
 title: "9. Physicalist Philosophy"
 description: "9. Physicalist Philosophy"
@@ -95,4 +95,5 @@ We already saw the gaps in science in a previous chapter. Scientists could argue
 
 
 But there is criticism against the foundation of physicalism, like consistency issues and paradoxes. Remember that the rules of logical consistency and inferences are the foundation of any system that we build. In the next 3 chapters, we explore the criticism levelled against the foundations of physicalism.
+
 

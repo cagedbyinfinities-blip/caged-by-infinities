@@ -1,4 +1,4 @@
----
+﻿---
 
 title: "5. The Blueprint"
 description: "5. The Blueprint"
@@ -125,4 +125,5 @@ This means that any informal philosophical system we build will have at least on
 * Brute statements(Most common)
 * Circular references
 * Infinite number of statements
+
 

@@ -1,4 +1,4 @@
----
+﻿---
 
 title: "13. Is There a Way Out?"
 description: "13. Is There a Way Out?"
@@ -24,7 +24,7 @@ And we are given the difficult task of finding a philosophy among the infinite p
 
 
 
-The problem with brute statements - They always lead to more questions. You want to use God as an entity to explain everything? Where does God come from? You think today's best physics — the Standard Model — is the final word? It still can't say why we have exactly these particles with exactly these masses and charges. The solution to it is to either accept self-referential cycles or acceptance of infinite regressions, the remaining two options we listed. For example, Some say God just exists without needing a cause (a brute starting point); some say God is self-existent (a self reference); a few, like the mathematician Cantor, pictured God as a kind of endless infinity.
+The problem with brute statements - They always lead to more questions. You want to use God as an entity to explain everything? Where does God come from? You think today's best physics - the Standard Model - is the final word? It still can't say why we have exactly these particles with exactly these masses and charges. The solution to it is to either accept self-referential cycles or acceptance of infinite regressions, the remaining two options we listed. For example, Some say God just exists without needing a cause (a brute starting point); some say God is self-existent (a self reference); a few, like the mathematician Cantor, pictured God as a kind of endless infinity.
 
 
 
@@ -32,7 +32,7 @@ The problem with self-references and infinite regressions - They are outright sc
 
 
 
-There is also a problem in the interaction between mind and the physical world. The physical world is changing and it's very hard to explain lasting, single, unchanging identities — like the 'me' that feels the same over decades — using only stuff that is constantly changing. But if we decide to use non-physical entities to explain the mind, we run into other questions.
+There is also a problem in the interaction between mind and the physical world. The physical world is changing and it's very hard to explain lasting, single, unchanging identities - like the 'me' that feels the same over decades - using only stuff that is constantly changing. But if we decide to use non-physical entities to explain the mind, we run into other questions.
 
 * If the physical brain is not what gives rise to the mental experience, who really has a mental experience? All humans? Only some humans? Some animals too?
 * How does this non-physical entity interact with the physical world that seems to follow laws?
@@ -46,9 +46,9 @@ Considering all this, what are our options?
 
 Do you even need a philosophy that understands the nature of reality? Billions of people have lived and died without needing one. So why bother? Just get on with your life without thinking too much. Let’s partyyyyyy!!!
 
-#### I don't know — but I will find the truth
+#### I don't know - but I will find the truth
 
-Admit ignorance, then commit to the search. Keep asking why, keep testing, keep refining. There is no guarantee the search ends — this book has shown you why it might not — but the search itself is worthwhile. Every paradox you untangle and every assumption you expose is real progress, even if the final answer stays out of reach. The joy is in the hunting, not just the catching.
+Admit ignorance, then commit to the search. Keep asking why, keep testing, keep refining. There is no guarantee the search ends - this book has shown you why it might not - but the search itself is worthwhile. Every paradox you untangle and every assumption you expose is real progress, even if the final answer stays out of reach. The joy is in the hunting, not just the catching.
 
 #### Compromise and pick a complete philosophy with brute statements
 
@@ -72,4 +72,5 @@ Try to embrace the self-references and infinites. Build a philosophy with infini
 
 
 We have infinite possibilities in front of us. The situation may look overwhelming. But remember that your mind conceived of these possibilities. Of the four options I have listed above, no one option is better than the other option. Go for what you feel works for you. You can always change it later if it doesn’t work. That’s the best part about having infinite choices.
+
 

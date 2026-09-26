@@ -1,4 +1,4 @@
----
+﻿---
 title: "15. Words and Meanings"
 description: "15. Words and Meanings"
 order: 28
@@ -7,7 +7,7 @@ order: 28
 Before we jump into the What Ought To? question, let us discuss some social constructs first. The first construct we will discuss is Language. What is language? We could say that it is a system we use to communicate thoughts with one another. While most would assume that the goal is to communicate between people, it doesn’t have to be the case. A programming language allows us to tell a computer what to do. Digital devices encode information in binary language, which software then decodes and displays as human-readable text, images, or sound.
 
 
-What does a language contain? It has a set of basic symbols — like the letters of an alphabet — and a shared mapping between combinations of those symbols and things, ideas, or actions in the world. We map an apple, which is a combination of 5 characters from the alphabet that maps onto a real world fruit. A dictionary is a useful record of how most people currently use the mapping — though no dictionary officially decides it; the real 'authority' is just shared usage. Are languages precise and perfect to communicate ideas?
+What does a language contain? It has a set of basic symbols - like the letters of an alphabet - and a shared mapping between combinations of those symbols and things, ideas, or actions in the world. We map an apple, which is a combination of 5 characters from the alphabet that maps onto a real world fruit. A dictionary is a useful record of how most people currently use the mapping - though no dictionary officially decides it; the real 'authority' is just shared usage. Are languages precise and perfect to communicate ideas?
 
 ### Approximation
 
@@ -26,10 +26,10 @@ In reality, no one needs this level of detail. If you give some approximate info
 How about communicating with an image? An image does a much better job at it obviously. But images also have limitations on how many pixels they can hold. For example, the menu displayed may not be clearly visible no matter how much they zoom in. They may do a better job at colours. For colours, we still have the problem of whether the wavelength of light is infinitely divisible. If yes, the image, though it gets much closer, may not be accurate as the digital images don’t have infinite precision. If the actual wavelength is 590.13234243324 nanometers, the image might have to just stick to 590 nanometers.
 
 
-What about the mathematical language? Is it more accurate than the spoken language? Most would agree that it is. No matter how infinitely divisible space or the wavelength of light may be, mathematical notation can express far more precise values than everyday speech — you can always add more decimal places in principle — though even mathematics has practical limits because you can't write out infinite number of digits. But whether it is practically possible is a whole different question. As discussed before, we don’t have devices which are perfectly accurate and physics suggests we never will — quantum effects and unavoidable background noise put a fundamental limit on measurement, not just an engineering one.". And even if we have devices with an accuracy of 100 decimal places, it would be expensive and time consuming to communicate with that level of detail.
+What about the mathematical language? Is it more accurate than the spoken language? Most would agree that it is. No matter how infinitely divisible space or the wavelength of light may be, mathematical notation can express far more precise values than everyday speech - you can always add more decimal places in principle - though even mathematics has practical limits because you can't write out infinite number of digits. But whether it is practically possible is a whole different question. As discussed before, we don’t have devices which are perfectly accurate and physics suggests we never will - quantum effects and unavoidable background noise put a fundamental limit on measurement, not just an engineering one.". And even if we have devices with an accuracy of 100 decimal places, it would be expensive and time consuming to communicate with that level of detail.
 
 
-This approximation causes what philosophers call vagueness — what I'll call the Boundary Problem here. Where does yellow end and orange start? If I pick a wavelength right around the border between yellow and orange in the spectrum, there will be people who disagree on whether it is yellow or orange. Some may say that it is orangish yellow. Then it becomes a question of where does yellow end and where orangish-yellow begins.
+This approximation causes what philosophers call vagueness - what I'll call the Boundary Problem here. Where does yellow end and orange start? If I pick a wavelength right around the border between yellow and orange in the spectrum, there will be people who disagree on whether it is yellow or orange. Some may say that it is orangish yellow. Then it becomes a question of where does yellow end and where orangish-yellow begins.
 
 ### Subjectivity
 
@@ -89,5 +89,6 @@ Book recommendations
 
 
 Philosophical Investigations by Ludwig Wittgenstein
+
 
 

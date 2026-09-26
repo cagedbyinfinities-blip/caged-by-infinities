@@ -1,4 +1,4 @@
----
+﻿---
 
 title: "11. Exploring the Alternatives"
 description: "11. Exploring the Alternatives"
@@ -37,11 +37,11 @@ The ones who call it the mind usually use dualism as a solution to the hard prob
 
 
 
-There is another dualistic philosophy named Property Dualism which states there's only one kind of 'stuff' — ordinary physical matter like brains — but it has two irreducibly different kinds of features: physical features (weight, electrical activity) and mental features (what pain feels like). The mental ones can't be fully reduced to the physical ones. Property dualism has many subtypes. The property dualists have to answer what kind of matter actually has mental properties.
+There is another dualistic philosophy named Property Dualism which states there's only one kind of 'stuff' - ordinary physical matter like brains - but it has two irreducibly different kinds of features: physical features (weight, electrical activity) and mental features (what pain feels like). The mental ones can't be fully reduced to the physical ones. Property dualism has many subtypes. The property dualists have to answer what kind of matter actually has mental properties.
 
 
 
-Panpsychism says even the tiniest bits of matter have a faint spark of experience — not full human-like consciousness, more like a whisper of 'what-it's-like.' Human consciousness is what you get when you combine gazillions of these sparks. This makes it difficult for them to explain how we only sense one consciousness as a human when in practice, every part of our brain must have its own consciousness.
+Panpsychism says even the tiniest bits of matter have a faint spark of experience - not full human-like consciousness, more like a whisper of 'what-it's-like.' Human consciousness is what you get when you combine gazillions of these sparks. This makes it difficult for them to explain how we only sense one consciousness as a human when in practice, every part of our brain must have its own consciousness.
 
 Substance dualism, on the other hand, generally considers the mental substance as just one entity for each mind. Let us look at a short list of pros and cons of substance dualism.
 
@@ -84,7 +84,7 @@ As you can see, I have removed Occam's razor, physicalist statement about the mi
 
 ### Idealism
 
-Just like Descartes’s name is associated with Dualism, Berkeley’s name is most commonly associated with Idealism. Idealism asserts that the mind or the spirit is fundamental. One famous version of idealism — Berkeley's — says there's no mind-independent physical stuff at all; what we call physical things are really patterns of experience, a bit like a shared dream. (Other idealists, like Hegel, tell a different story — for him reality is a universal Spirit unfolding through history.) Everything about the world we observe is mental, like a dream. Unlike the dream we have inside this world, the world we think is “reality” is a shared dream with all the other people. It is a type of monism, with the only real entity being the mind.
+Just like Descartes’s name is associated with Dualism, Berkeley’s name is most commonly associated with Idealism. Idealism asserts that the mind or the spirit is fundamental. One famous version of idealism - Berkeley's - says there's no mind-independent physical stuff at all; what we call physical things are really patterns of experience, a bit like a shared dream. (Other idealists, like Hegel, tell a different story - for him reality is a universal Spirit unfolding through history.) Everything about the world we observe is mental, like a dream. Unlike the dream we have inside this world, the world we think is “reality” is a shared dream with all the other people. It is a type of monism, with the only real entity being the mind.
 
 
 
@@ -104,15 +104,15 @@ The advantage of idealism is similar to dualism. As the mind is a non-physical e
 
 ### Neutral Monism
 
-Neutral monism is another alternative worth knowing about, and it has an impressive pedigree: Spinoza gestured at it in the 1600s, and it was developed seriously by Ernst Mach, William James, and Bertrand Russell in the early 1900s. The idea is disarmingly simple. Dualism says reality is made of two kinds of stuff — mind-stuff and matter-stuff. Physicalism says there is only one kind of stuff, and it is physical. Neutral monism says there is only one kind of stuff, but it is neither mental nor physical. Mind and matter are just two different ways this neutral stuff can be arranged or viewed — like how the same curve looks concave from one side and convex from the other. The curve itself is neither; "concave" and "convex" are just perspectives on it.
+Neutral monism is another alternative worth knowing about, and it has an impressive pedigree: Spinoza gestured at it in the 1600s, and it was developed seriously by Ernst Mach, William James, and Bertrand Russell in the early 1900s. The idea is disarmingly simple. Dualism says reality is made of two kinds of stuff - mind-stuff and matter-stuff. Physicalism says there is only one kind of stuff, and it is physical. Neutral monism says there is only one kind of stuff, but it is neither mental nor physical. Mind and matter are just two different ways this neutral stuff can be arranged or viewed - like how the same curve looks concave from one side and convex from the other. The curve itself is neither; "concave" and "convex" are just perspectives on it.
 
 
 
-Why would anyone believe this? Because it neatly sidesteps both of the classic traps. Dualism struggles with the interaction problem — how does ghostly mind-stuff push physical neurons around? Neutral monism has no interaction problem, because there is only one stuff; nothing needs to cross between realms. And physicalism struggles with the hard problem — how does experience arise from dead matter? Neutral monism softens that too, because experience doesn't have to arise from anything; Russell suggested the intrinsic nature of the neutral stuff might already be experience-like, with physics describing only its outer structure and relations. In a way, it is the most economical theory on the table: one stuff, no miracles, no magic emergence.
+Why would anyone believe this? Because it neatly sidesteps both of the classic traps. Dualism struggles with the interaction problem - how does ghostly mind-stuff push physical neurons around? Neutral monism has no interaction problem, because there is only one stuff; nothing needs to cross between realms. And physicalism struggles with the hard problem - how does experience arise from dead matter? Neutral monism softens that too, because experience doesn't have to arise from anything; Russell suggested the intrinsic nature of the neutral stuff might already be experience-like, with physics describing only its outer structure and relations. In a way, it is the most economical theory on the table: one stuff, no miracles, no magic emergence.
 
 
 
-The catch, of course, is that nobody can tell you what the neutral stuff actually is. Say "it is neither mental nor physical" and the critic will ask what is left — and the honest answer is that neutral monists mostly describe what it is not. Push on the "experience-like intrinsic nature" and the theory starts looking like panpsychism wearing a different hat; push on the "physics describes its structure" and it starts looking like physicalism with extra steps. Russell himself never fully settled the matter. Still, as a logical possibility, it deserves its seat at the table: it shows that "mind versus matter" might be a false choice, and that the real answer could be neither.
+The catch, of course, is that nobody can tell you what the neutral stuff actually is. Say "it is neither mental nor physical" and the critic will ask what is left - and the honest answer is that neutral monists mostly describe what it is not. Push on the "experience-like intrinsic nature" and the theory starts looking like panpsychism wearing a different hat; push on the "physics describes its structure" and it starts looking like physicalism with extra steps. Russell himself never fully settled the matter. Still, as a logical possibility, it deserves its seat at the table: it shows that "mind versus matter" might be a false choice, and that the real answer could be neither.
 
 ### Personal God
 
@@ -182,4 +182,5 @@ Philosophy of Mind: A Comprehensive Introduction by William Jaworski
 What the Buddha Taught by Walpola Rahula
 
 A Critical Survey of Indian Philosophy by Chandradhar Sharma
+
 

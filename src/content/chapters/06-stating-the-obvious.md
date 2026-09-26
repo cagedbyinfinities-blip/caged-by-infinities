@@ -1,4 +1,4 @@
----
+﻿---
 
 title: "6. Stating The Obvious"
 description: "6. Stating The Obvious"
@@ -82,4 +82,5 @@ Putting them all together, this is The layman’s philosophical system so far.
 
 
 This is not a complete system as it doesn’t fully explain the nature of knowledge and reality. But it is a good start.
+
 

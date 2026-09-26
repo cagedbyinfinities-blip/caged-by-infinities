@@ -1,4 +1,4 @@
----
+﻿---
 
 title: "19. Purpose and Meaning"
 description: "19. Purpose and Meaning"
@@ -33,7 +33,7 @@ The above argument is what leads to nihilism. It is based on the core belief tha
 
 * Dogmatic goals
 * Circular goals
-* Infinite regress — keep asking "why?" forever, which is the trap itself
+* Infinite regress - keep asking "why?" forever, which is the trap itself
 
 
 Dogmatic goals are just goals without any great reasoning behind them. You pursue those goals because you want to pursue them. There is no reason you have to give anyone except “Because I want to.” Circular goals can be fun too - I want to stay healthy because I want to stay happy and I want to stay happy because I want to stay healthy. 
@@ -70,7 +70,7 @@ The same is the case for purpose. All the religions made it clear how to live yo
 
 If you don’t believe in any of the religions, you are stuck in the triangle of nihilism, existentialism and absurdism.
 
-So the burger question answers itself — not with logic, but with the life you choose to build around it. No argument can convince the burger-eater to change; only a purpose they've chosen for themselves can do that.
+So the burger question answers itself - not with logic, but with the life you choose to build around it. No argument can convince the burger-eater to change; only a purpose they've chosen for themselves can do that.
 
 ## Further Reading
 
@@ -78,4 +78,5 @@ So the burger question answers itself — not with logic, but with the life you 
 * Thus Spoke Zarathustra by Friedrich Nietzsche
 * World Religions: The Great Faiths Explored \& Explained by John Bowker
 * Man's Search for Meaning by Viktor Frankl
+
 

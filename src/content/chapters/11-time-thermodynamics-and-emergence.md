@@ -1,4 +1,4 @@
----
+﻿---
 
 title: "8.3 Time, Thermodynamics and Emergence"
 description: "8.3 Time, Thermodynamics and Emergence"
@@ -17,7 +17,7 @@ Imagine you are watching a video that shows a broken egg coming together to form
 
 
 
-The explanation for the arrow of time comes from the second law of thermodynamics. It says that the entropy of an isolated system — one that doesn't exchange energy or matter with anything outside — never goes down over time; it only stays the same or increases.
+The explanation for the arrow of time comes from the second law of thermodynamics. It says that the entropy of an isolated system - one that doesn't exchange energy or matter with anything outside - never goes down over time; it only stays the same or increases.
 
 
 
@@ -62,4 +62,5 @@ What We Cannot Know by Marcus du Sautoy
 Reality Is Not What It Seems by Carlo Rovelli
 
 The Biggest Ideas in the Universe series by Sean Carroll if you want to get a little bit deeper into the Mathematics
+
 

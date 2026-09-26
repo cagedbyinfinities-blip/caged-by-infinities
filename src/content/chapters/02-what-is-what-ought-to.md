@@ -1,4 +1,4 @@
----
+﻿---
 
 title: "2. What Is? What Ought To?"
 description: "2. What Is? What Ought To?"
@@ -98,4 +98,5 @@ We will deal with the *What Is?* question in the upcoming chapters, after which 
 ## Further Reading
 
 * A Little History of Philosophy by Nigel Warburton
+
 

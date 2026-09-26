@@ -1,4 +1,4 @@
----
+﻿---
 title: "10. Criticism Against Physicalism"
 description: "10. Criticism Against Physicalism"
 order: 14
@@ -9,3 +9,4 @@ We already saw the gaps in science in a previous chapter. Scientists could argue
 
 
 But there is criticism against the foundation of physicalism, like consistency issues and paradoxes. Remember that the rules of logical consistency and inferences are the foundation of any system that we build. In the next 3 chapters, we explore the criticism levelled against the foundations of physicalism.
+

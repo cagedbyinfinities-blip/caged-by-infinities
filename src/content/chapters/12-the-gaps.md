@@ -1,4 +1,4 @@
----
+﻿---
 
 title: "8.4 The Gaps"
 description: "8.4 The Gaps"
@@ -25,15 +25,15 @@ The question of how big it is doesn’t just pertain to the spatial view of the 
 
 
 
-Our best model says the universe was once extremely hot and dense, and it's been expanding and cooling ever since — that's what we call the Big Bang. It's tempting to picture the very beginning as a tiny point of "infinitely warped spacetime" where time itself switched on, but that's not quite right.
+Our best model says the universe was once extremely hot and dense, and it's been expanding and cooling ever since - that's what we call the Big Bang. It's tempting to picture the very beginning as a tiny point of "infinitely warped spacetime" where time itself switched on, but that's not quite right.
 
 
 
-The word "singularity" sounds like a physical thing, but it's really a warning sign. It means our equations — Einstein's general relativity — stop working there and start spitting out infinities. When your calculator says "error," you don't conclude the universe is made of errors; you conclude you need a better calculator.
+The word "singularity" sounds like a physical thing, but it's really a warning sign. It means our equations - Einstein's general relativity - stop working there and start spitting out infinities. When your calculator says "error," you don't conclude the universe is made of errors; you conclude you need a better calculator.
 
 
 
-So did time begin at the Big Bang? Maybe. Or maybe there was something before — a previous collapse, an eternal foamy chaos, something quantum gravity will one day describe. Right now, honestly, we don't know. The Big Bang theory describes the expansion from that hot dense state very well, but what happened at the very first moment — or whether "before" even makes sense — is still an open question.
+So did time begin at the Big Bang? Maybe. Or maybe there was something before - a previous collapse, an eternal foamy chaos, something quantum gravity will one day describe. Right now, honestly, we don't know. The Big Bang theory describes the expansion from that hot dense state very well, but what happened at the very first moment - or whether "before" even makes sense - is still an open question.
 
 
 
@@ -62,11 +62,11 @@ The next question we ask ourselves is how small can we divide the things we see 
 
 There are lots of phenomena we observe in the universe which are beautiful because of the mystery and sheer magnificence but not thoroughly understood by us.
 
-**Black Holes** - You might have heard a lot about this in science fiction. When a really massive star — roughly 20 times heavier than our sun or more — reaches the end of its life, it can explode and then its core collapses under its own weight to form what we call a black hole. The matter gets packed so densely that it bends spacetime so strongly (just as Einstein's general relativity predicts) that even light cannot escape it. Hence the name black hole.
+**Black Holes** - You might have heard a lot about this in science fiction. When a really massive star - roughly 20 times heavier than our sun or more - reaches the end of its life, it can explode and then its core collapses under its own weight to form what we call a black hole. The matter gets packed so densely that it bends spacetime so strongly (just as Einstein's general relativity predicts) that even light cannot escape it. Hence the name black hole.
 
 
 
-You might have heard of something called the Chandrasekhar limit — that's a different threshold (about 1.4 times the sun's mass) that decides whether a smaller dead star becomes a white dwarf. Black holes come from much heavier stars, where even the forces holding up a neutron star give way.
+You might have heard of something called the Chandrasekhar limit - that's a different threshold (about 1.4 times the sun's mass) that decides whether a smaller dead star becomes a white dwarf. Black holes come from much heavier stars, where even the forces holding up a neutron star give way.
 
 
 
@@ -101,4 +101,5 @@ In the previous chapter, I mentioned how science explains the world(the object) 
 ## Further Reading
 
 * What We Cannot Know by Marcus du Sautoy
+
 

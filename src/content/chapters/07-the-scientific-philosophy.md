@@ -1,4 +1,4 @@
----
+﻿---
 
 title: "7. The Scientific Philosophy"
 description: "7. The Scientific Philosophy"
@@ -37,7 +37,7 @@ In fact, we found that Newton’s law of Gravitation has its limitations. It cou
 
 
 
-Now, we could either drop Newton's law entirely from the system, or retain it with a caveat that it works only on specific conditions. We did the latter because Newton’s law of Gravitation covers our needs for most cases. It is only in extreme circumstances — like motion around black holes — that we need Einstein's theory.
+Now, we could either drop Newton's law entirely from the system, or retain it with a caveat that it works only on specific conditions. We did the latter because Newton’s law of Gravitation covers our needs for most cases. It is only in extreme circumstances - like motion around black holes - that we need Einstein's theory.
 
 
 
@@ -65,7 +65,7 @@ Why should Occam's Razor be true? It doesn’t have to be. But science follows t
 
 ### Laws of Symmetry across Space and Time
 
-There are multiple laws of symmetry. To build the scientific philosophical system, we need the law of symmetry across space and time. It says that the fundamental laws of physics remain unchanged regardless of where or when you perform the experiment. The mathematician Emmy Noether showed why this matters — symmetries in nature correspond to conservation laws. We need this as a brute law because it is fundamental to our rule of predictions and falsifiability.
+There are multiple laws of symmetry. To build the scientific philosophical system, we need the law of symmetry across space and time. It says that the fundamental laws of physics remain unchanged regardless of where or when you perform the experiment. The mathematician Emmy Noether showed why this matters - symmetries in nature correspond to conservation laws. We need this as a brute law because it is fundamental to our rule of predictions and falsifiability.
 
 
 
@@ -91,4 +91,5 @@ Putting them all together, we have the final Scientific Philosophical System.
 
 
 How did the brute statements from the layman’s philosophy sneak in here? Do they agree with all the rules of the system? It is a grey area because neither of them are easily falsifiable. But they are still part of the scientific system. Assume that the rules around falsifiability and Occam’s razor only apply for any new physical law we are going to add.
+
 

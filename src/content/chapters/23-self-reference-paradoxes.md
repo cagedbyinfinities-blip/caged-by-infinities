@@ -1,4 +1,4 @@
----
+﻿---
 
 title: "12.4 Self Reference Paradoxes"
 description: "12.4 Self Reference Paradoxes"
@@ -46,7 +46,7 @@ This is a mathematical theorem that was derived by Tarski which can be considere
 
 
 
-The theorem technically requires the language to handle basic arithmetic — the why is a technical detail we don't need here. All that matters for us is: if a language is expressive enough to talk about numbers, it can't define its own truth without breaking. The idea is that if you are building a language, you cannot define truth in that language. You must build a Meta Language to define truth in that language. Let us assume that English passes the basic arithmetic test(According to Tarski, it doesn’t). To define if a statement in English is true, you have to create a new meta language Alienese that talks about English. But what is true in Alienese? You create another meta language to define truth in Alienese.
+The theorem technically requires the language to handle basic arithmetic - the why is a technical detail we don't need here. All that matters for us is: if a language is expressive enough to talk about numbers, it can't define its own truth without breaking. The idea is that if you are building a language, you cannot define truth in that language. You must build a Meta Language to define truth in that language. Let us assume that English passes the basic arithmetic test(According to Tarski, it doesn’t). To define if a statement in English is true, you have to create a new meta language Alienese that talks about English. But what is true in Alienese? You create another meta language to define truth in Alienese.
 
 Tarski’s proof uses the liar paradox. He takes a language that supports basic arithmetic. He assumes that one can define truth in that language. Based on the assumption, he creates a statement that says, “This statement is not true”. But this breaks consistency, as it is the liar’s paradox. Hence, the only way to define truth is by using a Meta language.
 
@@ -56,7 +56,7 @@ In English, the way we do this is by saying “Snow is white” is true if snow 
 
 ### Gödel’s Incompleteness Theorems
 
-While many mathematicians avoided dealing with self-references, Gödel relished in them. He came up with two theorems closely related to Tarski's — which makes sense, since Tarski's work was inspired by Gödel's methods. The truth is Gödel's incompleteness theorems were published two years before Tarski’s Undefinability theorem and Tarski’s theorem is inspired from Gödel’s methods. It is also said that Gödel knew the undefinability theorem as he mentioned it in other discussions. But he never officially published it. I chose to go with Tarski’s theorem first because it is relatively easier to grasp compared to Gödel’s two theorems. Here they go:
+While many mathematicians avoided dealing with self-references, Gödel relished in them. He came up with two theorems closely related to Tarski's - which makes sense, since Tarski's work was inspired by Gödel's methods. The truth is Gödel's incompleteness theorems were published two years before Tarski’s Undefinability theorem and Tarski’s theorem is inspired from Gödel’s methods. It is also said that Gödel knew the undefinability theorem as he mentioned it in other discussions. But he never officially published it. I chose to go with Tarski’s theorem first because it is relatively easier to grasp compared to Gödel’s two theorems. Here they go:
 
 
 
@@ -64,11 +64,11 @@ First theorem - Any consistent logical system strong enough to do basic math wil
 
 
 
-Second theorem - A logical system strong enough to do math cannot prove that it is consistent—meaning it cannot prove from within itself that it will never lead to a contradiction.
+Second theorem - A logical system strong enough to do math cannot prove that it is consistent-meaning it cannot prove from within itself that it will never lead to a contradiction.
 
 
 
-Notice the two requirements showing up again: the system must handle basic arithmetic (like Tarski's theorem needed), and it must be consistent. That second one should feel familiar — it's the same consistency rule we demanded from our layman's system and our scientific system in the earlier chapters. And consistency is important here and has mostly the same meaning.
+Notice the two requirements showing up again: the system must handle basic arithmetic (like Tarski's theorem needed), and it must be consistent. That second one should feel familiar - it's the same consistency rule we demanded from our layman's system and our scientific system in the earlier chapters. And consistency is important here and has mostly the same meaning.
 
 
 
@@ -110,7 +110,7 @@ This is also very similar to Russell’s paradox. While Russell asks if we can c
 
 
 
-If S is {1, 2,3}, then its power set is the set of all combination of these elements, including empty set - {}, {1}, {2}, {3}, {1,2}, {2,3}, {1,3} and {1,2,3}. Based on Cantor’s theorem, any such power set will be bigger than the original. So if any set S pretends to be the universal set containing all sets, we can always find a power set that is larger than it. That would contradict our original assumption that S was the universal set of all sets — so no such universal set can exist.
+If S is {1, 2,3}, then its power set is the set of all combination of these elements, including empty set - {}, {1}, {2}, {3}, {1,2}, {2,3}, {1,3} and {1,2,3}. Based on Cantor’s theorem, any such power set will be bigger than the original. So if any set S pretends to be the universal set containing all sets, we can always find a power set that is larger than it. That would contradict our original assumption that S was the universal set of all sets - so no such universal set can exist.
 
 ### Self-references and philosophy
 
@@ -125,4 +125,5 @@ Many philosophers consider the philosophy of mind or the hard problem of conscio
 * Gödel, Escher, Bach: an Eternal Golden Braid by Douglas Hofstadter
 * I am a Strange Loop by Douglas Hofstadter
 * Infinity and the Mind by Rudy Rucker
+
 

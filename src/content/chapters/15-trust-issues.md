@@ -1,4 +1,4 @@
----
+﻿---
 title: "10.1 Trust Issues"
 description: "10.1 Trust Issues"
 order: 15
@@ -25,3 +25,4 @@ Maybe we can rely on the information we receive from the others to confirm our o
 
 
 I admit that this is just a theoretical attack on the foundation. I don’t expect nor advise anyone to take this seriously unless they want a free ticket to an institution. But it is still a fun thought experiment and a valid attack on the foundations of physicalism.
+

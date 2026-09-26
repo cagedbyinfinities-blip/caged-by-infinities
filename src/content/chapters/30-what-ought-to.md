@@ -1,4 +1,4 @@
----
+﻿---
 title: "17. What Ought To?"
 description: "17. What Ought To?"
 order: 30
@@ -81,13 +81,13 @@ There is virtue ethics that focuses more on the virtue and intention of the pers
 
 #### Nietzsche
 
-Many philosophical academics claim that Nietzsche is the most misunderstood philosopher, probably because they don’t understand him either. He is quite controversial. After his death, his sister Elisabeth — a German nationalist and antisemite who later joined the Nazi Party — took control of his unpublished notes and assembled The Will to Power selectively, downplaying his attacks on nationalism and antisemitism. The Nazis later exploited that distorted edition.
+Many philosophical academics claim that Nietzsche is the most misunderstood philosopher, probably because they don’t understand him either. He is quite controversial. After his death, his sister Elisabeth - a German nationalist and antisemite who later joined the Nazi Party - took control of his unpublished notes and assembled The Will to Power selectively, downplaying his attacks on nationalism and antisemitism. The Nazis later exploited that distorted edition.
 
 
 Yes, he is hard to understand. Yes, there are lots of edgy teens who pick and choose what he says to sound cool without understanding the context. But he does make a lot of valid points.
 
 
-His primary argument is that the concepts of good and bad have gone through a few changes across time and different societies. He is particularly critical of the impact of Christianity in global morals. He says that with Christianity, the weak people managed to redefine good and bad in a way that helps themselves. He calls it the slave morality. And this morality has followed us across centuries. He criticises this morality because he thought this 'slave morality' held back exceptional individuals from becoming what he called the Übermensch. He never gives a neat replacement rulebook. His famous line is 'God is dead' — meaning the old religious foundation for morals has collapsed — and he warns that we now face the hard task of creating new values for ourselves.
+His primary argument is that the concepts of good and bad have gone through a few changes across time and different societies. He is particularly critical of the impact of Christianity in global morals. He says that with Christianity, the weak people managed to redefine good and bad in a way that helps themselves. He calls it the slave morality. And this morality has followed us across centuries. He criticises this morality because he thought this 'slave morality' held back exceptional individuals from becoming what he called the Übermensch. He never gives a neat replacement rulebook. His famous line is 'God is dead' - meaning the old religious foundation for morals has collapsed - and he warns that we now face the hard task of creating new values for ourselves.
 
 
 As with the philosophy about reality, you are free to pick a moral philosophy.

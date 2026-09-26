@@ -1,4 +1,4 @@
----
+﻿---
 
 title: "8. The State of Art of Science"
 description: "8. The State of Art of Science"
@@ -47,4 +47,5 @@ What We Cannot Know by Marcus du Sautoy
 Reality Is Not What It Seems by Carlo Rovelli
 
 The Biggest Ideas in the Universe series by Sean Carroll if you want to get a little bit deeper into the Mathematics
+
 

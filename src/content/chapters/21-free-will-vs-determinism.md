@@ -1,4 +1,4 @@
----
+﻿---
 
 title: "12.2 Free Will vs Determinism"
 description: "12.2 Free Will vs Determinism"
@@ -89,4 +89,5 @@ Based on science, we do agree that the environment does affect a person’s char
 
 
 In a world of physicalism, science should solve this eventually. In a philosophy that includes non-physical entities which can affect how a person behaves, it may not be straightforward.
+
 

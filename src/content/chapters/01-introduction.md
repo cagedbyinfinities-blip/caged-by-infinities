@@ -1,4 +1,4 @@
----
+﻿---
 
 title: "1. Introduction"
 description: "1. Introduction"
@@ -50,4 +50,5 @@ As with any writing that tries to simplify complex things, I will most definitel
 
 
 By the end, if you make it to the end that is, I hope you find a new or increased admiration for philosophy and life itself. I hope I have given you questions to ponder over and topics you want to explore further. I hope this is just the start of a really long philosophical journey.
+
 

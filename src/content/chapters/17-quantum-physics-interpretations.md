@@ -1,4 +1,4 @@
----
+﻿---
 
 title: "10.3 Quantum Physics Interpretations"
 description: "10.3 Quantum Physics Interpretations"
@@ -26,7 +26,7 @@ When we say that quantum theories only give us the probabilities of finding some
 
 
 
-Anyway Bell’s theorem proved mathematically that a local hidden variable theory cannot be true. I stressed the word local because it is an important caveat in the Bell’s theorem. It adds a condition that nothing breaks the principle of locality, which means that nothing can travel faster than the speed of light. If this is the case, then the hidden variable theory cannot be true. So far we haven't found anything that breaks the speed of light, and hence we are inclined against believing that a local hidden variable theory is true. (Non-local hidden variable theories, like the pilot-wave theory, aren't ruled out by Bell's theorem — but they require instantaneous action across distances, which most physicists find too high a price.)
+Anyway Bell’s theorem proved mathematically that a local hidden variable theory cannot be true. I stressed the word local because it is an important caveat in the Bell’s theorem. It adds a condition that nothing breaks the principle of locality, which means that nothing can travel faster than the speed of light. If this is the case, then the hidden variable theory cannot be true. So far we haven't found anything that breaks the speed of light, and hence we are inclined against believing that a local hidden variable theory is true. (Non-local hidden variable theories, like the pilot-wave theory, aren't ruled out by Bell's theorem - but they require instantaneous action across distances, which most physicists find too high a price.)
 
 
 
@@ -38,7 +38,7 @@ The Copenhagen Interpretation states that there is no point in assigning definit
 
 
 
-This explanation(though it doesn’t really explain and just gives up) wasn’t satisfactory to many physicists who wanted a sense of understanding of reality. The other interpretation that is The Many-Worlds Interpretation gave them that. According to this interpretation, at every measurement, the universe splits into multiple universes and depending on the universe, the observed measurements differ. How is probability explained here? Why does one outcome have a higher probability over the other? It is explained by a concept called quantum amplitude. The rough idea: each branch has a number attached called its amplitude, and the square of that number gives the probability (this is called the Born rule). Why the universe should work that way is still debated — that's the 'probability problem' of many-worlds. It is a fun theory though. The multiple universe theory is a staple in many science fiction and even in superhero stories these days.
+This explanation(though it doesn’t really explain and just gives up) wasn’t satisfactory to many physicists who wanted a sense of understanding of reality. The other interpretation that is The Many-Worlds Interpretation gave them that. According to this interpretation, at every measurement, the universe splits into multiple universes and depending on the universe, the observed measurements differ. How is probability explained here? Why does one outcome have a higher probability over the other? It is explained by a concept called quantum amplitude. The rough idea: each branch has a number attached called its amplitude, and the square of that number gives the probability (this is called the Born rule). Why the universe should work that way is still debated - that's the 'probability problem' of many-worlds. It is a fun theory though. The multiple universe theory is a staple in many science fiction and even in superhero stories these days.
 
 
 

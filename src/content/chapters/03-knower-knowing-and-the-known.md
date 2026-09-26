@@ -1,4 +1,4 @@
----
+﻿---
 
 title: "3. Knower, Knowing and The Known"
 description: "3. Knower, Knowing and The Known"
@@ -105,4 +105,5 @@ Book recommendations
 Does the Center Hold? By Donald Palmer
 
 Meditations on First Philosophy, by René Descartes.
+
 

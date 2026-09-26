@@ -1,4 +1,4 @@
----
+﻿---
 
 title: "12.5 Infinities Everywhere"
 description: "12.5 Infinities Everywhere"
@@ -40,7 +40,7 @@ The other situation where we came across infinities is when we discussed the Gap
 
 Maybe real physical infinities exist but humans are incapable of grasping them. Maybe they don’t exist and what you see is what you get. We may never be able to find answers to these questions.
 
-Philosophers sometimes distinguish potential infinity from actual infinity. Potential infinity is an unending process — no matter how far you count, you can always count one more, but you never hold the whole infinite collection. Actual infinity is the idea of a completed infinite totality — like Cantor's set of all natural numbers treated as a single finished object. Whether actual infinities exist (in physics, in the mind, or anywhere) is the controversial part.
+Philosophers sometimes distinguish potential infinity from actual infinity. Potential infinity is an unending process - no matter how far you count, you can always count one more, but you never hold the whole infinite collection. Actual infinity is the idea of a completed infinite totality - like Cantor's set of all natural numbers treated as a single finished object. Whether actual infinities exist (in physics, in the mind, or anywhere) is the controversial part.
 
 ### Mental infinities
 
@@ -103,7 +103,7 @@ Cantor showed that unlike the belief of many that all infinities are the same, t
 
 ![What kind of infinity are you?](/images/Ch12_5Kind.jpg)
 
-A God who is infinite should be an absolute infinity in Cantor’s framework. What is the consequence of assuming that God exists and is the absolute infinity or just that absolute infinity exists? One could argue it like this: the Reflection Principle says that any property of the Absolute shows up somewhere smaller too. If we grant that the Absolute is infinite — and infinity is a conceivable property — then infinity must show up somewhere short of the Absolute as well. The mind, which can conceive of infinity, is a natural candidate. On this line of thought, if an Absolute Infinity exists, mental infinity comes along with it.
+A God who is infinite should be an absolute infinity in Cantor’s framework. What is the consequence of assuming that God exists and is the absolute infinity or just that absolute infinity exists? One could argue it like this: the Reflection Principle says that any property of the Absolute shows up somewhere smaller too. If we grant that the Absolute is infinite - and infinity is a conceivable property - then infinity must show up somewhere short of the Absolute as well. The mind, which can conceive of infinity, is a natural candidate. On this line of thought, if an Absolute Infinity exists, mental infinity comes along with it.
 
 Also, because God is the absolute infinity of all infinities, you can’t use rational thinking to reach God. Mathematics doesn’t allow you to do that. This is where mysticism comes into picture. Mystics say that you can reach God through mystic practices.
 
@@ -132,4 +132,5 @@ Putting them all together:
 Book recommendations
 
 Infinity and the Mind by Rudy Rucker
+
 
