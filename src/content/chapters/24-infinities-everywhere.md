@@ -19,19 +19,16 @@ Thus you reach the 2km mark, even though we divided the journey into infinitely 
 
 We have tackled the concept of infinity or closer in a couple of places. Remember the Münchhausen trilemma? There are only three ways to end the cycle of proof:
 
-The dogmatic proof
-
-The circular proof
-
-The regressive proof
+* The dogmatic proof
+* The circular proof
+* The regressive proof
 
 One way to see it is that we can keep asking for proof of every statement, proof of the proof and so on, which takes us through an infinite chain of asking for proof. This is the regressive proof. In order to avoid regressive proof, we either use the dogmatic proof or a circular proof. A dogmatic proof asserts a statement as truth without any proof. It is the brute law or axioms we use in our systems.
 
 A circular proof on the other hand, while beautiful, is considered cheating in many circumstances. For example,
 
-An evil person is one who does evil deeds.
-
-Evil deeds are the ones done by evil people.
+* An evil person is one who does evil deeds.
+* Evil deeds are the ones done by evil people.
 
 It doesn’t really tell us anything about what is evil.
 
@@ -49,9 +46,8 @@ Philosophers sometimes distinguish potential infinity from actual infinity. Pote
 
 That brings us to the next question. What about the human mind? Is there an infinity? Just like we had questions about the infinite nature of multiple entities like space, time and matter, there are a couple of different issues with mental infinities.
 
-Infinite nature of contents of the mind. Can the mind hold the idea of an infinite entity? Can the mind hold infinite entities?
-
-What happens when the mind tries to understand itself? Does it take us into an infinite loop or is it just a self-reference problem like we saw in the last chapter?
+1. Infinite nature of contents of the mind. Can the mind hold the idea of an infinite entity? Can the mind hold infinite entities?
+2. What happens when the mind tries to understand itself? Does it take us into an infinite loop or is it just a self-reference problem like we saw in the last chapter?
 
 To answer the question, let us take the list of all natural numbers. We consider them to be infinite. Can you imagine them all? We obviously could not visualise all of them in our mind. We just imagine 1, 2, 3, 4,...... What does the “....” mean? We just use it as a shorthand for the infinite numbers.
 
@@ -115,29 +111,21 @@ Also, because God is the absolute infinity of all infinities, you can’t use ra
 
 Putting them all together:
 
-Physical infinities
+* Physical infinities
 
-Do space or time have infinite boundaries?
+  * Do space or time have infinite boundaries?
+  * Is space or time infinitely divisible?
+  * Is matter infinitely divisible?
+  * We don’t know
+* Mental infinities
 
-Is space or time infinitely divisible?
+  * Can the mind hold infinite entities?
+  * If a mind holds an image of itself, is it an infinite reference or just a self reference?
+  * We don’t know
+* God - If you believe that God is an Absolute Infinite entity
 
-Is matter infinitely divisible?
-
-We don’t know
-
-Mental infinities
-
-Can the mind hold infinite entities?
-
-If a mind holds an image of itself, is it an infinite reference or just a self reference?
-
-We don’t know
-
-God - If you believe that God is an Absolute Infinite entity
-
-Mental infinity must exist
-
-You cannot reach this God by rational thinking. Mystics suggest different paths to reach such a God.
+  * Mental infinity must exist
+  * You cannot reach this God by rational thinking. Mystics suggest different paths to reach such a God.
 
 
 

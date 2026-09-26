@@ -17,13 +17,10 @@ Let’s start with the simple one.
 
 
 
-This statement is a lie.
-
-I am lying right now.
-
-Everything I say is a lie.
-
-All statements are subjective. There is no objective truth.
+1. This statement is a lie.
+2. I am lying right now.
+3. Everything I say is a lie.
+4. All statements are subjective. There is no objective truth.
 
 
 

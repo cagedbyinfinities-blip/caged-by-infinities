@@ -31,13 +31,12 @@ How do you possibly convince someone to lead a healthy life and have healthy goa
 
 The above argument is what leads to nihilism. It is based on the core belief that life has no intrinsic meaning or purpose. If you ask the Why question about anything you want to do in life, you are taken in an infinite regress like we saw with the Münchhausen trilemma. Our options here are the same
 
-Dogmatic goals
-
-Circular goals
-
+* Dogmatic goals
+* Circular goals
 
 
-Dogmatic goals are just goals without any great reasoning behind them. You pursue those goals because you want to pursue them. There is no reason you have to give anyone except “Because I want to.” Circular goals can be fun too - I want to stay healthy because I want to stay happy and I want to stay happy because I want to stay healthy.
+
+Dogmatic goals are just goals without any great reasoning behind them. You pursue those goals because you want to pursue them. There is no reason you have to give anyone except “Because I want to.” Circular goals can be fun too - I want to stay healthy because I want to stay happy and I want to stay happy because I want to stay healthy. 
 
 
 
