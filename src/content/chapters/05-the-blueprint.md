@@ -71,7 +71,7 @@ Philosopher A: Yes, I am a hypocrite.
 
 As you can see, someone can come up with a philosophy full of contradictions. If there are no basic rules of consistency which are to be met, what are we even going to debate about? There are philosophers who believe that even logical reasoning shouldn’t be taken seriously. They say that logical reasoning is a human invention and shouldn’t be taken for granted as a fundamental form of knowledge we should all rely on. How would these philosophers argue against logical reasoning without using logical reasoning? They won’t.
 
-
+![Hypocrites](/images/Ch5Hyp.jpg)
 
 Anyway, let us ignore those philosophers and ensure that the rules I listed above are met in any philosophical system we build. One may add more rules but not take away any of those rules. This is not because their philosophies are bad. It is just because it is fruitless to argue against such philosophies.
 

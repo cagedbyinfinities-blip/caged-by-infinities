@@ -38,7 +38,7 @@ Another way is to stick with partial acceptance of the scientific framework to e
 
 We will discuss them in detail in another chapter. For now, let’s focus on physicalism. Physicalism is a type of “monism”. Monist philosophies tend to explain everything based on one single fundamental entity. There are also other types of monism like idealism(everything is mental), neutral monism, Advaita(an Indian Philosophy). Physicalism says that the single fundamental entity is the physical world and there is nothing outside of it.
 
-
+![They are the same](/images/Ch9Same.jpg)
 
 If we add a brute statement making claims about physicalism to the system we built for science, it becomes something like this:
 

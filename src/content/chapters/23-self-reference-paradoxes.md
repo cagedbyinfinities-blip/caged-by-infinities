@@ -36,7 +36,7 @@ If the statement is false, then the content of the statement must be false. But 
 
 The third statement is a bit different in the sense that instead of directly talking about the statement itself, it says something about the speaker of the statement which also implies that the statement is a lie. If everything I say is a lie, that statement also must be a lie. The last statement is similar in the sense that it tells something about all statements, including itself. So a critic can ask the person who said this, “Doesn’t that mean the statement you are making itself is subjective and not the objective truth?”
 
-
+![Liar paradox](/images/Ch12_4Liar.jpg)
 
 This is what the liar’s paradox is all about. How do we explain this paradox? Some philosophers question our basic rules of logical reasoning. Why can’t a statement be both true and false? Why can’t a statement be neither true nor false? Some just call the liar paradox statements meaningless and have no philosophical implications to it. There are other serious explanations like the one given by Tarski.
 
