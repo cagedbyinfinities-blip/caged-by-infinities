@@ -183,7 +183,3 @@ What the Buddha Taught by Walpola Rahula
 
 A Critical Survey of Indian Philosophy by Chandradhar Sharma
 
-12. Popular Philosophical Debates and Paradoxes
-
-Now that we (hopefully) have a basic understanding of where each philosophy dealing with ontology and epistemology stands, we are ready to take on the philosophical debates that have been raging on for centuries and paradoxes that stump the philosophers, scientists and mathematicians alike. This section covers some of them that I have hand-picked and I believe will help you appreciate the philosophical problems better.
-
