@@ -165,7 +165,7 @@ Physicalists and many scientifically minded people don’t like these kinds of a
 
 It is up to you to decide which one you prefer. Just don’t be a solipsist, please. I promise, I have a conscious experience.
 
-![A solipsist who does not care](/images/ch16-broken-window.png)
+![A solipsist who does not care](/images/Ch11solipsist.jpg)
 
 
 
