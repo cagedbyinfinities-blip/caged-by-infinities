@@ -35,7 +35,7 @@ As you can see, the different why questions have different answers. In the case 
 
 What is the common thread across all the answers to the why questions? The answer always gives some information or knowledge based on which we can infer the answer the question was after. When someone buys too many lemons, we don’t have enough information to know why. The moment he says that he wants to drink lemon juice every day, we can infer that he wants a lot of lemons.
 
-
+![Tell Me Why - Backstreet Boys](/images/Ch2BSB.jpg)
 
 Now, the why question doesn’t stop there. I can ask him why he wants to drink lemon juice every day. He then tells me about a health article that he read about the benefits of drinking lemon juice every day. I can ask again, why the health article says it is healthy. He might explain the presence of Vitamin C in lemons that gives us health benefits. I can test this person’s patience by asking why again. At this point, he will ask me to get lost. But anyway, you see what I am getting at?
 
