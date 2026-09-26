@@ -73,15 +73,19 @@ But in scientific terms, it is necessary to mention what it is measured relative
 
 
 
-Going back to your story, Maxwell’s equation and Michelson Morley’s experiment showed that the speed of light is a certain huge value(299,792 km per second) usually represented as C. But what was it relative to? We just understood how speed is always measured relative to something else. It turned out that the speed of light remains constant no matter what your state of motion is when you are measuring it. You can stand on the top of a rocket and measure the speed of light coming from the sun. It will still be the same.
+Going back to your story, Maxwell’s equation and Michelson Morley’s experiment showed that the speed of light is a certain huge value(299,792 km per second) usually represented as C. But what was it relative to? We just understood how speed is always measured relative to something else. It turned out that the speed of light remains constant no matter what your state of motion is when you are measuring it.
 
 
 
-Einstein took the idea and calculated what happens to our understanding of space, time, and other physical laws when we assume that the speed of light is constant irrespective of the state of motion of the observer. What resulted was his special theory of relativity. The famous E=MC² was an outcome of this theory.
+Imagine you're floating in deep space, far from any planet. You measure the speed of light coming from the sun. Now imagine you do it again while racing past on a super-fast rocket. You'd expect the rocket measurement to be different — like how a ball thrown at you feels faster if you're running toward it. But with light, you get the same number both times. It doesn't add up the way everyday speeds do.
 
 
 
-Then, Einstein used what is called the equivalence principle to develop the general theory of relativity. If you are in a lift that is on a free fall from a really tall building, the things in the lift float, similar to how things float in a spaceship that is not affected by any meaningful gravity. Similarly, the feeling you get while resting on the earth is the same as the one you get when you are on a lift that is going up. Einstein saw the equivalence between the effect of gravity and an accelerating body and came up with the general theory of relativity.
+Einstein took the idea and calculated what happens to our understanding of space, time, and other physical laws when we assume that the speed of light is constant irrespective of the state of motion of the observer. What resulted was his special theory of relativity. One famous outcome was the rest-energy formula E = mc². More generally, special relativity gives E² = (pc)² + (mc²)².
+
+
+
+Then, Einstein used what is called the equivalence principle to develop the general theory of relativity. If you are in a lift that is on a free fall from a really tall building, the things in the lift float, similar to how things float in a spaceship that is not affected by any meaningful gravity. Under certain conditions — if you're in a small space and only for a short time — they can be considered equivalent. Similarly, the feeling you get while resting on the earth is the same as the one you get when you are on a lift that is going up. Einstein saw the equivalence between the effect of gravity and an accelerating body and came up with the general theory of relativity.
 
 
 

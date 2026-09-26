@@ -17,7 +17,15 @@ Imagine you are watching a video that shows a broken egg coming together to form
 
 
 
-The explanation of the arrow of time comes in terms of the second law of thermodynamics. It says that the entropy of a system only increases with time in a closed system. A super-simplistic way to define entropy is using the word disorderliness. In our egg example, a broken egg is in a more disorderly state compared to a whole egg, thereby having higher entropy. How do we quantify this disorderliness? It is defined as the number of possible microscopic ways we can arrange a system to get its macroscopic appearance.
+The explanation for the arrow of time comes from the second law of thermodynamics. It says that the entropy of an isolated system — one that doesn't exchange energy or matter with anything outside — never goes down over time; it only stays the same or increases.
+
+
+
+You've probably heard entropy described as "disorder." That's a handy shortcut: a broken egg looks more disorderly than a whole egg, so we say it has higher entropy. But "disorder" can be misleading (sometimes things look more ordered but actually have higher entropy).
+
+
+
+A better way to think about it: entropy counts how many different microscopic arrangements could produce the same big-picture appearance. A whole egg can only be arranged in a few ways and still look like a whole egg. A broken egg splattered on the floor could be arranged in countless different splatter patterns and still look like "a broken egg." More possible hidden arrangements = higher entropy.
 
 
 

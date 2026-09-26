@@ -25,7 +25,15 @@ The question of how big it is doesn’t just pertain to the spatial view of the 
 
 
 
-Our current theory is that there was a beginning of time. The universe had a start at a moment called the Big Bang, before which the universe was what they called a Singularity which is infinitely warped spacetime. Time existed only after that moment. After that, the universe kept expanding and it is what we see now. It is hard to imagine what it means to say time did not exist, especially creatures like us who are only used to a world with three dimensions of space and one dimension of time.
+Our best model says the universe was once extremely hot and dense, and it's been expanding and cooling ever since — that's what we call the Big Bang. It's tempting to picture the very beginning as a tiny point of "infinitely warped spacetime" where time itself switched on, but that's not quite right.
+
+
+
+The word "singularity" sounds like a physical thing, but it's really a warning sign. It means our equations — Einstein's general relativity — stop working there and start spitting out infinities. When your calculator says "error," you don't conclude the universe is made of errors; you conclude you need a better calculator.
+
+
+
+So did time begin at the Big Bang? Maybe. Or maybe there was something before — a previous collapse, an eternal foamy chaos, something quantum gravity will one day describe. Right now, honestly, we don't know. The Big Bang theory describes the expansion from that hot dense state very well, but what happened at the very first moment — or whether "before" even makes sense — is still an open question.
 
 
 
@@ -59,7 +67,15 @@ Is matter infinitely divisible? We have reached the standard particle model whic
 
 There are lots of phenomena we observe in the universe which are beautiful because of the mystery and sheer magnificence but not thoroughly understood by us.
 
-Black Holes - You might have heard a lot about this in science fiction. When a star more massive than a specific threshold(Chandrasekhar limit) reaches the end of its life, it explodes and forms what is called a black hole. The matter from the star gets so densely packed and creates a strong gravitational effect(bending of spacetime as we learned in theory of general relativity) that even light cannot escape it. Hence, the name black hole. It was theoretically predicted based on Einstein's laws of relativity but we have evidence of black holes existing. In fact, we have a huge one right in the centre of our galaxy. Interestingly, black holes are also predicted to have singularities in their centre, similar to the singularity we had before the big bang. Maybe each black hole has a universe inside it?
+Black Holes - You might have heard a lot about this in science fiction. When a really massive star — roughly 20 times heavier than our sun or more — reaches the end of its life, it can explode and then its core collapses under its own weight to form what we call a black hole. The matter gets packed so densely that it bends spacetime so strongly (just as Einstein's general relativity predicts) that even light cannot escape it. Hence the name black hole.
+
+
+
+You might have heard of something called the Chandrasekhar limit — that's a different threshold (about 1.4 times the sun's mass) that decides whether a smaller dead star becomes a white dwarf. Black holes come from much heavier stars, where even the forces holding up a neutron star give way.
+
+
+
+Black holes were theoretically predicted based on Einstein's laws of relativity but we now have evidence that they exist. In fact, we have a huge one right in the centre of our galaxy. Interestingly, black holes are also predicted to have singularities in their centre, similar to the singularity we had before the big bang. Maybe each black hole has a universe inside it?
 
 Dark Matter - When we observe far away galaxies, we make some predictions on their behaviour based on our estimates of how much matter is present in those galaxies. But it turns out that, based on the gravitational effect we have measured inside these galaxies, there is a lot more mass in them than we predicted. The additional matter we couldn’t account for is what we call the dark matter. Dark Matter accounts for approximately 26% of mass-energy in the universe.
 
@@ -75,7 +91,7 @@ Practical - As we know, all the measuring devices we possess have some level of 
 
 Theoretical - As explained before, Heisenberg’s uncertainty principle and quantum physics in general crash our dream of absolutely accurate predictions. Theoretically, we cannot accurately predict the future and past from its current state. We can only predict the probabilities of what we are going to observe in the future.
 
-Chaos theory - Even if we are good at making reasonable predictions in experimental settings, it gets close to impossible to do so in real life. You might have heard the butterfly effect. I am not sure of the exact wording. But it is something in the lines of how a butterfly farting in one end of the world could cause a tornado in another part of the world. Generally, the world is chaotic and even if it is governed by exact laws, it has extreme sensitivity to even small changes that makes it unpredictable in the long term.
+Chaos theory - Even if we are good at making reasonable predictions in experimental settings, it gets close to impossible to do so in real life. You might have heard the butterfly effect. I am not sure of the exact wording. But it is something in the lines of how a butterfly flapping its wings in one end of the world could cause a tornado in another part of the world. Generally, the world is chaotic and even if it is governed by exact laws, it has extreme sensitivity to even small changes that makes it unpredictable in the long term.
 
 ### Mind
 

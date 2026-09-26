@@ -23,7 +23,7 @@ Quantum physics puts theoretical limitations to our ability to do this. The clas
 
 This is roughly how it works:
 
-Any particle’s state is written in the form of what is called a wave function. The wave function tells us the probability of different states the particle could be in, when we observe it. It could say that the probability of observing it in a position X is 0.9, the probability of observing it in position Y is 0.05 and so on. The sum of all should be 1 as with all probabilistic predictions.
+Any particle’s state is written in the form of what is called a wave function. The wave function tells us the probability of different states the particle could be in, when we observe it. Think of it like a weather map. For something like a coin toss, you can say '50% heads, 50% tails' and they add to 100%. But position isn't like a coin toss — there are endless places the particle could be. So instead of a simple percentage for each spot, the wave function gives you a kind of 'likelihood map.' Where the map is darker, you're more likely to find the particle there. Add up the whole map, and you get 100% — the particle has to be somewhere.
 
 The particle’s state(wave function) evolves with time according to Schrödinger’s wave equation. Yes, he did more than talking about cats. Maybe after a few seconds, the probability of observing that particle in X is 0.05 while that of observing it in Y is 0.9.
 
@@ -43,7 +43,11 @@ If the particle’s position is known only when we make measurements, where was 
 
 
 
-The famous Schrödinger’s cat thought experiment is an attempt to explain this weirdness. In this hypothetical scenario, a cat is placed in a sealed box alongside a mechanism that releases poison if a radioactive atom decays. When the atom decays it is subject to quantum theories and is probabilistic. According to quantum theory's Copenhagen interpretation, the atom exists in a superposition of both decayed and not decayed until it is observed. So, the cat must simultaneously be both alive and dead until the box is opened. This is because before it is observed, the system’s state is a quantum function that has the probability for both to happen. Erwin Schrödinger created this paradox to show the absurdity of quantum physics.
+Erwin Schrödinger came up with a famous thought experiment — a cat in a sealed box with a tiny bit of radioactive material. If the atom decays, the cat dies; if it doesn't, the cat lives. According to one popular way of reading quantum theory, until you open the box and look, the theory doesn't tell you the cat is alive or dead — it simply refuses to give a definite answer.
+
+
+
+Pop-science often phrases this as "the cat is both alive and dead at the same time." That's catchy, but it's not quite what the theory says. Schrödinger himself wasn't claiming the cat was somehow two things at once, and he wasn't trying to prove quantum physics was nonsense — he helped build the theory. He invented the cat as a joke, to show what happens when you take that particular reading of the theory too literally and stretch it to everyday objects. A tiny particle refusing to pick a definite state is strange enough; a cat doing it is absurd — and that was exactly his point.
 
 
 
@@ -51,7 +55,19 @@ As expected, this turned the fundamentals of physics upside down. There are othe
 
 
 
-The Higgs-Boson particle is what they called the God Particle as it is this field that gives mass to the other particles.
+You may have heard the Higgs boson called the "God particle" — as if it's the one thing that gives everything its mass. The real story is more interesting and less dramatic.
+
+
+
+In our best model, there's an invisible field spread across the whole universe — the Higgs field. When tiny elementary particles like quarks and electrons move through it, they get slowed down, and that resistance is what we call their mass. Think of it like walking through water: the water drags on you, and that drag is a bit like mass.
+
+
+
+But here's the twist most pop-science skips: most of your mass doesn't come from the Higgs at all. The protons and neutrons inside your atoms get almost all their mass from the energy holding their quarks together — not from the Higgs field. The Higgs matters for the fundamental building blocks, but your bathroom scale is mostly measuring binding energy.
+
+
+
+And the nickname? It was a publisher's joke. Physicist Leon Lederman originally wanted to call it the "goddamn particle" because it was so hard to find. His publisher cleaned it up to "God particle," and the name stuck.
 
 
 
