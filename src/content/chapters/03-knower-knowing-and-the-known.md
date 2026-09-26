@@ -5,15 +5,15 @@ description: "3. Knower, Knowing and The Known"
 order: 3
 ---
 
-To tackle the What Is? question about the nature of reality, we need to find the components of our experience which we should explain. To keep things simple, we need to find the bare minimum components which cover everything we experience. Simple, isn’t it? How do we go about that?
+To tackle the *What Is?* question about the nature of reality, we need to find the components of our experience which we should explain. To keep things simple, we need to find the bare minimum components which cover everything we experience. Simple, isn’t it? How do we go about that?
 
 
 
-Let us start with a clean slate, Tabula Rasa, a Latin term which was popularised by John Locke. John Locke used it as a metaphor to a newly born human’s mind. His point was that humans are born without any kind of in-built knowledge and learn as we observe the world, unlike the rationalists (Descartes, Leibniz), who argued that some knowledge is innate.
+Let us start with a clean slate, *Tabula Rasa*, a Latin term which was popularised by John Locke. John Locke used it as a metaphor to a newly born human’s mind. His point was that humans are born without any kind of in-built knowledge and learn as we observe the world, unlike the rationalists (Descartes, Leibniz), who argued that some knowledge is innate.
 
 
 
-I am not going to dive deep into that debate. I used Tabula Rasa as a metaphor for how we should start thinking about the problem - try your best to forget everything you have learned over your life and start thinking with a clean slate. This is similar to the path which René Descartes took with his meditations. He wanted to find one thing whose existence he could be absolutely sure of. He came up with “I think, therefore I am.” His argument was that as he is the one who was thinking, his existence is of absolute certainty. Now the meaning of this “I” is itself an interesting philosophical debate. But let us leave that aside for now. He started from there and then tried to find more “truths” following that statement.
+I am not going to dive deep into that debate. I used *Tabula Rasa* as a metaphor for how we should start thinking about the problem - try your best to forget everything you have learned over your life and start thinking with a clean slate. This is similar to the path which René Descartes took with his meditations. He wanted to find one thing whose existence he could be absolutely sure of. He came up with “I think, therefore I am.” His argument was that as he is the one who was thinking, his existence is of absolute certainty. Now the meaning of this “I” is itself an interesting philosophical debate. But let us leave that aside for now. He started from there and then tried to find more “truths” following that statement.
 
 
 
@@ -21,7 +21,7 @@ Similarly, I want you, the reader, to empty your mind of all the assumptions you
 
 
 
-I think, therefore I am.
+*I think, therefore I am.
 
 
 
@@ -33,7 +33,7 @@ I can think. Thinking is what I am doing right now. I could imagine things, I co
 
 
 
-I have will. I could decide to do something and act on it with the body that seems to be in my control.
+I have will. I could decide to do something and act on it with the body that seems to be in my control.*
 
 
 

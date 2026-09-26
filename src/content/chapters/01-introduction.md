@@ -5,7 +5,7 @@ description: "1. Introduction"
 order: 1
 ---
 
-In the beginning the Universe was created. This has made a lot of people very angry and been widely regarded as a bad move - The Hitchhiker's Guide to the Galaxy by Douglas Adams
+*In the beginning the Universe was created. This has made a lot of people very angry and been widely regarded as a bad move* - The Hitchhiker's Guide to the Galaxy by Douglas Adams
 
 
 
@@ -21,7 +21,7 @@ Then there are those rare days when we stop and ask ourselves the question - Why
 
 
 
-In spite of the fact that we humans tend to smack the top of the TV remote with our hands when it stops working, we pride ourselves on being rational creatures. So it is unsurprising that we ask such questions. After all, asking the Why question is what makes us rational creatures. We have a tendency to look for reasons why things happened.
+In spite of the fact that we humans tend to smack the top of the TV remote with our hands when it stops working, we pride ourselves on being rational creatures. So it is unsurprising that we ask such questions. After all, asking the *Why* question is what makes us rational creatures. We have a tendency to look for reasons why things happened.
 
 
 
@@ -37,7 +37,7 @@ On the other hand, if you come to terms with the absurdity all around us, the ph
 
 
 
-So what’s the goal of this writing? It is my attempt to introduce people to philosophy, people who have never touched a philosophy book. My goal is to write it in a way that is easy to grasp and hopefully a bit fun. One might be tempted to call this Philosophy for Dummies. But considering the fact that I don’t have any qualification in philosophy, it is probably better called Philosophy by a Dummy.
+So what’s the goal of this writing? It is my attempt to introduce people to philosophy, people who have never touched a philosophy book. My goal is to write it in a way that is easy to grasp and hopefully a bit fun. One might be tempted to call this *Philosophy for Dummies*. But considering the fact that I don’t have any qualification in philosophy, it is probably better called *Philosophy by a Dummy*.
 
 ![Thinking about thinking](/images/Ch1Think.jpg)
 

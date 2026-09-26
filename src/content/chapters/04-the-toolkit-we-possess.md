@@ -5,11 +5,11 @@ description: "4. The Toolkit We Possess"
 order: 4
 ---
 
-We have a clear-cut challenge in our hands. We perceive a world. We can think. We have will. The goal is to explain them all in terms of the nature of reality(Ontology) and the kind of knowledge that is valid(Epistemology). As I mentioned in the previous chapter, Ontology and Epistemology are circularly dependent on each other. But we have to start somewhere.
+We have a clear-cut challenge in our hands. We perceive a world. We can think. We have will. The goal is to explain them all in terms of the nature of reality (Ontology) and the kind of knowledge that is valid (Epistemology). As I mentioned in the previous chapter, Ontology and Epistemology are circularly dependent on each other. But we have to start somewhere.
 
 
 
-We avoid starting with Ontology because there are almost infinite types of reality we can conceive, like the whole experience being a dream, or we living a Matrix, or we living inside a Matrix inside a Matrix, we living in a zoo watched by higher dimensional aliens and so on. But when it comes to the types of knowledge, we have limited types and we have already covered them. In fact, they were listed in the first paragraph of this page - We perceive a world. We can think.
+We avoid starting with Ontology because there are almost infinite types of reality we can conceive, like the whole experience being a dream, or we living in a Matrix, or we living inside a Matrix inside a Matrix, we living in a zoo watched by higher dimensional aliens and so on. But when it comes to the types of knowledge, we have limited types and we have already covered them. In fact, they were listed in the first paragraph of this page - We perceive a world. We can think.
 
 
 
@@ -27,7 +27,7 @@ Back to the topic of perceived/empirical knowledge. We get this type of knowledg
 
 ### Thinking
 
-The next type of knowledge is the one we get by just thinking. In philosophical terms, it is called rationalism. Well not exactly. I am pretty sure some expert philosophers will have concerns about what I call rationalism. But let us stick to the term, for want of a better word and stick it to those philosophers. Our ability to think involves a few sub-types
+The next type of knowledge is the one we get by just thinking. In philosophical terms, it is called rationalism. Well not exactly. I am pretty sure some expert philosophers will have concerns about what I call rationalism. But let us stick to the term, for want of a better word, apologies to any expert philosophers reading this. Our ability to think involves a few sub-types
 
 * Our ability to detect patterns
 * Logical reasoning
@@ -35,46 +35,42 @@ The next type of knowledge is the one we get by just thinking. In philosophical 
 
 
 
-Maybe I am missing a few. But these are the primary ones. Our ability to detect patterns is fairly straightforward to explain. We do this almost every second of our waking lives. We see a car coming from far in our direction and we know that it will come close to us soon. It is not suddenly going to turn into flowers. We expect sunny weather in the same months every year because we have seen the same pattern every year. Again, this sounds trivial. But to understand why this is special, imagine that you woke up one day and you don’t see the world like it is now. Instead, you see random kaleidoscopic images everywhere that don't show any patterns. The fact that we live in a world that seems to have patterns makes our ability to detect these patterns incredibly valuable.
+Maybe I am missing a few. But these are the primary ones. Our ability to detect patterns is fairly straightforward to explain. We do this almost every second of our waking lives. We see a car coming from far in our direction and we know that it will come close to us soon. It is not suddenly going to turn into flowers. We expect sunny weather in the same months every year because we have seen the same pattern every year. Again, this sounds trivial. But to understand why this is special, imagine that you wake up one day and you don’t see the world like it is now. Instead, you see random kaleidoscopic images everywhere that don't show any patterns. The fact that we live in a world that seems to have patterns makes our ability to detect these patterns incredibly valuable.
 
 
 
 We also have the ability to do logical reasoning. There are two fundamental laws of logical reasoning.
 
 * The law of identity - A thing is identical to itself. A goat is a goat. It is not a sheep.
-* Law of non-contradiction - A thing cannot be both something and its opposite at the same time. A room cannot be both small and big. You cannot both love and hate a song.
+* Law of non-contradiction - A thing cannot be both something and its opposite at the same time. A room cannot be both small and big. A door cannot be both open and shut, in the same sense, at the same time.
 
 
 
-There is another law called the law of excluded middle which says that any statement must be either true or false. But this one is a bit controversial as there are many philosophers who question this take. Some eastern philosophies, for example, state that something can be true, false, both true and false or neither true or false.
+There is another law called the law of excluded middle which says that any statement must be either true or false. But this one is a bit controversial as there are many philosophers who question this take. Some eastern philosophies, for example, state that something can be true, false, both true and false or neither true nor false.
 
 
 
-The last is our ability to make inferences. If two sides of a triangle are of lengths 3cm and 4cm, you infer that the third side must be less than 7cm because of mathematical laws. Formally speaking, there are 4 types of inferences
+The last is our ability to make inferences. If two sides of a triangle are of lengths 3cm and 4cm, you infer that the third side must be less than 7cm because of mathematical laws. Formally speaking, there are three types of inferences
 
-* Deductive reasoning - This uses a Top-down logic.
-
-  * All athletes are fit. Cristiano Ronaldo and Messi are athletes. So, they must be fit.
-* Inductive reasoning - This uses Bottom-up logic.
-
-  * I talked to about ten British people and they were all polite. All British people must be polite.
-* Abductive reasoning - Finding the most possible explanation for something.
-
-  * I heard my neighbour watching a football game with his friends and celebrating. His wife must be out of town.
-* Formal Logic
-
+* Deductive reasoning - This uses a top-down logic and uses some strict rules of formal logic.
   * If A implies B and A is true, then B is true
   * If A implies B and B is false, then A is false
   * If A implies B and B implies C, then A implies C
   * If either A or B is true and A is false, then B is true
+  * All athletes are fit. Cristiano Ronaldo and Messi are athletes. So, they must be fit.
+* Inductive reasoning - This uses Bottom-up logic.
 
+  * I talked to about ten British people and they were all polite. All British people must be polite.
+* Abductive reasoning - Finding the most plausible explanation for something.
+
+  * I heard my neighbour watching a football game with his friends and celebrating. His wife must be out of town.
 
 
 This is by no means complete. But this is enough to give you an idea of what rationalism is all about. It helps us validate if something is true or derive one statement from other statements. It also helps us to start with some statements which are true and derive other true statements from them. Like we do with Mathematics and Geometry. We start with axioms and we use rational thinking to derive theorems. We just have to follow the rules of logical reasoning and inferences.
 
 ### Mixing them up
 
-In our day-to-day lives, we mix them up a lot. Even in the examples I have mentioned under the Thinking section, I use experienced knowledge. For example, the fact that my neighbour was watching football is knowledge I gained out of perception. But concluding that his wife wasn’t around is knowledge I achieved by making an inference based on what I observed, which is rationalism.
+In our day-to-day lives, we mix them up a lot. Even in the examples I have mentioned under the *Thinking* section, I use experienced knowledge. For example, the fact that my neighbour was watching football is knowledge I gained out of perception. But concluding that his wife wasn’t around is knowledge I arrived at by making an inference based on what I observed, which is rationalism.
 
 
 
@@ -96,7 +92,7 @@ Are rationalism and empiricism all kinds of knowledge we are capable of? Maybe t
 
 
 
-Mystic philosophies believe that there is a different type of knowledge we could potentially access, that takes us to the Absolute Truth or God. By definition, knowledge is not something we can explain with words to others, though the method to achieve this knowledge is generally shared and is obviously not easy.
+Mystic philosophies believe that there is a different type of knowledge we could potentially access, that takes us to the Absolute Truth or God. By definition, this knowledge is not something we can explain with words to others, though the method to achieve this knowledge is generally shared and is obviously not easy.
 
 
 ![I drink and I know things](/images/Ch4Drink.jpg)
@@ -104,15 +100,14 @@ Mystic philosophies believe that there is a different type of knowledge we could
 
 
 
-Recommended books
-
+Book Recommendations
 
 
 Tractatus Logico-Philosophicus by Ludwig Wittgenstein
 
 The Encyclopedia Logic by G.W.F Hegel
 
-
+An Enquiry Concerning Human Understanding by David Hume
 
 Both are about rationalism. I don’t have any books to recommend about empiricism. Just stay awake and experience the world and you are good.
 

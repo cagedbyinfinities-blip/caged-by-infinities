@@ -15,14 +15,14 @@ From here, we take it to the next level which is a Scientific Philosophical Syst
 
 We are going to add 2 new rules along with the existing rule of logical reasoning and inferences and the necessity to posit truths about the nature of reality and knowledge. Remember that we said that it is fine to add rules to the system but not remove any of the existing rules. The new rules set more conditions on when a physical law can be added to the system.
 
-* The law must make observable predictions and be falsifiable.
-* Occam’s razor - When you have two competing theories that explain an event equally well, you should prefer the one that makes the fewest assumptions or has the least complexity.
+* The law must make observable predictions and be falsifiable. This is the philosopher Karl Popper's famous test for what counts as science.
+* Occam’s razor - When you have two competing theories that explain an event equally well, you should prefer the one that makes the fewest assumptions or has the least complexity. It is named after the 14th-century philosopher William of Ockham.
 
 
 
 We also add one Brute statement to the system.
 
-* The general physical laws are symmetrical across space and time
+* The physical laws are symmetrical across space and time
 
 ### Predictions and Falsifiability
 
@@ -37,7 +37,7 @@ In fact, we found that Newton’s law of Gravitation has its limitations. It cou
 
 
 
-Now, we could either drop Newton's law entirely from the system, or retain it with a caveat that it works only on specific conditions. We did the latter because Newton’s law of Gravitation covers our needs for most cases. It is only in some extreme circumstances like motion around black holes, do we need Einstein's law.
+Now, we could either drop Newton's law entirely from the system, or retain it with a caveat that it works only on specific conditions. We did the latter because Newton’s law of Gravitation covers our needs for most cases. It is only in extreme circumstances — like motion around black holes — that we need Einstein's theory.
 
 
 
@@ -61,19 +61,19 @@ While both the statements could be experimentally verified by just dropping obje
 
 
 
-Why should the Occam Razor be true? It doesn’t have to be. But science follows this rule to choose between competing theories explaining the same phenomenon and giving the same results and hence it is a rule in the scientific philosophical system.
+Why should Occam's Razor be true? It doesn’t have to be. But science follows this rule to choose between competing theories explaining the same phenomenon and giving the same results and hence it is a rule in the scientific philosophical system.
 
 ### Laws of Symmetry across Space and Time
 
-There are multiple laws of symmetry. To build the scientific philosophical system, we need the law of symmetry across space and time. It says that the fundamental laws of physics remain unchanged regardless of where or when you perform the experiment. We need this as a brute law because it is fundamental to our rule of predictions and falsifiability.
+There are multiple laws of symmetry. To build the scientific philosophical system, we need the law of symmetry across space and time. It says that the fundamental laws of physics remain unchanged regardless of where or when you perform the experiment. The mathematician Emmy Noether showed why this matters — symmetries in nature correspond to conservation laws. We need this as a brute law because it is fundamental to our rule of predictions and falsifiability.
 
 
 
-Imagine a world where the laws of gravity change every day. The force of attraction increases and decreases every other day. One day, you would struggle to get out of the bed and walk even a few steps. The next day, you jump around like the whole earth is a trampoline. Evolution might have resulted in us being able to adapt to it in weird ways. So it might be more fun after all. But from a scientific perspective, how can we even experimentally verify a proposed law if the laws are going to keep changing every day? There won’t be any law in that case. From our millennia of observations, it looks like this is a fair brute law to accept.
+Imagine a world where the laws of gravity change every day. The force of attraction increases and decreases every other day. One day, you would struggle to get out of bed and walk even a few steps. The next day, you jump around like the whole earth is a trampoline. Evolution might have resulted in us being able to adapt to it in weird ways. So it might be more fun after all. But from a scientific perspective, how can we even experimentally verify a proposed law if the laws are going to keep changing every day? There won’t be any law in that case. From our millennia of observations, it looks like this is a fair brute law to accept.
 
 
 
-Putting them all together, we have the final Scientific philosophical system.
+Putting them all together, we have the final Scientific Philosophical System.
 
 * It has the following rules to add any statement to the system
 
@@ -90,5 +90,5 @@ Putting them all together, we have the final Scientific philosophical system.
 
 
 
-How did the brute statements from the layman’s philosophy sneak in here? Do they agree with all the rules of the system? It is a grey area because neither of them are easily falsifiable. But they are still part of the scientific system. Assume that the rules around falsifiability and occam’s razor only apply for any new physical law we are going to add.
+How did the brute statements from the layman’s philosophy sneak in here? Do they agree with all the rules of the system? It is a grey area because neither of them are easily falsifiable. But they are still part of the scientific system. Assume that the rules around falsifiability and Occam’s razor only apply for any new physical law we are going to add.
 

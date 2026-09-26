@@ -9,11 +9,11 @@ Where are we now? We are trying to answer the What Is? question. We want to expl
 
 
 
-We now have a system named The Informal Philosophical system that one can use to come up with any philosophical system. The system has rules that it must tell truths about the nature of reality and knowledge and it must follow rules of logical consistency and inferences.
+We now have a system named **The Informal Philosophical System** that one can use to come up with any philosophical system. The system has rules that it must tell truths about the nature of reality and knowledge and it must follow rules of logical consistency and inferences.
 
 
 
-We have a foundation and we are going to build on that. Let us add our first statements to the system. We begin by taking some very obvious assumptions we make in our day to day life and add it to our system. These are assumptions we make in our real life without really having any direct empirical evidence. But the patterns we have seen in the world for years since we were born means we take them for granted. We don’t dare question these assumptions. There are two main ones. These assumptions fit as Brute statements in our system:
+We have a foundation and we are going to build on that. Let us add our first statements to the system. We begin by taking some very obvious assumptions we make in our day to day life and add them to our system. These are assumptions we make in our real life without really having any direct empirical evidence. But the patterns we have seen in the world for years since we were born means we take them for granted. We don’t dare question these assumptions. There are two main ones. These assumptions fit as Brute statements in our system:
 
 
 
@@ -37,7 +37,7 @@ If it may not be true, why do we feel sure that it is true? This is the result o
 
 ### Other minds
 
-When I started talking about the clean slate approach in the chapter Knower, Knowing and The Known, I wrote everything in terms of “I” instead of “We”, do you remember? That’s because I know only my own mind for sure. Not other people’s minds. The same is true with you, if you have a mind like mine. But I just assume that all the people around me have minds just like mine. So do you, if you have a mind like mine.
+When I started talking about the clean slate approach in the chapter Knower, Knowing and The Known, I wrote everything in terms of “I” instead of “We”, do you remember? That’s because I know only my own mind for sure. Not other people’s minds. The same is true with you, if you have a mind like mine. But I just assume that all the people around me have minds similar to mine. So do you, if you have a mind like mine.
 
 
 
@@ -45,23 +45,23 @@ Solipsism is the idea that only your own mind is sure to exist. You don’t have
 
 
 
-Don’t get ready to refer me to a mental hospital. At least not yet. If it is hard to get this argument, the other way to look at it is that if someone built a robot that looks and behaves exactly like a human, would you believe that the robot has a mental experience like you? Or is it just an object built of chips that does computation that gives us an illusion of having a mind? Some may say a robot has a mind, some may say not. We don’t have direct access to a robot’s mind. Apply the same idea to humans too. You don’t have direct access to their mental experience. And yet, you assume they have one, just like yours.
+Don’t get ready to refer me to a mental hospital. At least not yet. If it is hard to get this argument, the other way to look at it is that if someone built a robot that looks and behaves exactly like a human, would you believe that the robot has a mental experience like you? Or is it just an object built of chips that does computation that gives us an illusion of having a mind? Some may say a robot has a mind, some may say not. We don’t have direct access to a robot’s mind. Apply the same idea to humans too. You don’t have direct access to their mental experience. And yet, you assume they have one, similar to yours.
 
 
 
-Like the objective world assumption, it is easy to understand why we make this assumption. Being a solipsist is a sure-shot way to be considered a mentally retarded person by society. Maybe that’s the plan after all. Maybe the world is just a prison for you, the people you see around you are zombies(aka Philosophical Zombies) who don’t have a mind like you but you are forced to accept that they all have minds because not doing so will mean you will be treated as a mentally retarded person by those zombies.
+Like the objective world assumption, it is easy to understand why we make this assumption. Being a solipsist is a sure-shot way to be considered crazy by the society. Maybe that’s the plan after all. Maybe the world is just a prison for you, the people you see around you are zombies(aka Philosophical Zombies) who don’t have a mind like you but you are forced to accept that they all have minds because not doing so will mean you will be treated as someone who's lost their mind by those zombies.
 
 
 
-In a way, this also comes from our ability to see patterns. You see that all the other humans have similar bodies like you and behave very similarly to you. So you assume that they all have minds, just like you. It is a fair call. But still it is an assumption. It must be added as a Brute Statement.
+In a way, this also comes from our ability to see patterns. You see that all the other humans have similar bodies like you and behave very similarly to you. So you assume that they all have minds, similar to you. It is a fair call. But still it is an assumption. It must be added as a Brute Statement.
 
 
 
-This statement leads to a lot of further questions.For example, do animals have minds like you. What about insects? Micro organisms and bacteria? Where do you draw the line between organisms with mind and without mind? Or do we have levels of mind? A micro organism has a teeny tiny bit of mind. An insect has a little bit more. Animals have a lot more. Humans have the most mind there is. Quite nice to keep ourselves at the top of the hierarchy, isn’t it?
+This statement leads to a lot of further questions. For example, do animals have minds like you? What about insects? Micro-organisms and bacteria? Where do you draw the line between organisms with mind and without mind? Or do we have levels of mind? A micro organism has a teeny tiny bit of mind. An insect has a little bit more. Animals have a lot more. Humans have the most mind there is. Quite nice to keep ourselves at the top of the hierarchy, isn’t it?
 
 
 
-Philosophy of mind or the hard problem of consciousness is a vast topic in itself, which we will deal with later. For now, we just add another brute statement that Other people you see in this objective world have minds.
+Philosophy of mind, including the hard problem of consciousness, is a vast topic in itself, which we will deal with later. For now, we just add another brute statement that Other people you see in this objective world have minds.
 
 
 
@@ -71,13 +71,13 @@ These are the two brute assumptions we make about reality in our day to day life
 
 
 
-Putting them all together, this is how The layman’s philosophical system
+Putting them all together, this is The layman’s philosophical system so far.
 
 * It has the following Brute statements
 
   * An objective world exists.
-  * People around us have minds just like us.
-* You add inferred rules as you see fit.
+  * People around us have minds similar to ours.
+* You add inferred statements as you see fit.
 
 
 

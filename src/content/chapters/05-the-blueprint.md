@@ -20,7 +20,7 @@ Now our job is to add an ontology to complete a philosophy that answers the What
 
 These four statements together form a philosophy that is consistent. But none of these statements have any proof. I mentioned in the previous chapter that the requirements of a philosophical system are:
 
-1. The system must consistent within itself
+1. The system must be consistent within itself
 2. The system must explain the self/mind, the world and the nature of knowledge
 
 
@@ -32,7 +32,7 @@ What the system is not expected to do is to have a proof for every statement. So
 Considering the two requirements we have for a philosophical system, is there a structure to what a philosophical system generally looks like? There is indeed. Maths has something called a Formal System. There is a technical definition of what it means, which I will not go into, because we are not going to use it. We will build something else that is less strict and is just enough to help us build what we want to build. Let us call it the Informal System and it has the following components.
 
 * **Brute statements** - These are plain statements taken as facts without any proof. They are akin to axioms in mathematical language.
-* **Inferred statements** - These are statements which are inferred from the Brute statements are other inferred statements. The brute statements or other inferred statements from which this statement is derived are the proofs of this statement. The inferred statements are akin to theorems in mathematical language.
+* **Inferred statements** - These are statements which are inferred from the Brute statements or other inferred statements. The brute statements or other inferred statements from which this statement is derived are the proofs of this statement. The inferred statements are akin to theorems in mathematical language.
 * **Rules** that the statements have to follow to be part of the system.
 
 
@@ -40,12 +40,12 @@ Considering the two requirements we have for a philosophical system, is there a 
 What are these rules? They are there to ensure that the requirements for a philosophical system are met.
 
 * The statements are about reality and knowledge which are considered true in the philosophical system that is proposed.
-* You can’t have two statements in a system saying logically contradictory things. For example, “The pizza was tasty” and “The pizza had pineapples on it” are contradictory statements and have no business to be in our informal system together.
+* You can’t have two statements in a system saying logically contradictory things. For example, 'The pizza was tasty' and 'The pizza was not tasty' are contradictory statements and have no business being in our informal system together.
 * Any inferred statement must follow one of the rules of inferences. For example:
 
-  * Brute statement - God punishes bad people
-  * Brute statement - Murderers are bad people
-  * Inferred statement - God punishes murderers
+  * **Brute statement** - God punishes bad people
+  * **Brute statement** - Murderers are bad people
+  * **Inferred statement** - God punishes murderers
 
 
 
@@ -55,15 +55,15 @@ Any statement going into the informal system must follow the above rules. And he
 
 If we avoid this, there is no point in philosophical debates. This is how a debate would go, if we don’t have these rules:
 
-Philosopher A: I think that any multi cellular organism is conscious and must be treated as equal to a human life.
+Philosopher A: *I think that any multicellular organism is conscious and must be treated as equal to a human life.*
 
-Philosopher B: Alright, so you are willing to face punishment for swatting mosquitoes?
+Philosopher B: *Alright, so you are willing to face punishment for swatting mosquitoes?*
 
-Philosopher A: No. Punishments should be given only for taking away human lives.
+Philosopher A: *No. Punishments should be given only for taking away human lives.*
 
-Philosopher B: But you said that all lives are equal to human life.
+Philosopher B: *But you said that all lives are equal to human life.*
 
-Philosopher A: Yes, I am a hypocrite.
+Philosopher A: *Yes, I am a hypocrite.*
 
 
 
@@ -85,7 +85,7 @@ You can do both. How you build the system is up to you. The latter idea of start
 
 
 
-Mathematics on the other hand mostly uses the first approach where we generally have a set of well defined brute statements known as axioms and we try to derive theorems using laws of inference from these axioms.
+Mathematics on the other hand mostly uses the first approach where we generally have a set of well-defined brute statements known as axioms and we try to derive theorems using laws of inference from these axioms.
 
 ### Münchhausen trilemma
 
@@ -93,7 +93,7 @@ Before we go further into building this system, I am going to dampen your mood b
 
 
 
-Let us say we want to add a statement to the system. We either add it is a brute statement or an inferred statement. Can any statement in the system be completely proven? As you can see from the system’s definition, any statement is a brute statement itself or inferred from other brute statements. Take one statement from the system and ask why it is true. If it is an inferred statement, the question can be answered by brute statements or other inferred statements which lets you derive the statement. If you ask why about one of these inferred statements, it would take you to other inferred or brute statements.
+Let us say we want to add a statement to the system. We either add it as a brute statement or an inferred statement. Can any statement in the system be completely proven? As you can see from the system’s definition, any statement is a brute statement itself or inferred from other brute statements. Take one statement from the system and ask why it is true. If it is an inferred statement, the question can be answered by brute statements or other inferred statements which lets you derive the statement. If you ask why about one of these inferred statements, it would take you to other inferred or brute statements.
 
 
 
@@ -118,7 +118,7 @@ For example, consider the statement “Light from the sun takes 8 minutes and 20
 
 Translating this to our informal philosophical system, if we keep going back in the chain, we will eventually end up with a brute statement we have to take for granted, go in a circular chain between statements in the system or go in an infinite regression with no end in sight. For the last thing to happen, the set must have an infinite number of statements.
 
-Most popular philosophies rely on dogmatic proofs - A bunch of brute statements which set a solid philosophical foundation for the rest of the statements. There are some philosophies which rely on circular proofs too, something that Rene Descartes is accused of. As for infinite regression, there are some obscure philosophies which are based on infinity itself.
+Most popular philosophies rely on dogmatic proofs - A bunch of brute statements which set a solid philosophical foundation for the rest of the statements. There are some philosophies which rely on circular proofs too, something that René Descartes is accused of - the so-called 'Cartesian circle' spotted by his contemporary Antoine Arnauld. As for infinite regression, there are some obscure philosophies which are based on infinity itself.
 
 This means that any informal philosophical system we build will have at least one of these:
 

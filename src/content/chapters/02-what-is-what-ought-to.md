@@ -1,7 +1,7 @@
 ---
 
-title: "2. What Is? What ought to?"
-description: "2. What Is? What ought to?"
+title: "2. What Is? What Ought To?"
+description: "2. What Is? What Ought To?"
 order: 2
 ---
 
@@ -9,23 +9,23 @@ Let us begin with the kind of problems Philosophy tries to solve. The first thin
 
 
 
-Why is that car parked upside down? Because it lost control and went off the road at high speed.
+*Why is that car parked upside down?* Because it lost control and went off the road at high speed.
 
 
 
-Why are roses red in colour? Because they are made of molecules which absorb other wavelengths and reflect light of red wavelength.
+*Why are roses red in colour?* Because they are made of molecules which absorb other wavelengths and reflect light of red wavelength.
 
 
 
-Why did you buy so many lemons? Because I want to drink lemon juice every day.
+*Why did you buy so many lemons?* Because I want to drink lemon juice every day.
 
 
 
-Why should we ban drunken driving? Because we want to keep the road users safe.
+*Why should we ban drunken driving?* Because we want to keep the road users safe.
 
 
 
-Why is the sum of lengths of two sides of a triangle always greater than the length of the third side? Because…. Some mathematical proof that I was taught in school but I don’t remember now.
+*Why is the sum of lengths of two sides of a triangle always greater than the length of the third side?* Because…. Some mathematical proof that I was taught in school but I don’t remember now.
 
 
 
@@ -45,39 +45,39 @@ Pretty much every event that happens and every fact known can be formulated as p
 
 
 
-Philosophy doesn’t ask the why question on such mundane things. It usually asks what is supposed to be the ultimate why question - Why are we experiencing the world as it is?
+Philosophy doesn’t ask the why question on such mundane things. It usually asks what is supposed to be the ultimate why question - **Why are we experiencing the world as it is?**
 
 
 
-It is an earnest wish to learn more about reality. How did we find ourselves in this world? Why are we experiencing time and space this way? Is the sequence of the big bang, an expanding universe, a galaxy, a star, a planet, life and evolution all there is? Is there a God? Is there something else? Is this all a dream? Are we in the Matrix while our real bodies are locked in a pod with tubes attached to us in awkward positions? These are the kind of questions philosophers try to answer. It would make things more precise, if we replace the why question with the What Is? question. This questions the nature of reality and existence.
+It is an earnest wish to learn more about reality. How did we find ourselves in this world? Why are we experiencing time and space this way? Is the sequence of the big bang, an expanding universe, a galaxy, a star, a planet, life and evolution all there is? Is there a God? Is there something else? Is this all a dream? Are we in the Matrix while our real bodies are locked in a pod with tubes attached to us in awkward positions? These are the kind of questions philosophers try to answer. It would make things more precise, if we replace the why question with the *What Is?* question. This questions the nature of reality and existence.
 
 
 
-Because we humans are capable of thinking and acting, at least sometimes, there is another kind of question philosophers ponder over - What Ought To? This is the field of philosophy that focuses on what humans are supposed to do. What is the purpose of life? What are the moral values we should live by? Even political and economic theories emerge from these studies.
+Because we humans are capable of thinking and acting, at least sometimes, there is another kind of question philosophers ponder over - *What Ought To?* This is the field of philosophy that focuses on what humans are supposed to do. What is the purpose of life? What are the moral values we should live by? Even political and economic theories emerge from these studies.
 
 
 
-How does the what ought to question relate to the why question? Other than the fact that we experience this world, we also seem to have something like free will and that means we act with intent, maybe not when we are drunk. We have a feeling that we have a choice to act in so many ways. The philosopher asks what one ought to do and the reason why one ought to do it. Consider the following question and the two potential answers.
+How does the *What Ought To?* question relate to the why question? Other than the fact that we experience this world, we also seem to have something like free will and that means we act with intent, maybe not when we are drunk. We have a feeling that we have a choice to act in so many ways. The philosopher asks what one ought to do and the reason why one ought to do it. Consider the following question and the two potential answers.
 
 
 
-Why did you decide to climb that dangerous mountain?
+*Why did you decide to climb that dangerous mountain?*
 
 
 
-Answer 1: Because I have seen the pictures and the brain cells and nerve cells in my body reacted in a way to push me to climb it.
+Answer 1: *Because I have seen the pictures and the brain cells and nerve cells in my body reacted in a way to push me to climb it.*
 
 
 
-Answer 2: Because humans need to have purpose and ambitions. And my ambition is to climb that mountain. What doesn’t kill you makes you stronger, as Nietzsche put it.
+Answer 2: *Because humans need to have purpose and ambitions. And my ambition is to climb that mountain. What doesn’t kill you makes you stronger, as Nietzsche put it.*
 
 
 
-The first answer explains it in biological terms which is primarily related to the What Is? question. The second answer explains it in terms of human will though one might argue that climbing the mountain might indeed kill him. The second one is the kind of answer we expect when we are dealing with the what ought to question. We have numerous choices when we decide what we want to do.
+The first answer explains it in biological terms which is primarily related to the *What Is?* question. The second answer explains it in terms of human will though one might argue that climbing the mountain might indeed kill him. The second one is the kind of answer we expect when we are dealing with the *What Ought To?* question. We have numerous choices when we decide what we want to do.
 
 
 
-Some philosophers argue that the What Is? question is the ultimate question and what ought to and many other questions are downstream of the What Is? question. But other philosophers respond by pointing out that humans will never find answers to the What Is? question and hence we should try to find answers for what ought to question irrespective of the answer to the What Is? question.
+Some philosophers argue that the *What Is?* question is the ultimate question and *What Ought To?* and many other questions are downstream of the *What Is?* question. But other philosophers respond by pointing out that humans will never find answers to the *What Is?* question and hence we should try to find answers for the *What Ought To?* question irrespective of the answer to the *What Is?* question.
 
 
 
@@ -85,11 +85,11 @@ As I promised in the Introduction, I am not going to take sides here. All you ha
 
 1. We experience a world. What is the nature of this world?
 
-2. We have the ability to choose how to act. What Ought To? The question deals with our moral values and purpose of life.
+2. We have the ability to choose how to act. *What Ought To?* The question deals with our moral values and purpose of life.
 
 ![The Triad](/images/Ch2_triad.jpg)
 
-We will deal with the What Is? question in the upcoming chapters, after which we will move on to the what ought to question.
+We will deal with the *What Is?* question in the upcoming chapters, after which we will move on to the *What Ought To?* question.
 
 
 
