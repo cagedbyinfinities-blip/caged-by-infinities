@@ -61,6 +61,7 @@ Build yourself one or pick an existing philosophical system that has a lot of br
 
 
 Just remember…..
+![Draw 25](/images/Ch13Notalie.jpg)
 
 
 

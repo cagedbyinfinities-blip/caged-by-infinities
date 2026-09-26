@@ -47,7 +47,7 @@ And then…. BAMMMM! You get a visual experience of the object in its colour. Th
 
 Philosophers question this because none of the phenomena we observe directly and are explained by science covers this. We see objects moving. We see objects experiencing different types of forces. But we never see the signals reaching the neurons in the brain translating into qualitative experience. We experience it directly. But we cannot see how this works. When we look at others, we can categorically say that the light waves from a bulb reaches their eyes and then their brains, but we never get to actually see them experiencing the light. You don’t have direct access to their visual experience of the scene.
 
-
+![Qualia](/images/Ch10_2Qualia.jpg)
 
 This leads to the problem of inverted qualia. What if the blue colour you see throughout your life is seen as yellow by your friend? When you look at the bluebells, both of you call it blue. But within your friend’s mind, the colour of the bluebell looks exactly the same as how a yellow coloured flower looks to you. Because this has been the case ever since your friend was born, he calls it blue colour even though his sensory experience of the blue colour is same as the sensory experience of your yellow colour and vice versa. You have no way to know if this is the case.
 

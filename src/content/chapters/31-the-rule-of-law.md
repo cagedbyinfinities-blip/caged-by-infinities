@@ -68,7 +68,7 @@ And this is why I hate many debates:
 
 Hope you are all as frustrated with modern political discourse as I am. For most people, this seems to be their ideology:
 
-
+![Auth](/images/Ch18Auth.jpg)
 
 
 
