@@ -17,13 +17,10 @@ This could be a lot to swallow. Let me break it down.
 
 
 
-The world we observe has matter. It is easy to assume matter is just solid or liquid substances. It also includes gaseous substances. The chair you are sitting on is made of matter. The water you drink has matter. The air you breathe has matter in forms of nitrogen, oxygen and carbon dioxide.
-
-The matter changes dynamically in the arena of space and time. This is fairly straightforward.
-
-This matter can be broken down further into smaller particles at different levels, each having their own properties.
-
-These particles interact via forces - Gravitational and electromagnetic forces. An apple falling from the tree is because of Gravitational force. Electric motors and Magnets work because of electromagnetic forces.
+* The world we observe has matter. It is easy to assume matter is just solid or liquid substances. It also includes gaseous substances. The chair you are sitting on is made of matter. The water you drink has matter. The air you breathe has matter in forms of nitrogen, oxygen and carbon dioxide.
+* The matter changes dynamically in the arena of space and time. This is fairly straightforward.
+* This matter can be broken down further into smaller particles at different levels, each having their own properties.
+* These particles interact via forces - Gravitational and electromagnetic forces. An apple falling from the tree is because of Gravitational force. Electric motors and Magnets work because of electromagnetic forces.
 
 
 
@@ -91,15 +88,11 @@ Then, Einstein used what is called the equivalence principle to develop the gene
 
 The special theory of relativity is mathematically very accessible while the general theory of relativity gives you impostor syndrome. But you don’t have to understand the mathematics of the theories to be stuck in awe of the implications of the theories, which are:
 
-Space and Time aren’t separate like we assumed. They are a single intertwined entity named spacetime.
-
-Space and Time aren’t absolute like we assumed. Imagine I am in a space station outside the solar system. You took a space ship from the station and travelled very close to the speed of light. The length of objects you measure is smaller from the length of the same object I measure. When you are travelling, the time elapsed in your clock will look slower than the time elapsed in my clock if I could observe you. And the time observed in my clock will look slower than your clock if you could observe me. When you do a round trip and come back to the station, the time elapsed in your clock will be slower than mine.
-
-Objects with mass bend spacetime. As a result, if you go near a heavy planet or if you go near a blackhole, the time in your clocks will be slower than the time on mine. This is also how gravity really works. Because huge masses bend spacetime, it changes your path in spacetime in a way that you are pulled towards the huge mass.
-
-There is a limit on how fast you can travel. It is the speed of light.
-
-Mass and energy are inter-convertible. This is an interesting outcome of the theory of relativity, popularly known by the mass-energy equation E=mC^2.
+* Space and Time aren’t separate like we assumed. They are a single intertwined entity named spacetime.
+* Space and Time aren’t absolute like we assumed. Imagine I am in a space station outside the solar system. You took a space ship from the station and travelled very close to the speed of light. The length of objects you measure is smaller from the length of the same object I measure. When you are travelling, the time elapsed in your clock will look slower than the time elapsed in my clock if I could observe you. And the time observed in my clock will look slower than your clock if you could observe me. When you do a round trip and come back to the station, the time elapsed in your clock will be slower than mine.
+* Objects with mass bend spacetime. As a result, if you go near a heavy planet or if you go near a blackhole, the time in your clocks will be slower than the time on mine. This is also how gravity really works. Because huge masses bend spacetime, it changes your path in spacetime in a way that you are pulled towards the huge mass.
+* There is a limit on how fast you can travel. It is the speed of light.
+* Mass and energy are inter-convertible. This is an interesting outcome of the theory of relativity, popularly known by the mass-energy equation E=mC^2.
 
 
 
@@ -111,9 +104,8 @@ The fact that time runs differently for different people is probably one of the 
 
 Classical physics is a vast subject and I only touched the surface of it with too many simplifications that I am not particularly proud of. But to convey my thoughts about philosophy, what we have seen now is enough. There are two major philosophical implications from classical physics.
 
-Determinism - If the classical physics assumption that if we know the position and momentum of all particles in the universe, we can predict the future state is true, does it mean that the universe’s fate is pre-written? But what about free-will? We feel like we are in control of our actions. If it is all pre-determined, does it mean that free-will is an illusion?
-
-Nature of space and time - This one is on relativity. The idea that spacetime isn’t absolute and can be bent breaks down or at least asks some difficult questions to many philosophies. For example, many religions rely on a God watching the world and affecting things in the world based on people’s actions. If time goes differently in different parts of the Universe and for different people, how does time flow for God? It’s not just Religion. Many philosophers before relativity wrote their philosophies on the fundamental assumption that space and time are absolute. Turns out they are not.
+* **Determinism** - If the classical physics assumption that if we know the position and momentum of all particles in the universe, we can predict the future state is true, does it mean that the universe’s fate is pre-written? But what about free-will? We feel like we are in control of our actions. If it is all pre-determined, does it mean that free-will is an illusion?
+* **Nature of space and time** - This one is on relativity. The idea that spacetime isn’t absolute and can be bent breaks down or at least asks some difficult questions to many philosophies. For example, many religions rely on a God watching the world and affecting things in the world based on people’s actions. If time goes differently in different parts of the Universe and for different people, how does time flow for God? It’s not just Religion. Many philosophers before relativity wrote their philosophies on the fundamental assumption that space and time are absolute. Turns out they are not.
 
 
 

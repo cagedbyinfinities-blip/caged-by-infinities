@@ -11,11 +11,9 @@ Anyone who has dabbled in the field of philosophy would have definitely come acr
 
 Before we get into the hard problem, let’s first work out what Consciousness is. I have been using the term “mind” so far as I was just too lazy to type “consciousness”. We will use the both interchangeably. What does a mind constitute?
 
-Experience - Both that of the external world and the Internal world.
-
-Thinking
-
-Intentionality - Will to do things
+* Experience - Both that of the external world and the Internal world.
+* Thinking
+* Intentionality - Will to do things
 
 
 
@@ -107,11 +105,11 @@ There are also questions around the evolutionary advantages of qualia. Take a hu
 
 #### Subjective vs Objective
 
-Beauty lies in the eye of the beholder
+*Beauty lies in the eye of the beholder*
 
-Art is subjective
+*Art is subjective*
 
-Your mileage may vary
+*Your mileage may vary*
 
 
 
@@ -125,13 +123,10 @@ On one hand, when we think about qualia, we assume that all of us sense things t
 
 As mentioned before, we don’t have a single agreed answer to the explanation of mind in the physicalist framework. They all agree that the brain and a bit of the nervous system is responsible for our mental experience. But there is no single agreed upon theory. There are quite a few physicalist theories about how the mental experience arises from the brain:
 
-The brain state is identical to the mental state
-
-The conscious experience is a physical property of the brain, just like other physical properties like mass
-
-The conscious experience is the effect of the brain in a state which is the cause
-
-The conscious experience is the result of functional processes in the brain, just like a computer that keeps giving output by processing input
+* The brain state is identical to the mental state
+* The conscious experience is a physical property of the brain, just like other physical properties like mass
+* The conscious experience is the effect of the brain in a state which is the cause
+* The conscious experience is the result of functional processes in the brain, just like a computer that keeps giving output by processing input
 
 
 

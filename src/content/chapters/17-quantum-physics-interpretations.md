@@ -13,9 +13,8 @@ To remind you of what we learned in the chapter about quantum physics, unlike cl
 
 
 
-If the state of the wave function “collapses” only when we observe, what is its state before we observe it? What is “real” before we make observations? This is called the Reality Problem.
-
-What exactly happens when we make observations that make the wave function collapse? This is called the Measurement Problem.
+1. If the state of the wave function “collapses” only when we observe, what is its state before we observe it? What is “real” before we make observations? This is called the Reality Problem.
+2. What exactly happens when we make observations that make the wave function collapse? This is called the Measurement Problem.
 
 
 

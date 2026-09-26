@@ -11,9 +11,8 @@ We have what we call a scientific philosophical system. Interestingly, no one de
 
 How well does science answer the What Is? question? Remember, the What Is? question has to explain the subject(mind/self), the object(the world) and the nature of knowledge.
 
-Science is the best tool we have to explain the world we perceive. There are some caveats from a philosophical perspective which we discuss in later chapters.
-
-The rules we have in the system already explains the nature of knowledge. For example, the rule about observable predictions tells us that empiricism is a valid form of knowledge. The rules of inferences and logical reasoning already cover some valid rational knowledge. We use Mathematics extensively to develop scientific theories. While not accurate, let us treat Mathematics as an advanced form or rational knowledge.
+* Science is the best tool we have to explain the world we perceive. There are some caveats from a philosophical perspective which we discuss in later chapters.
+* The rules we have in the system already explains the nature of knowledge. For example, the rule about observable predictions tells us that empiricism is a valid form of knowledge. The rules of inferences and logical reasoning already cover some valid rational knowledge. We use Mathematics extensively to develop scientific theories. While not accurate, let us treat Mathematics as an advanced form or rational knowledge.
 
 
 

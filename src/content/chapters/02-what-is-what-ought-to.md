@@ -83,9 +83,9 @@ Some philosophers argue that the What Is? question is the ultimate question and 
 
 As I promised in the Introduction, I am not going to take sides here. All you have to know is that philosophy tries to answer two primary questions.
 
-We experience a world. What is the nature of this world?
+1. We experience a world. What is the nature of this world?
 
-We have the ability to choose how to act. What Ought To? The question deals with our moral values and purpose of life.
+2\. We have the ability to choose how to act. What Ought To? The question deals with our moral values and purpose of life.
 
 
 

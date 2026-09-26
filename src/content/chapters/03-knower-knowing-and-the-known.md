@@ -39,11 +39,9 @@ I have will. I could decide to do something and act on it with the body that see
 
 If you are still with me and you are still wondering what that rambling was all about, I was trying to find the components of our experience which cover all of our experience. To summarise,
 
-We perceive a world through sensations (vision, hearing, touch, taste, smell). We have second-order internal sensations named feelings (anger, joy, sorrow, excitement, etc.)
-
-We have the ability to think.
-
-We have the will to do something and act.
+* We perceive a world through sensations (vision, hearing, touch, taste, smell). We have second-order internal sensations named feelings (anger, joy, sorrow, excitement, etc.)
+* We have the ability to think.
+* We have the will to do something and act.
 
 
 
@@ -53,9 +51,8 @@ Any solution we come up with, for the What Is? question, must explain how we per
 
 Academic philosophy splits the whole What Is? question into two topics:
 
-Ontology - The study of nature of reality. Both the knower and the known, the subject and the object, and their nature are studied as part of this.
-
-Epistemology - The nature of knowledge. How do we learn about reality? What kind of knowledge is valid?
+* **Ontology** - The study of nature of reality. Both the knower and the known, the subject and the object, and their nature are studied as part of this.
+* **Epistemology** - The nature of knowledge. How do we learn about reality? What kind of knowledge is valid?
 
 
 

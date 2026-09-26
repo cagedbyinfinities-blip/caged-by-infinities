@@ -23,15 +23,11 @@ Quantum physics puts theoretical limitations to our ability to do this. The clas
 
 This is roughly how it works:
 
-Any particle’s state is written in the form of what is called a wave function. The wave function tells us the probability of different states the particle could be in, when we observe it. Think of it like a weather map. For something like a coin toss, you can say '50% heads, 50% tails' and they add to 100%. But position isn't like a coin toss — there are endless places the particle could be. So instead of a simple percentage for each spot, the wave function gives you a kind of 'likelihood map.' Where the map is darker, you're more likely to find the particle there. Add up the whole map, and you get 100% — the particle has to be somewhere.
-
-The particle’s state(wave function) evolves with time according to Schrödinger’s wave equation. Yes, he did more than talking about cats. Maybe after a few seconds, the probability of observing that particle in X is 0.05 while that of observing it in Y is 0.9.
-
-When we observe the particle and try to measure its position, the wave function “collapses” into a precise state. This is the measurement we take. The value we measure depends on the probability that is set by the wave function. So unlike classical physics, we cannot be 100% sure where the particle will be in the future. We could theoretically find the particle in a position that has a very low probability too.
-
-Then the wave function evolves again according to Schrödinger's wave equation.
-
-There is another complication that fits within the above system that is described by Heisenberg’s uncertainty principle. If you measure the particle’s position accurately, you won’t have precise momentum of the particle and vice versa.
+* Any particle’s state is written in the form of what is called a wave function. The wave function tells us the probability of different states the particle could be in, when we observe it. Think of it like a weather map. For something like a coin toss, you can say '50% heads, 50% tails' and they add to 100%. But position isn't like a coin toss — there are endless places the particle could be. So instead of a simple percentage for each spot, the wave function gives you a kind of 'likelihood map.' Where the map is darker, you're more likely to find the particle there. Add up the whole map, and you get 100% — the particle has to be somewhere.
+* The particle’s state(wave function) evolves with time according to Schrödinger’s wave equation. Yes, he did more than talking about cats. Maybe after a few seconds, the probability of observing that particle in X is 0.05 while that of observing it in Y is 0.9.
+* When we observe the particle and try to measure its position, the wave function “collapses” into a precise state. This is the measurement we take. The value we measure depends on the probability that is set by the wave function. So unlike classical physics, we cannot be 100% sure where the particle will be in the future. We could theoretically find the particle in a position that has a very low probability too.
+* Then the wave function evolves again according to Schrödinger's wave equation.
+* There is another complication that fits within the above system that is described by Heisenberg’s uncertainty principle. If you measure the particle’s position accurately, you won’t have precise momentum of the particle and vice versa.
 
 
 
@@ -73,11 +69,9 @@ And the nickname? It was a publisher's joke. Physicist Leon Lederman originally 
 
 We also built the standard particle model based on this, which lists all the particles which we believe are out there. There are a total of 17 particles which cover all the matter we see around us and also the following forces:
 
-Electromagnetic force
-
-Strong nuclear force
-
-Weak nuclear force
+* Electromagnetic force
+* Strong nuclear force
+* Weak nuclear force
 
 
 

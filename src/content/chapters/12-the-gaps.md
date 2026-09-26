@@ -39,13 +39,10 @@ So did time begin at the Big Bang? Maybe. Or maybe there was something before �
 
 How about the end of time? As of now, the universe is not just expanding, the speed at which it expands is accelerating. There are many theories around how the universe will evolve far in the future.
 
-The Big Crunch - The universe after a period of expansion will stop expanding and start collapsing back into a singularity.
-
-The Big Bounce - After the big crunch, it will go through the same cycle again, starting time again. If it follows the same laws, you will probably end up living the same life again. Is it good or bad?
-
-The Big Freeze - The universe keeps expanding slowly. Galaxies keep flying apart and eventually all the stars will run out of fuel.
-
-The Big Rip - The expansion of the universe keeps accelerating and rips everything apart, even the atoms.
+* **The Big Crunch** - The universe after a period of expansion will stop expanding and start collapsing back into a singularity.
+* **The Big Bounce** - After the big crunch, it will go through the same cycle again, starting time again. If it follows the same laws, you will probably end up living the same life again. Is it good or bad?
+* **The Big Freeze** - The universe keeps expanding slowly. Galaxies keep flying apart and eventually all the stars will run out of fuel.
+* **The Big Rip** - The expansion of the universe keeps accelerating and rips everything apart, even the atoms.
 
 
 
@@ -57,17 +54,15 @@ The next question we ask ourselves is how small can we divide the things we see 
 
 
 
-Is space infinitely divisible? We have lots of devices which are getting more and more precise measuring the position of objects. But we don’t see how they can be 100% accurate. There is always a small gap in precision. Does that mean space is made of discrete parts of a minimum size or is space infinitely divisible though we cannot measure anything to infinite precision?
-
-Is time infinitely divisible? Same as above. We could have clocks which are more and more precise. But we will never be able to measure it with 100% accuracy. Does that mean time is really made of finite discrete moments or is it infinitely divisible though we can never measure it to infinite precision?
-
-Is matter infinitely divisible? We have reached the standard particle model which is widely accepted as the ultimate set of fundamental particles. But can those particles be divided further? We can never be sure.
+* Is space infinitely divisible? We have lots of devices which are getting more and more precise measuring the position of objects. But we don’t see how they can be 100% accurate. There is always a small gap in precision. Does that mean space is made of discrete parts of a minimum size or is space infinitely divisible though we cannot measure anything to infinite precision?
+* Is time infinitely divisible? Same as above. We could have clocks which are more and more precise. But we will never be able to measure it with 100% accuracy. Does that mean time is really made of finite discrete moments or is it infinitely divisible though we can never measure it to infinite precision?
+* Is matter infinitely divisible? We have reached the standard particle model which is widely accepted as the ultimate set of fundamental particles. But can those particles be divided further? We can never be sure.
 
 #### The beautiful
 
 There are lots of phenomena we observe in the universe which are beautiful because of the mystery and sheer magnificence but not thoroughly understood by us.
 
-Black Holes - You might have heard a lot about this in science fiction. When a really massive star — roughly 20 times heavier than our sun or more — reaches the end of its life, it can explode and then its core collapses under its own weight to form what we call a black hole. The matter gets packed so densely that it bends spacetime so strongly (just as Einstein's general relativity predicts) that even light cannot escape it. Hence the name black hole.
+**Black Holes** - You might have heard a lot about this in science fiction. When a really massive star — roughly 20 times heavier than our sun or more — reaches the end of its life, it can explode and then its core collapses under its own weight to form what we call a black hole. The matter gets packed so densely that it bends spacetime so strongly (just as Einstein's general relativity predicts) that even light cannot escape it. Hence the name black hole.
 
 
 
@@ -77,21 +72,25 @@ You might have heard of something called the Chandrasekhar limit — that's a di
 
 Black holes were theoretically predicted based on Einstein's laws of relativity but we now have evidence that they exist. In fact, we have a huge one right in the centre of our galaxy. Interestingly, black holes are also predicted to have singularities in their centre, similar to the singularity we had before the big bang. Maybe each black hole has a universe inside it?
 
-Dark Matter - When we observe far away galaxies, we make some predictions on their behaviour based on our estimates of how much matter is present in those galaxies. But it turns out that, based on the gravitational effect we have measured inside these galaxies, there is a lot more mass in them than we predicted. The additional matter we couldn’t account for is what we call the dark matter. Dark Matter accounts for approximately 26% of mass-energy in the universe.
 
-Dark Energy - As mentioned before, the universe doesn’t just expand. Its expansion is accelerating. In order for this acceleration to happen, there must be some additional energy coming from somewhere and we don’t know where. The name we have given for the energy that is responsible for the acceleration of the expansion is dark energy. Dark energy accounts for approximately 68% of mass-energy in the universe. So away dark matter and dark energy, we only understand about 5% of the mass/energy in the universe.
 
-The Mystery of Life - Many of the parameters of the universe seem to be set exactly right so that it will lead to complex life like ours. How did that happen? The common answer to this is what they call anthropic principle that twists the question back. As we humans are looking at the universe and learning about it, it must have the correct parameters to evolve humans in the first place. If not, we won’t be asking these questions to ourselves. Not everyone agrees with this explanation though.
+**Dark Matter** - When we observe far away galaxies, we make some predictions on their behaviour based on our estimates of how much matter is present in those galaxies. But it turns out that, based on the gravitational effect we have measured inside these galaxies, there is a lot more mass in them than we predicted. The additional matter we couldn’t account for is what we call the dark matter. Dark Matter accounts for approximately 26% of mass-energy in the universe.
+
+
+
+**Dark Energy** - As mentioned before, the universe doesn’t just expand. Its expansion is accelerating. In order for this acceleration to happen, there must be some additional energy coming from somewhere and we don’t know where. The name we have given for the energy that is responsible for the acceleration of the expansion is dark energy. Dark energy accounts for approximately 68% of mass-energy in the universe. So away dark matter and dark energy, we only understand about 5% of the mass/energy in the universe.
+
+
+
+**The Mystery of Life** - Many of the parameters of the universe seem to be set exactly right so that it will lead to complex life like ours. How did that happen? The common answer to this is what they call anthropic principle that twists the question back. As we humans are looking at the universe and learning about it, it must have the correct parameters to evolve humans in the first place. If not, we won’t be asking these questions to ourselves. Not everyone agrees with this explanation though.
 
 ### Problems With Predictions
 
 Science allows us to predict the future and past state of a system from its current state. How accurate are its predictions? We run into two issues.
 
-Practical - As we know, all the measuring devices we possess have some level of inaccuracies. Even if we theoretically have equations which will predict the future accurately, we will never be practically able to predict future or past accurately because we cannot measure the current state accurately.
-
-Theoretical - As explained before, Heisenberg’s uncertainty principle and quantum physics in general crash our dream of absolutely accurate predictions. Theoretically, we cannot accurately predict the future and past from its current state. We can only predict the probabilities of what we are going to observe in the future.
-
-Chaos theory - Even if we are good at making reasonable predictions in experimental settings, it gets close to impossible to do so in real life. You might have heard the butterfly effect. I am not sure of the exact wording. But it is something in the lines of how a butterfly flapping its wings in one end of the world could cause a tornado in another part of the world. Generally, the world is chaotic and even if it is governed by exact laws, it has extreme sensitivity to even small changes that makes it unpredictable in the long term.
+* **Practical** - As we know, all the measuring devices we possess have some level of inaccuracies. Even if we theoretically have equations which will predict the future accurately, we will never be practically able to predict future or past accurately because we cannot measure the current state accurately.
+* **Theoretical** - As explained before, Heisenberg’s uncertainty principle and quantum physics in general crash our dream of absolutely accurate predictions. Theoretically, we cannot accurately predict the future and past from its current state. We can only predict the probabilities of what we are going to observe in the future.
+* **Chaos theory** - Even if we are good at making reasonable predictions in experimental settings, it gets close to impossible to do so in real life. You might have heard the butterfly effect. I am not sure of the exact wording. But it is something in the lines of how a butterfly flapping its wings in one end of the world could cause a tornado in another part of the world. Generally, the world is chaotic and even if it is governed by exact laws, it has extreme sensitivity to even small changes that makes it unpredictable in the long term.
 
 ### Mind
 
