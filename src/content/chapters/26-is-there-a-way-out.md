@@ -12,7 +12,7 @@ After breaking our minds over different philosophies and their problems, where d
 Here is the situation. Our rational mind is trying to explain the world and the mind itself. Our mind is capable of conceiving almost infinite possibilities that could explain these.
 
 * We have empirical knowledge about the world we perceive which along with our rational knowledge helps us discount some possibilities that are logically inconsistent as impossible. And we are still left with infinite potential explanations.
-* We don't seem to have direct empirical knowledge about the mind itself as the mind is what gives us the empirical knowledge. So, we still have infinite ways to explain the mind.
+* Empirical knowledge of the mind is trickier: the mind is the very tool we use to observe anything, so studying it isn't like pointing a telescope at a planet.
 
 
 
@@ -24,7 +24,7 @@ And we are given the difficult task of finding a philosophy among the infinite p
 
 
 
-The problem with brute statements - They always lead to more questions. You want to use God as an entity to explain everything? Where does God come from? You think standard particle theory is the ultimate theory? Why do we have these particles and why do they have the properties we observe? The solution to it is to either accept self-referential cycles or acceptance of infinite regressions, the remaining two options we listed. For example, some people answer the question of God by saying that God made himself(self-referential cycles) and some people say that God is the absolute infinity(infinite regression).
+The problem with brute statements - They always lead to more questions. You want to use God as an entity to explain everything? Where does God come from? You think today's best physics — the Standard Model — is the final word? It still can't say why we have exactly these particles with exactly these masses and charges. The solution to it is to either accept self-referential cycles or acceptance of infinite regressions, the remaining two options we listed. For example, Some say God just exists without needing a cause (a brute starting point); some say God is self-existent (a self reference); a few, like the mathematician Cantor, pictured God as a kind of endless infinity.
 
 
 
@@ -32,7 +32,7 @@ The problem with self-references and infinite regressions - They are outright sc
 
 
 
-There is also a problem in the interaction between mind and the physical world. The physical world is changing and it is impossible to explain unique, unit and immutable identities in the physical world though our mind feels to us like a unique, unit and immutable identity. But if we decide to use non-physical entities to explain the mind, we run into other questions.
+There is also a problem in the interaction between mind and the physical world. The physical world is changing and it's very hard to explain lasting, single, unchanging identities — like the 'me' that feels the same over decades — using only stuff that is constantly changing. But if we decide to use non-physical entities to explain the mind, we run into other questions.
 
 * If the physical brain is not what gives rise to the mental experience, who really has a mental experience? All humans? Only some humans? Some animals too?
 * How does this non-physical entity interact with the physical world that seems to follow laws?
@@ -46,15 +46,15 @@ Considering all this, what are our options?
 
 Do you even need a philosophy that understands the nature of reality? Billions of people have lived and died without needing one. So why bother? Just get on with your life without thinking too much. Let’s partyyyyyy!!!
 
-#### Try to find the truth.
+#### I don't know — but I will find the truth
 
-All these chapters may have made it sound like there is no point trying to find the answers. I hope not. The journey of trying to find the truth itself is fun. Accept that we don’t know the truth but take it as a challenge and go after the truth.
+Admit ignorance, then commit to the search. Keep asking why, keep testing, keep refining. There is no guarantee the search ends — this book has shown you why it might not — but the search itself is worthwhile. Every paradox you untangle and every assumption you expose is real progress, even if the final answer stays out of reach. The joy is in the hunting, not just the catching.
 
 #### Compromise and pick a complete philosophy with brute statements
 
 Build yourself one or pick an existing philosophical system that has a lot of brute statements which are taken as fundamental truths. Remember that all of these have some uncomfortable moral implications that you have to grapple with.
 
-* For example, you can pick physicalism and brush away the problem of qualia using brute statements. But how do you handle the identity problem? You can worry about it when human cloning and transportation really becomes a thing.
+* For example, you can pick physicalism and brush away the problem of qualia using brute statements. But how do you handle the identity problem? You can worry about it when human cloning and teleportation really becomes a thing.
 * If you pick dualism, you have to face the uncomfortable question of which animals, insects or microorganisms around you really have the mental substance/property. Or you could just not care.
 * If you pick idealism, you still face the same question as dualism. Which animals, insects or microbes are having a conscious experience and aren’t just zombies in the dream.
 

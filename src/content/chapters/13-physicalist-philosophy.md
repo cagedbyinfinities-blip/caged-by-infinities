@@ -13,14 +13,14 @@ What is Physicalism? It is a philosophy that is built on the ontological claim t
 
 
 
-What does “physical” mean here? It doesn’t imply that everything has to be a tangible physical thing that we can directly sense and feel. It means that everything is ultimately explained by scientific entities like spacetime, quantum functions, electrons, quarks, etc. Though some of the constructs can only be indirectly observed and are never directly perceived, we believe that they are “real”. In the future, progress made in science could render some of these entities non-existent. But still, physicalists believe that it is better to believe in the entities predicted by science than to believe anything else.
+What does “physical” mean here? It doesn’t imply that everything has to be a tangible physical thing that we can directly sense and feel. It means that everything is ultimately explained by scientific entities like spacetime, quantum wave functions, electrons, quarks, etc. Though some of the constructs can only be indirectly observed and are never directly perceived, we believe that they are “real”. In the future, progress made in science could render some of these entities non-existent. But still, physicalists believe that it is better to believe in the entities predicted by science than to believe anything else.
 
 
 
 Considering the success of science over the centuries, it is less controversial for people to admit that the world we perceive is purely made up of these physical entities. The controversial parts of physicalism are:
 
 * Our mind can also be explained through scientific entities
-* Thanks to Occam’s razor, there is no other entity outside of the scientific entities, which goes against the philosophy of all theistic religions - No Gods, No evil, No hell, No heaven.
+* Thanks to Occam’s razor, there is no other entity outside of the scientific entities, which goes against the philosophy of all theistic religions - no Gods, no literal hell or heaven, no supernatural forces of good or evil.
 
 
 
@@ -90,7 +90,7 @@ Physics and Philosophy by Werner Heisenberg
 
 10. Criticism Against Physicalism
 
-We already saw the gaps in science in a previous chapter. Scientists could argue that there is no reason to believe that these knowledge gaps will not be filled up in the future. At the very least, we can still use the dogmatic proof of a Münchhausen\_trilemma to ensure that all the boundaries are covered. For example, we could just assume that the standard particle theory is the ultimate theory of the small and move on with our lives without worrying about the existence of things smaller than the particles in that model while research can still continue to look into what happens inside the fundamental particles. It is not the end of the world.
+We already saw the gaps in science in a previous chapter. Scientists could argue that there is no reason to believe that these knowledge gaps will not be filled up in the future. At the very least, we can still use the dogmatic proof of a Münchhausen trilemma to ensure that all the boundaries are covered. For example, we could just assume that the Standard Model(of particle physics) is the ultimate theory of the small and move on with our lives without worrying about the existence of things smaller than the particles in that model while research can still continue to look into what happens inside the fundamental particles. It is not the end of the world.
 
 
 
