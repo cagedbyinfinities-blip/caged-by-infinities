@@ -101,7 +101,7 @@ As you have seen above, many philosophers tend to define God in terms of infinit
 
 Cantor showed that unlike the belief of many that all infinities are the same, there is actually a hierarchy of infinities. He categorised them into transfinities and absolute infinity. Transfinities can be calculated and placed in sets. Physical and mental infinities fall under the category of transfinities. The absolute infinity cannot be treated as a set and leads to paradoxes if we tried to. This is the Cantor’s paradox we talked about in the previous chapter.
 
-
+![What kind of infinity are you?](/images/Ch12_5Kind.jpg)
 
 A God who is infinite should be an absolute infinity in Cantor’s framework. What is the consequence of assuming that God exists and is the absolute infinity or just that absolute infinity exists? One could argue it like this: the Reflection Principle says that any property of the Absolute shows up somewhere smaller too. If we grant that the Absolute is infinite — and infinity is a conceivable property — then infinity must show up somewhere short of the Absolute as well. The mind, which can conceive of infinity, is a natural candidate. On this line of thought, if an Absolute Infinity exists, mental infinity comes along with it.
 

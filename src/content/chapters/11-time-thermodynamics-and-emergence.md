@@ -37,7 +37,7 @@ But we can always arrange a set of disorderly cards in a specific order, thereby
 
 The universe at its very beginning is said to have very low entropy and we are moving towards a state of high entropy. The second law of thermodynamics affects us in numerous ways. I personally believe that it is the cause of all our miseries.
 
-
+![Entropy going](/images/Ch8_3entropy.jpg)
 
 Now, we will discuss the topic of emergence. The laws of classical and quantum physics work well in fundamental particles and simple objects. But how do we explain the behaviour of complex objects? We can easily predict how a perfect sphere would roll in the ground. But what if we have a sphere with lots of bumps. It gets difficult to do so. This doesn’t mean that the fundamental physical laws are weak. It is still theoretically possible to figure out the movement of the deformed sphere. But practically speaking, it would be insanely hard. We will have to combine multiple laws, apply them on each part of the deformed sphere and bring them all together.
 

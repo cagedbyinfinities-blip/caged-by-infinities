@@ -98,7 +98,7 @@ The special theory of relativity is mathematically very accessible while the gen
 
 The fact that time runs differently for different people is probably one of the most profound philosophical realisations that is heavily used in science fiction. Imagine this. If there is a black hole near us. You can go there and come back every hundred years on earth, which is probably just a year for you and see how human civilization evolves over such a long period of time.
 
-
+![Time Dilation](/images/Ch8_1Time.jpg)
 
 ### Philosophical implications of classical physics
 

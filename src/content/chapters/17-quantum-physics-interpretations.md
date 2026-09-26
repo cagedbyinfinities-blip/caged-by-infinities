@@ -44,3 +44,4 @@ This explanation(though it doesn’t really explain and just gives up) wasn’t 
 
 With all these interpretations, one can see the impact of Quantum Physics on the field of Philosophy. If the Copenhagen interpretation were to be believed, then what exactly is reality? How can we believe in Physicalism if even Physics doesn’t say anything about the nature of reality? If the many-worlds theory is to be believed, it gives rise to a lot of moral questions - I may be a good person in this branch. Does that mean there are other branches where I am an evil person who uses loudspeakers in public transport? But physicalism does survive in the many-worlds theory though it leads to a lot of moral questions.
 
+![Quantum interpretations](/images/Ch10_3Interpret.jpg)
