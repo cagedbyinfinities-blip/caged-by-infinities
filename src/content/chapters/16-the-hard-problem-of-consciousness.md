@@ -1,4 +1,4 @@
-\---
+---
 
 title: "10.2 The Hard Problem of Consciousness"
 description: "10.2 The Hard Problem of Consciousness"

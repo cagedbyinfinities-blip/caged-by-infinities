@@ -1,4 +1,4 @@
-\---
+---
 
 title: "6. Stating The Obvious"
 description: "6. Stating The Obvious"

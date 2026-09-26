@@ -1,4 +1,4 @@
-\---
+---
 
 title: "12.2 Free Will vs Determinism"
 description: "12.2 Free Will vs Determinism"

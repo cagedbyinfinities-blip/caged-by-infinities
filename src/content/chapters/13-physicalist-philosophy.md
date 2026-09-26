@@ -1,4 +1,4 @@
-\---
+---
 
 title: "9. Physicalist Philosophy"
 description: "9. Physicalist Philosophy"

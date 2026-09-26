@@ -1,4 +1,4 @@
-\---
+---
 
 title: "10.3 Quantum Physics Interpretations"
 description: "10.3 Quantum Physics Interpretations"

@@ -1,4 +1,4 @@
-\---
+---
 
 title: "12.4 Self Reference Paradoxes"
 description: "12.4 Self Reference Paradoxes"

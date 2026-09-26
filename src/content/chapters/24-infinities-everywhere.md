@@ -1,4 +1,4 @@
-\---
+---
 
 title: "12.5 Infinities Everywhere"
 description: "12.5 Infinities Everywhere"

@@ -1,4 +1,4 @@
-\---
+---
 
 title: "2. What Is? What ought to?"
 description: "2. What Is? What ought to?"

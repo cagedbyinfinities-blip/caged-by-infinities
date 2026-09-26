@@ -1,4 +1,4 @@
-\---
+---
 
 title: "11. Exploring the Alternatives"
 description: "11. Exploring the Alternatives"

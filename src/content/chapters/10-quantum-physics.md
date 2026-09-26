@@ -1,4 +1,4 @@
-\---
+---
 
 title: "8.2 Quantum Physics"
 description: "8.2 Quantum Physics"

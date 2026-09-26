@@ -1,4 +1,4 @@
-\---
+---
 
 title: "14. Getting on with Life"
 description: "14. Getting on with Life"

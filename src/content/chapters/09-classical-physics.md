@@ -1,4 +1,4 @@
-\---
+---
 
 title: "8.1 Classical Physics"
 description: "8.1 Classical Physics"

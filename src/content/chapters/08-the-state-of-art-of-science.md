@@ -1,4 +1,4 @@
-\---
+---
 
 title: "8. The State of Art of Science"
 description: "8. The State of Art of Science"

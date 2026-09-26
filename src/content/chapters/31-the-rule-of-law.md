@@ -1,4 +1,4 @@
-\---
+---
 
 title: "18. The Rule of Law"
 description: "18. The Rule of Law"

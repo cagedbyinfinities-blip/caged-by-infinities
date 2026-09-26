@@ -1,4 +1,4 @@
-\---
+---
 
 title: "12.6 Objectivity vs Subjectivity"
 description: "12.6 Objectivity vs Subjectivity"

@@ -1,4 +1,4 @@
-\---
+---
 
 title: "7. The Scientific Philosophy"
 description: "7. The Scientific Philosophy"

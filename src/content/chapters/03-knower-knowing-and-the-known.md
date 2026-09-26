@@ -1,4 +1,4 @@
-\---
+---
 
 title: "3. Knower, Knowing and The Known"
 description: "3. Knower, Knowing and The Known"

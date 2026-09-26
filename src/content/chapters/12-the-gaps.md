@@ -1,4 +1,4 @@
-\---
+---
 
 title: "8.4 The Gaps"
 description: "8.4 The Gaps"

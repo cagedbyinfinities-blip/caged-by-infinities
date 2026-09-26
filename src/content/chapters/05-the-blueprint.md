@@ -1,4 +1,4 @@
-\---
+---
 
 title: "5. The Blueprint"
 description: "5. The Blueprint"
