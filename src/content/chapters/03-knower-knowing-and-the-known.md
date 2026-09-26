@@ -62,7 +62,7 @@ To explain with examples, Ontology would say that the universe sits on top of a 
 
 At this point, I have to point out the circular nature of epistemology/ontology. As I said above, Ontology is the study of the nature of reality. How would you know the nature of reality? Through Knowledge. Epistemology is the study of the nature of knowledge. How do you know if a particular type of knowledge is true? Based on the nature of reality. If you are hooked on a Virtual Reality headset, what you know about the nature of reality (that you are living in a world in which you are hooked up to a VR headset) tells you that what you perceive in the VR headset isn’t the truth and is not a valid form of knowledge.
 
-
+![The epistemology ontology cycle](/images/Ch3circle.jpg)
 
 So, you need to know the reality to validate the knowledge. And you need to know the validity of your knowledge to make statements about reality. How do you know for sure that you are indeed from a different world and what you are experiencing is just a virtual reality? This is a classic circular dependency. Great place to start philosophy, isn’t it? In practice, most philosophies dealing with the What Is? questions come in pairs of Ontology and Epistemology. The challenge is to make sure that the relationship between the nature of reality and how you gain knowledge in this reality is consistent and don't contradict one another.
 
