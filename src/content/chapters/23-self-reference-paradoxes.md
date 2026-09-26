@@ -5,7 +5,7 @@ description: "12.4 Self Reference Paradoxes"
 order: 23
 ---
 
-I used to think that the brain was the most wonderful organ in my body. Then I realized who was telling me this. - Emo Philips
+*I used to think that the brain was the most wonderful organ in my body. Then I realized who was telling me this.* - Emo Philips
 
 
 

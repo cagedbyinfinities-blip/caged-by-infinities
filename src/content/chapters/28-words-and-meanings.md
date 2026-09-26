@@ -42,13 +42,13 @@ What if I point to a painting and say, “That’s beautiful”? You will ask �
 In general, you could get away with talking about subjective things in a subjective way.
 
 
-The painting is beautiful -> I find the painting beautiful.
+*The painting is beautiful -> I find the painting beautiful.*
 
 
-It is a difficult hike -> That hike was difficult for me.
+*It is a difficult hike -> That hike was difficult for me.*
 
 
-It is a great movie -> I loved that movie.
+*It is a great movie -> I loved that movie.*
 
 
 Doing this makes you agreeable in many situations. The problem starts when you are discussing things which are in the borderline between objective and subjective - like morals.

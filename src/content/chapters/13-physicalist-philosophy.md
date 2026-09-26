@@ -44,29 +44,29 @@ If we add a brute statement making claims about physicalism to the system we bui
 
 
 
-It has the following rules to add any statement to the system
+* It has the following rules to add any statement to the system
 
-The statements are about reality and knowledge which are considered true in the philosophical system that is proposed.
+  * The statements are about reality and knowledge which are considered true in the philosophical system that is proposed.
 
-The statements in this system have to follow the rules of logical reasoning and inferences.
+  * The statements in this system have to follow the rules of logical reasoning and inferences.
 
-Any law added to the system must make observable predictions and be falsifiable.
+  * Any law added to the system must make observable predictions and be falsifiable.
 
-Occam’s razor - When you have two competing theories that explain an event equally well, you should prefer the one that makes the fewest assumptions or has the least complexity.
+  * Occam’s razor - When you have two competing theories that explain an event equally well, you should prefer the one that makes the fewest assumptions or has the least complexity.
 
-It has the following brute statements
+* It has the following brute statements
 
-We assume that an objective world exists.
+  * We assume that an objective world exists.
 
-We assume that people around us have minds just like us.
+  * We assume that people around us have minds just like us.
 
-Laws of classical physics.
+  * Laws of classical physics.
 
-Laws of quantum physics.
+  * Laws of quantum physics.
 
-Laws of thermodynamics.
+  * Laws of thermodynamics.
 
-Everything that exists can be explained using the entities that we develop in this framework.
+  * **Everything that exists can be explained using the entities that we develop in this framework.**
 
 
 

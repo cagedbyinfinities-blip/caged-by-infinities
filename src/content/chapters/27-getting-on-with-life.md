@@ -74,9 +74,6 @@ How does one’s philosophical beliefs affect this? A physicalist may stick to f
 
 
 
-Every meme using this template is an example of what I said above:
-
-
 
 No matter what happens, they will always find a way to justify our beliefs. Unless the probability is 0 or 1, you can justify any outcome. We do things. We tell ourselves a story about what happened there and move on with our life.
 
