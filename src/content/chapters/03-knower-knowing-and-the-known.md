@@ -102,9 +102,9 @@ Before we dive deeper, I would like to ask you to keep an open mind. Start with 
 
 ## Book recommendations
 
-[Does the Center Hold? By Donald Palmer](https://www.amazon.co.uk/Does-Center-Hold-Introduction-Philosophy/dp/1559344830?crid=1U3MQ7DY39TQB&dib=eyJ2IjoiMSJ9.zsvTjUDugb_zoELD8nyMm93FCWovjc7d3Z3SI5bfQwo6YwxQG5xt7B7N_IeGh7JWYAYIF3TdR6IkKM8yUJQoz9ESFSIrOY0e3kFFz_o_YJooOEy2tCOvHG9GS0DIGPXw2Ai3rJIw-T8uAhKz-WI8LcXgTEed8STUeaeC0Bt7Ab52zvAdniUZpaxjFeWuwqEP.oHY6sAFs4QjSWyl8dGD3CHpCWj6ir9O_j_UtI1KAudw&dib_tag=se&keywords=does+the+centre+hold&qid=1790503387&sprefix=does+the+centre+hold%2Caps%2C135&sr=8-1&linkCode=ll2&tag=infinitycount-21&linkId=433aeee6e3b5ded10ecf6096c34ed9c5&ref_=as_li_ss_tl)
+* [*Does the Center Hold?* By Donald Palmer](https://www.amazon.co.uk/Does-Center-Hold-Introduction-Philosophy/dp/1559344830?crid=1U3MQ7DY39TQB&dib=eyJ2IjoiMSJ9.zsvTjUDugb_zoELD8nyMm93FCWovjc7d3Z3SI5bfQwo6YwxQG5xt7B7N_IeGh7JWYAYIF3TdR6IkKM8yUJQoz9ESFSIrOY0e3kFFz_o_YJooOEy2tCOvHG9GS0DIGPXw2Ai3rJIw-T8uAhKz-WI8LcXgTEed8STUeaeC0Bt7Ab52zvAdniUZpaxjFeWuwqEP.oHY6sAFs4QjSWyl8dGD3CHpCWj6ir9O_j_UtI1KAudw&dib_tag=se&keywords=does+the+centre+hold&qid=1790503387&sprefix=does+the+centre+hold%2Caps%2C135&sr=8-1&linkCode=ll2&tag=infinitycount-21&linkId=433aeee6e3b5ded10ecf6096c34ed9c5&ref_=as_li_ss_tl)
 
-[Meditations on First Philosophy, by René Descartes](https://www.amazon.co.uk/dp/0192806963?bestFormat=true&k=meditations+on+first+philosophy&crid=5BYJHAQUKZXQ&sprefix=meditations+on+fir&linkCode=ll2&tag=infinitycount-21&linkId=c43845dac42ca05421216384fa050888&ref_=as_li_ss_tl)
+* [*Meditations on First Philosophy* by René Descartes](https://www.amazon.co.uk/dp/0192806963?bestFormat=true&k=meditations+on+first+philosophy&crid=5BYJHAQUKZXQ&sprefix=meditations+on+fir&linkCode=ll2&tag=infinitycount-21&linkId=c43845dac42ca05421216384fa050888&ref_=as_li_ss_tl)
 
 
 
