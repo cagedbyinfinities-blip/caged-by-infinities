@@ -129,6 +129,7 @@ This means that any informal philosophical system we build will have at least on
 ## Further Reading
 
 * [*Knowledge: A Very Short Introduction* by Jennifer Nagel](https://www.amazon.co.uk/dp/019966126X?bestFormat=true&k=knowledge+a+very+short+introduction&crid=1QBS7Z9JTFQOJ&sprefix=Knowledge%3A+A+Very+Short+Introduction&linkCode=ll2&tag=infinitycount-21&linkId=d8f573efbfe4520801d0d1d7a5144ab3&ref_=as_li_ss_tl)
+
 * [*Think: A Compelling Introduction to Philosophy* by Simon Blackburn](https://www.amazon.co.uk/Think-Compelling-Introduction-Simon-Blackburn/dp/0192854259?crid=1LG2HJXQ5W3LQ&dib=eyJ2IjoiMSJ9.dbzhD0kdeZWLwgQYkNe5jGi8t_gocUd_9I_Ey8f6NETsX7IBr5R-vYYB9RfExWNuJcbW1Dx9FdInzgr7XwGijM8Emh4bqyskWfyP_daPwntIZiTyz36wrUq6Nj6zXCMYEhhWece00_ybpIbkQN_sxAWgGHqnaBQ7yiJUfodsfuFMsV8nVSRKlpls9Mi8jRIB.vinIervtTnFM-wbT_F8vvJjan3j1fCrP6m0a7wwN52Q&dib_tag=se&keywords=think+simon+blackburn&qid=1790506553&sprefix=Think+simon%2Caps%2C116&sr=8-1&linkCode=ll2&tag=infinitycount-21&linkId=408cff49adc58f3aa4ca0c87df31cfa0&ref_=as_li_ss_tl)
 
 

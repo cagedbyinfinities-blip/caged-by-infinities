@@ -83,7 +83,10 @@ What it hasn’t explained though is the Gravitational Force. For Gravity, we st
 ## Further Reading
 
 * [*Six Easy Pieces* by Richard Feynman](https://www.amazon.co.uk/dp/B06XK8GCJG?bestFormat=true&k=six+easy+pieces+richard+feynman&crid=U5MH5M2LVRXY&sprefix=six+ea&linkCode=ll2&tag=infinitycount-21&linkId=31ee6bdf394a6fad5337e39c3959c4fb&ref_=as_li_ss_tl)
+
 * [*Six Not-So-Easy Pieces* by Richard Feynman](https://www.amazon.co.uk/Six-Not-So-Easy-Pieces-Relativity-Space-Time/dp/0465025269?crid=2R41IBMMHY6W6&dib=eyJ2IjoiMSJ9.c2rPUR38CmhqLek7CbECcITAujOa4p5n5w7JqNGxt_2O7QZcJI0g-b5SCFk767owKpdnh72_VxVjJxhr_GC1JLRxQyKBJ7QQNC-8nbCLZ9hYKJ6KC6uvAOf603kvrcoaOYTB5L18IgcFd6ORz_eNm6P-bwHvKmGY2IvcVt-M_Ev5Cj6dFyv34eOzbF4oRMnBvWkAvC3amuqvxoepdS1_lPU1_aeV4sU9JOY_BVyjrsY.6dXC-PqPKz-Ba7jEGWWnoqS49WJW4vTsIvojBiHbWbw&dib_tag=se&keywords=six+pieces+feynman&qid=1790504048&sprefix=six+pieces+feynman%2Caps%2C122&sr=8-2&linkCode=ll2&tag=infinitycount-21&linkId=dc2c03f1f698a512374bbf2b0394b4dd&ref_=as_li_ss_tl)
+
+* [*The Character of Physical Law* by Richard P Feynman](https://www.amazon.co.uk/Character-Physical-Penguin-Press-Science/dp/0140175059?crid=1PMPQ5U19JL5J&dib=eyJ2IjoiMSJ9.BpySIWpHOAx01PxP2qYOwVERw4JEfXQ8T2bQB26g9OrwI_CudvpaMv5aiH1Rd4L_GgmFORnTBOa3v2MUVC2QDbw_1qCPRAGsOApxLcvDZQ4MPQgDSPk4W5JBnayVoI-M6lsXFyuiddeFgTA2WI-_oEM7aRWJcd68KAPFHwJSyit0ojIBqMKtF1rgcRHll9R1W2dsFrPuo4gc_UcLQuvVQA.yxoZTc5vu3V4pF6p50xCP8ztJ8vae1q11COdUNb3IXQ&dib_tag=se&keywords=the+character+of+physical+law+richard+feynman&qid=1790509847&sprefix=the+character+of+phy%2Caps%2C110&sr=8-1&linkCode=ll2&tag=infinitycount-21&linkId=8cb069c181a280cedab5eb2aab3d481a&ref_=as_li_ss_tl)
 
 All The Feynman Lectures by Richard Feynman are good. The books listed above have some handpicked lectures which are particularly interesting.
 
