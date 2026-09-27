@@ -93,6 +93,11 @@ Putting them all together, we have the final Scientific Philosophical System.
 How did the brute statements from the layman’s philosophy sneak in here? Do they agree with all the rules of the system? It is a grey area because neither of them are easily falsifiable. But they are still part of the scientific system. Assume that the rules around falsifiability and Occam’s razor only apply for any new physical law we are going to add.
 
 
+## Further Reading
 
+* [*Conjectures and Refutations: The Growth of Scientific Knowledge* by Karl Popper](https://www.amazon.co.uk/dp/0415285941?bestFormat=true&k=conjectures+and+refutations+karl+popper&crid=3OWYXXI04ABES&sprefix=Conjectures+and+Refutations&linkCode=ll2&tag=infinitycount-21&linkId=dd1df212d6cc20f934563d10192c9eb0&ref_=as_li_ss_tl)
 
+* [*The Structure of Scientific Revolutions* by Thomas S. Kuhn](https://www.amazon.co.uk/dp/0226458121?bestFormat=true&k=the+structure+of+scientific+revolutions+thomas+s.+kuhn&crid=3PKT04V0T7IMC&sprefix=The+Structure+of+Scientific+Revolutions&linkCode=ll2&tag=infinitycount-21&linkId=1604c57a0e4af8dcfea4400bc24568dd&ref_=as_li_ss_tl)
+
+* [*The Demon-Haunted World* by Carl Sagan](https://www.amazon.co.uk/Demon-Haunted-World-Science-Candle-Dark/dp/B06XTZBPRN?crid=PFKOUKQNWKET&dib=eyJ2IjoiMSJ9.uBafkwJYYm80eewYov2Vxt2Xg_aZp2sOcN2iQV390EwOEkcOgIl4XrPk-p9relM8CcqtD7kV8JzBNBFvmowTskcaanrlJZpsdTyELh5GT3S_GcsZ3-CqN63Vz9FUWka5gxYz9szgV19i6QQ3XLdsK-JGfTvX5gTzg5oTi8G-3NKvK2s4MqyJSO_wH8uBlKLtG3YZHPw3B9JO1f7Xqb41ZYVFA1nPR59gzeP0MMb0z0g.V2cMnpDY4ClB03hTZ25ImSBo58KSsp_dH7fDGh-FkGI&dib_tag=se&keywords=the+demon-haunted+world+carl+sagan&qid=1790507172&sprefix=The+Demon-Haunted+World%2Caps%2C120&sr=8-1&linkCode=ll2&tag=infinitycount-21&linkId=3439e92ffcc848c57d34851acca16dd7&ref_=as_li_ss_tl)
 

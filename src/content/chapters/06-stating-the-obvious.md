@@ -83,6 +83,15 @@ Putting them all together, this is The layman’s philosophical system so far.
 This is not a complete system as it doesn’t fully explain the nature of knowledge and reality. But it is a good start.
 
 
+## Further Reading
+
+* [*The Problems of Philosophy* by Bertrand Russell](https://www.amazon.co.uk/dp/1517159458?bestFormat=true&k=the+problems+of+philosophy&crid=HNL3JX8QRU6H&sprefix=The+Problems+of+Philosophy&linkCode=ll2&tag=infinitycount-21&linkId=b05dc198a936361afbeecd59c5a42a3b&ref_=as_li_ss_tl)
+
+* [*Reality+: Virtual Worlds and the Problems of Philosophy* by David J. Chalmers](https://www.amazon.co.uk/Reality-Virtual-Worlds-Problems-Philosophy/dp/0141986786?crid=2J8SA7TQ9FHBJ&dib=eyJ2IjoiMSJ9.deK2VNnlcIHM_YO0LRawo6IVVqlqzvWRpwiAG7dgI-b5NhC6_MEIbpz45k0wb0y1Fo9n9Drg7qUYePWuD0abMyw-HA_V_bHNBuZAvHxG_3Q.66uE-YD4TuV_TIOfd-evhpBOlT9Rjx0S0VJ00DHAonA&dib_tag=se&keywords=Reality%2B%3A+Virtual+Worlds+and+the+Problems+of+Philosophy&qid=1790506784&s=books&sprefix=reality%2B+virtual+worlds+and+the+problems+of+philosophy%2Cstripbooks%2C88&sr=1-1&linkCode=ll2&tag=infinitycount-21&linkId=49e2ba9249acfe9573c989aa2cdea629&ref_=as_li_ss_tl)
+
+* [*On Mind and Matter* by Erwin Schrödinger](https://www.amazon.co.uk/What-Life-Autobiographical-Sketches-Classics/dp/1107604664?crid=4O6DDABPI68O&dib=eyJ2IjoiMSJ9.yfPNuvxlRxwgyDldoKFzzjnONtm81sgJ2jT7k0jt1NTFZuzNJOMtZy7DxAlxB3ILz5Lssu7oT7qopTkPQBUxUA.LYC1Jgf9HGvInyJuB2WPp1Zd_m-FZETnXFwwY6mvl5k&dib_tag=se&keywords=mind+and+matter+schrodinger&qid=1790504765&sprefix=on+mind+and+matter+schr%2Caps%2C125&sr=8-2&linkCode=ll2&tag=infinitycount-21&linkId=9f93ae2fcabf263107fc2f817ad15c41&ref_=as_li_ss_tl)
+
+* [*Other Minds: The Octopus and the Evolution of Intelligent Life* by Peter Godfrey-Smith](https://www.amazon.co.uk/dp/0008226296?bestFormat=true&k=other+minds+the+octopus+and+the+evolution+of+intelligent+life&crid=IZNI2CWEJFOA&sprefix=Other+Minds&linkCode=ll2&tag=infinitycount-21&linkId=1fe1575699e24e9280fb7f450282e9b9&ref_=as_li_ss_tl)
 
 
 

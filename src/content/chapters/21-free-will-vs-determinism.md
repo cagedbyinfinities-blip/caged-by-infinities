@@ -92,5 +92,12 @@ In a world of physicalism, science should solve this eventually. In a philosophy
 
 
 
+## Further Reading
 
+* [*Determined* by  Robert M Sapolsky](https://www.amazon.co.uk/Determined-Science-Life-Without-Free/dp/152992006X?crid=1Q4ZSRLY560N5&dib=eyJ2IjoiMSJ9.3F0MN8AI7mvYomdqtGRGojcljbw0OAslyPRi3obALxNb0p_ObZwbFx1u4f35a_8dERrcy_6C34pRIouqGscVIAKSISj_KNS1xvJrQoNjNJxTv_cOIojKl2vhtklMAAnC0-9IbHhDSwNfEXdMAVJEMcV6Vgnr__-YqyuilMd_WXMkF1MtkTlL40J-IMx8ft0g_fFJfspunPbQ_xOhDgbd4pj4zlNX9OWk242u7zlFmYA.f7x_oxuVW4_1XRZBz-5B0Gt8n2FUpCUnDBS9z_7-hUk&dib_tag=se&keywords=determined+robert+sapolsky&qid=1790507971&sprefix=Determined+%2Caps%2C141&sr=8-1&linkCode=ll2&tag=infinitycount-21&linkId=6df591b1a2fa7660e8c0880345aeb51b&ref_=as_li_ss_tl)
 
+* [*Free Will* by Sam Harris](https://www.amazon.co.uk/Free-Will-Sam-Harris/dp/1451683405?crid=1AWUKSAVT8QVY&dib=eyJ2IjoiMSJ9.VEVAtalAah7h1NGFzdya5anLne8W4lDG_Cs0y7UgEeygXi-qUjSJ4h3o0jZQ7wSeprhicWv4ZZT0V6DZ1qoAROUi3uYtYd1_XtvIU3rgYfheUdIRmHdXLT82PoNBMF9SyEE2iYFRPwV4_WFViuxlaGl_kxBNHm6AX-G6DPYuQx73IuFYBnvtFWJ4OZkRxO9ECzrq9XcVfRNEGfM2l6iTO64w-N750qQhpY9lcgjVJuw.uunKJpa8rU6xdmPE2VNh2XkarAW8XNt03MosKzM9khQ&dib_tag=se&keywords=free+will+sam+harris&qid=1790508056&sprefix=free+will+sam%2Caps%2C118&sr=8-1&linkCode=ll2&tag=infinitycount-21&linkId=a2b5b1b1ca33df073672b9f9dfc0e31a&ref_=as_li_ss_tl)
+
+* [*Freedom Evolves* by Daniel Dennett](https://www.amazon.co.uk/dp/0140283897?bestFormat=true&k=freedom+evolves&crid=388UR83UVQ4HW&sprefix=Freedom+Evolves&linkCode=ll2&tag=infinitycount-21&linkId=0aa858b0eb7bd74cf666da85f8e54053&ref_=as_li_ss_tl)
+
+* [*Free Will* by Mark Balaguer](https://www.amazon.co.uk/Free-Will-Press-Essential-Knowledge/dp/0262525798?crid=2C8VKDDU869Y9&dib=eyJ2IjoiMSJ9.UxjI8q_aEhNh1uAi0d2a1p7vwDEgZhsJaL3J5YGmkRbGjHj071QN20LucGBJIEps.byMcCC0n7jMTG56v5mMkGoTySBUs6vdssKMGMQXEIm4&dib_tag=se&keywords=Free+Will+mark+balaguer&qid=1790508401&s=books&sprefix=free+will+mark+balaguer%2Cstripbooks%2C98&sr=1-1&linkCode=ll2&tag=infinitycount-21&linkId=c399dbd03d4df63ed79008de41c32d24&ref_=as_li_ss_tl)

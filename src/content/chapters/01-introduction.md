@@ -45,9 +45,9 @@ Over the chapters, I will try to focus on what makes philosophy hard, the questi
 
 
 
-As with any writing that tries to simplify complex things, I will most definitely make some mistakes in approximations or using the philosophical jargon wrongly. But as long as the idea is conveyed, I will be a happy human and hope you are too. I will also recommend books at the end of some chapters if you want to dive deeper into the concepts discussed in the chapter.
+As with any writing that tries to simplify complex things, I will most definitely make some mistakes in approximations or using the philosophical jargon wrongly. But as long as the idea is conveyed, I will be a happy human and hope you are too. 
 
-
+I will also recommend books at the end of some chapters if you want to dive deeper into the concepts discussed in the chapter. I want to be upfront about something: I haven't read all of them cover to cover. Many I have read fully, some I know through references and summaries, and some I've included based on strong reviews and recommendations from people I trust — those are sitting in my own long to-read list. If a book turns out to be brilliant — or terrible — I'd genuinely like to hear about it.
 
 By the end, if you make it to the end that is, I hope you find a new or increased admiration for philosophy and life itself. I hope I have given you questions to ponder over and topics you want to explore further. I hope this is just the start of a really long philosophical journey.
 

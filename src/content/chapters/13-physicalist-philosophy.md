@@ -84,19 +84,8 @@ The above passage explains both the ontology and epistemology of physicalism. No
 
 ## Further Reading
 
+* [*The Big Picture* by Sean Carroll](https://www.amazon.co.uk/dp/B079DFCCSK?bestFormat=true&k=the+big+picture+sean+carroll&crid=3L4ADELXNSFCL&sprefix=the+big+pictu&linkCode=ll2&tag=infinitycount-21&linkId=486a888d42616a29ba3b8bae49e968c8&ref_=as_li_ss_tl)
 
+* [*Consciousness Explained* by Daniel Dennett](https://www.amazon.co.uk/dp/0140128670?bestFormat=true&k=consciousness+explained+dennett&crid=1JAHQDNKU47NN&sprefix=consciousness+ex&linkCode=ll2&tag=infinitycount-21&linkId=9c2380507b97c0cf31f64eec57c91a75&ref_=as_li_ss_tl)
 
-Physics and Philosophy by Werner Heisenberg
-
-10. Criticism Against Physicalism
-
-We already saw the gaps in science in a previous chapter. Scientists could argue that there is no reason to believe that these knowledge gaps will not be filled up in the future. At the very least, we can still use the dogmatic proof of a Münchhausen trilemma to ensure that all the boundaries are covered. For example, we could just assume that the Standard Model (of particle physics) is the ultimate theory of the small and move on with our lives without worrying about the existence of things smaller than the particles in that model while research can still continue to look into what happens inside the fundamental particles. It is not the end of the world.
-
-
-
-But there is criticism against the foundation of physicalism, like consistency issues and paradoxes. Remember that the rules of logical consistency and inferences are the foundation of any system that we build. In the next 3 chapters, we explore the criticism levelled against the foundations of physicalism.
-
-
-
-
-
+* [*Physics and Philosophy* by Werner Heisenberg](https://www.amazon.co.uk/Physics-Philosophy-Revolution-Science-Classics/dp/0141182156?crid=3VXFIEC784MZ1&dib=eyJ2IjoiMSJ9.nnmsvx7ZWD9u64HHdU04OM32wPoKbggxvIGc7OObSDeRXx7vmJSbc5bdSNmm1u0wAQsZZEbo-XNhQVL8-CoPSfQH94jvNgyRhgJqjlp9ToSn1XGSZ2Ao_ZCF7iGR9F6BrOCPxatIV3ukjPsckxchUP9dFOaVUiamKD-d1L61HVvdf1uU5_WA1B2_sIAOG8mXpEXymdNkA_cG8hRiYxDAOkxd3P9z1pzPK9kCAAftbPc.veLqU29iYfqgIWnPd6sFuYHJ90n57pjY4hEAlvyziqs&dib_tag=se&keywords=physics+and+philosophy+heisenberg&qid=1790507316&s=audible&sprefix=physics+and+philosophy+heisenberg%2Caudible%2C99&sr=1-6-catcorr&linkCode=ll2&tag=infinitycount-21&linkId=19592c1b9a72d1b6edc5acd4ba79699a&ref_=as_li_ss_tl)

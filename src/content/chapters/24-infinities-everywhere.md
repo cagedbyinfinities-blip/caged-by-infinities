@@ -128,10 +128,9 @@ Putting them all together:
   * You cannot reach this God by rational thinking. Mystics suggest different paths to reach such a God.
 
 
+## Further Reading
 
-Book recommendations
-
-Infinity and the Mind by Rudy Rucker
+* [*Infinity and the Mind* by Rudy Rucker](https://www.amazon.co.uk/Infinity-Mind-Princeton-Science-Library/dp/0691191387?crid=3SVWBNFHK3BX6&dib=eyJ2IjoiMSJ9.Q_7PPc5g6bgmK9FM58zLCeWA62NHXxvQoQfOySQipQbeoeMMrbkqD_vacgv2drzMOTMse6B1zfi2LxM30Jd6WE1JyLtNPO6CyopH6X0W7grPTuumrbiFBYQehiU_nUYfxGnbKXEgKL6ivC0WfhNaZNfWQT0LwCwgTGkR0nRv4hkfxSaTD9wqyLsbEXZ5kFaKA7DzRD2LzjcoXo-YE6fRXOY4Skco04vxqNiMIxbXX_s.fAyLSXRv2iSkCB7P0G8Dhj9lPMs7FUl4Aj34A6B0DYM&dib_tag=se&keywords=infinity+and+the+mind&qid=1790507012&sprefix=Infinity+and+the+%2Caps%2C113&sr=8-1&linkCode=ll2&tag=infinitycount-21&linkId=bcd47ac16a8683ab4920e69e34ff1544&ref_=as_li_ss_tl)
 
 
 

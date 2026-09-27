@@ -69,6 +69,9 @@ If we take a different approach and assign blame on the kid as the kid has free 
 Assigning responsibility is probably more difficult than assigning cause. And responsibility is only half the story - even once we've decided who is responsible, we still have to decide what they ought to have done. That's the next chapter.
 
 
+## Further Reading
 
+* [*Causation: A Very Short Introduction* by Stephen Mumford and Rani Lill Anjum](https://www.amazon.co.uk/dp/019968443X?bestFormat=true&k=causation+a+very+short+introduction&crid=2BHJSYZNJPJ1K&sprefix=causation+a+&linkCode=ll2&tag=infinitycount-21&linkId=9eda9db7bc86ffa3726b962886110e09&ref_=as_li_ss_tl)
 
+* [*The Book of Why* by Judea Pearl and Dana Mackenzie](https://www.amazon.co.uk/Book-Why-Science-Cause-Effect/dp/0141982411?crid=29JIEEJHJJSR4&dib=eyJ2IjoiMSJ9.tN39SuDoG3IDfVK0uUCedFwMh2aXgJrQOtQcTOJ7_iB3mRmocAZcxXxNjclevcpOpewjG5EaJFD3_K1lXZgX9I_2R1_SLpC3tbSPQvZq-i_k78k1X_RZffGzVEklGmEsMgn7KAwCYH2fuob2AY25jUTbYMBHWsuMFJy1xRz9sc0GqoR6-WBGJ0Mdb7f2Ah_H_g11wHQzUIsmEXQxEUBcSU-YhhNWzsdAtFIGnOqf0N0.wShYbhcSSVto_yjyT1AQFiTvDV-2WORv6fNcr53hQwY&dib_tag=se&keywords=the+book+of+why&qid=1790508922&s=books&sprefix=the+book+of+why%2Cstripbooks%2C105&sr=1-1&linkCode=ll2&tag=infinitycount-21&linkId=38911e90b18b518a563b5a69958e1d74&ref_=as_li_ss_tl)
 

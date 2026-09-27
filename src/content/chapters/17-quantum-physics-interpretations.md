@@ -46,5 +46,9 @@ With all these interpretations, one can see the impact of Quantum Physics on the
 
 ![Quantum interpretations](/images/Ch10_3Interpret.jpg)
 
+## Further Reading
 
+* [*Something Deeply Hidden* by Sean Carroll](https://www.amazon.co.uk/Something-Deeply-Hidden-Emergence-Spacetime/dp/1786078368?crid=TWWCIZ76PK65&dib=eyJ2IjoiMSJ9.NGPw7JbPwF2bEZtq9uN0WP83icLJy9MGr9dTEKX2pAQby4oOxggtpR1QFyIUu8jOclBqtGoeZc0eCPFKUZ_6WUf4FZDNMRfmkuEyZDz7e_5b51w5XdzY9djD0ZeXKPiZZAafTsqnjD2t77QWcEKhLmyN6EufoOAW2z_yFk_kAcTf-D0NQzCxCvj364oFwAGg.sE7P9KwmAkdeY9pbwvGJ6HWaXQnZ6S_oTmtJkWI8lTA&dib_tag=se&keywords=something+deeply+hidden+sean+carroll&qid=1790507711&sprefix=Something+Deeply+Hidden%2Caps%2C96&sr=8-1&linkCode=ll2&tag=infinitycount-21&linkId=c6b2fa8378ff7e632e0222ee2b60a4e4&ref_=as_li_ss_tl)
+
+* [*Quantum: A Guide for the Perplexed* by Jim Al-Khalili](https://www.amazon.co.uk/Quantum-Guide-Perplexed-Jim-Al-Khalili/dp/1780223951?crid=1DZHBZ3690LT3&dib=eyJ2IjoiMSJ9.TKx3IOaFavhbTQHnrLBR_3e52fQDzWvz7ZNH0W-oozCGNcH0Rxa_9hbgOBseDHEu1cEM125bCU0oaZWHZlr02w.kfL6ShmX5KKPsZz9DMHBuotDUH0G8AhhnkDYwirVSKY&dib_tag=se&keywords=Quantum%3A+A+Guide+for+the+Perplexed&qid=1790507807&sprefix=quantum+a+guide+for+the+perplexed%2Caps%2C155&sr=8-1&linkCode=ll2&tag=infinitycount-21&linkId=f492b4dd9be7a65cebd26b0d5170c1fb&ref_=as_li_ss_tl)
 

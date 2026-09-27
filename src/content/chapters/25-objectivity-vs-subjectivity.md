@@ -54,4 +54,8 @@ There are numerous things in our day-to-day life where the objectivity-subjectiv
 ![Subjective good](/images/Ch12_6Subjective.jpg)
 
 
+## Further Reading
+
+* [*The View from Nowhere* by Thomas Nagel](https://www.amazon.co.uk/dp/0195056442?bestFormat=true&k=the+view+from+nowhere+thomas+nagel&crid=2OHDMHEOESHZD&sprefix=The+View+from+Nowhere&linkCode=ll2&tag=infinitycount-21&linkId=35a105ac2ebffab2399443fe25df7c44&ref_=as_li_ss_tl)
+
 

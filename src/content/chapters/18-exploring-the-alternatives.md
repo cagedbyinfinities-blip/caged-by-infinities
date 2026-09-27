@@ -185,6 +185,8 @@ It is up to you to decide which one you prefer. Just don’t be a solipsist, ple
 
 * [*A History of Indian Philosophy* by S.N Dasgupta](https://www.amazon.co.uk/History-Indian-Philosophy-Vol/dp/9358566515?crid=YJRRSBNYTR96&dib=eyJ2IjoiMSJ9.LUw4jEMas096lrfqPVVl1KzkgHoMryTMBYbfxcneDPt9tHjkpBZz9haP53D_pOXKnEMRCizNqChhAiUvCBJDrFv_Hoxa72unNYqeEoM8SvpIcHU5Zw-dksAjcEtmtiDGEcYW9gQTiX8wgzVNnssiU7Xt6SdEXpD4iQIoUU_ewtNenQTGpHoh9B8MvjO-jQcGb4zlsXmgePrrzGAykfPceTvW-uFBFBpj1KCmdJz8OuE.YaHUXz68NbKJT3xcssOXsFLFumwyzJIni6WpBeEkOCw&dib_tag=se&keywords=indian+philosophy+radhakrishnan&qid=1790505103&s=books&sprefix=indian+philosophy+radhakrishnan%2Cstripbooks%2C106&sr=1-2-spons&aref=88V8M5dESe&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1&linkCode=ll2&tag=infinitycount-21&linkId=68767a9871aa774bf2c7d9b208d298ef&ref_=as_li_ss_tl)
 
+* [*Meditations* by Marcus Aurelius](https://www.amazon.co.uk/Meditations-Penguin-Classics-Marcus-Aurelius/dp/0140449337?crid=NWY9CKN4LV2N&dib=eyJ2IjoiMSJ9.Dg0IvDZQVrIes7xJqAsBBRDKYWcFq4KINdsEtAJCsD1sTHus_UsAgrcjK1n0RcVeE6ayAcCTO0aOa-FBootmzWZ9nwoA4Hw4WRltGcbaP1zPwRKM7DG4slvfTfmcH2VxPHWqM8u3E5ut2NRR7L5WtQCfKEZnAmPcYq74P8j0chkCk7sIGy0-YSUiynUlqVngWWYCOpawlRhNpruNejISdRk9A16nDiGDkEq5JSzTLo8.cStdyprTBERZOMav-7jsOIam0kTVnnGeU2OruB1VSfM&dib_tag=se&keywords=meditations+marcus+aurelius&qid=1790508522&s=books&sprefix=meditations%2Cstripbooks%2C104&sr=1-1-spons&aref=34hNDFsbTQ&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1&linkCode=ll2&tag=infinitycount-21&linkId=2a71799f7f7d8e45491305e9b7e25324&ref_=as_li_ss_tl)
+
 
 
 

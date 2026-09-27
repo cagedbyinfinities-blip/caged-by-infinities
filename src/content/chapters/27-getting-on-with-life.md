@@ -79,5 +79,7 @@ No matter what happens, they will always find a way to justify our beliefs. Unle
 
 
 
+## Further Reading
 
+* [*Thinking, Fast and Slow* by Daniel Kahneman](https://www.amazon.co.uk/Thinking-Fast-Slow-Daniel-Kahneman/dp/0141033576?crid=866UCJJLJPKK&dib=eyJ2IjoiMSJ9.t0urj2TOIWU_X4qDpckLiR7FNXR4zJ76ewJ6-DBAK9QOp9ZuY7gJgbdHLTnFOP_FdgpcZJuMKuMaGo78M7ZLKRodQ8rtX3cWbFUtc6PkHigngQUV7Zk0F8p8E2sX7chgfWxYrpI5O8oBp1XSHtzR8F5AIh-xRXDlX9-3LAdWa0GOcQ6-Ljop0eZZMH3JU1a26yo-l1T65JU3s-kQSGk6OkOGiueM__6aZRxt_atY0GI.5ykybhOruEUSOXZLUQc8iIlek5IGKkc_r6Tb3vhdWmo&dib_tag=se&keywords=thinking+fast+and+slow+by+daniel+kahneman&qid=1790507878&sprefix=thinking+fa%2Caps%2C126&sr=8-1&linkCode=ll2&tag=infinitycount-21&linkId=257739b6cea5fb31359e8317d93dd668&ref_=as_li_ss_tl)
 

@@ -27,5 +27,10 @@ Maybe we can rely on the information we receive from the others to confirm our o
 I admit that this is just a theoretical attack on the foundation. I don’t expect nor advise anyone to take this seriously unless they want a free ticket to an institution. But it is still a fun thought experiment and a valid attack on the foundations of physicalism.
 
 
+## Further Reading
+
+* [*Meditations on First Philosophy* by René Descartes](https://www.amazon.co.uk/Meditations-Philosophy-Selections-Objections-Classics/dp/0192806963?crid=3SJUJC4BF0TIH&dib=eyJ2IjoiMSJ9.Qy7qv4OoeR1PgTIXkXjJiGhhsd910nnoo_JvgSgaMIhMwQnkBuNvQhSpICYi7MEj-fo-dkEaPnHwcubeaqv4UBk6J4lh0XaOQ_A_eCF2Qn0IQCuTIklLN45ih8JbxGjg1FF4mFssapWTGsNy12XvKDCSW1n7AHHqr9VHxQaZNZlDqtbfw2U9kstTT1xpbCwZDtexodfjqx0oZs6MdMjH2FGw59wM7U1bDq_tRgALuIs.yjd7lx3--y0N_HJiCWumjrU11-lIIxbndz2ymeMHcxM&dib_tag=se&keywords=first+meditations+of+philosophy&qid=1790505181&s=books&sprefix=first+meditations+of+philosophy%2Cstripbooks%2C101&sr=1-1&linkCode=ll2&tag=infinitycount-21&linkId=146616632c99983b569a475416a3f2a3&ref_=as_li_ss_tl)
+
+* [*The Pig that Wants to Be Eaten* by Julian Baggini](https://www.amazon.co.uk/dp/1803510471?bestFormat=true&k=the+pig+that+wants+to+be+eaten+julian+baggini&crid=3JNVAA2MUHZ4A&sprefix=the+pig+that+&linkCode=ll2&tag=infinitycount-21&linkId=a18fb04b4d4e5da8791b4592a233d730&ref_=as_li_ss_tl)
 
 
