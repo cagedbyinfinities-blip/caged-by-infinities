@@ -100,16 +100,15 @@ Mystic philosophies believe that there is a different type of knowledge we could
 
 
 
-Book Recommendations
+## Further Reading
 
 
-Tractatus Logico-Philosophicus by Ludwig Wittgenstein
+* [*Tractatus Logico-Philosophicus* by Ludwig Wittgenstein](https://www.amazon.co.uk/dp/0198861370?bestFormat=true&k=tractatus+logico-philosophicus&crid=A5WIYITI71V8&sprefix=Tractatus+Logico-Philosophicus&linkCode=ll2&tag=infinitycount-21&linkId=b5f73b1ec19a451e6297e47a90de35b5&ref_=as_li_ss_tl)
 
-The Encyclopedia Logic by G.W.F Hegel
+* [*The Encyclopedia Logic* by G.W.F Hegel](https://www.amazon.co.uk/Encyclopedia-Logic-G-W-Hegel-ebook/dp/B005ORSR9A?crid=1OCDALBP8W9TO&dib=eyJ2IjoiMSJ9.lnT5b6OZoqiuf1FOvtjySUrV2bZH-bTEf3JQKPrWH15_qEDQFZBDym2f6iNNPvB5znuZpK2KlxNiUC7t5vHlJcq2WuayhAHV3E4CMZL2Kpn4VsBqVNCSXJ3zUoeQOBxF4ghRCZzuMH-0-cGla8pSk-vOLzWN4y8L4odPqqK9Z_CmujnErAyQO_9QSry_zSS-_lw86fBrWlnIWvUS9ZX9LCnNLd0NJYxSA8Ac3czqYMg._yGPJMfwg-Lu4iE0wMjbP51lap_9-9tAl3lhh12380o&dib_tag=se&keywords=the+encyclopedia+logic&qid=1790503754&s=books&sprefix=the+encyclopedia+logic%2Cstripbooks%2C204&sr=1-2&linkCode=ll2&tag=infinitycount-21&linkId=932c901d899a3f075cdbbe68671a08fb&ref_=as_li_ss_tl)
 
-An Enquiry Concerning Human Understanding by David Hume
+* [*An Enquiry Concerning Human Understanding* by David Hume](https://www.amazon.co.uk/dp/0199549907?bestFormat=true&k=an+enquiry+concerning+human+understanding&crid=250ACC7QW57QE&sprefix=an+enquiry&linkCode=ll2&tag=infinitycount-21&linkId=ea54f0661fc472f22230f7f9feee87b2&ref_=as_li_ss_tl)
 
-Both are about rationalism. I don’t have any books to recommend about empiricism. Just stay awake and experience the world and you are good.
 
 
 

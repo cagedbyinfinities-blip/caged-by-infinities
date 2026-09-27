@@ -64,9 +64,9 @@ A dualist, an idealist or a theist on the other hand can either say that the clo
 
 Either way, this is an interesting puzzle to ponder over, don’t you think?
 
-Book Recommendations
+## Further Reading
 
-Reasons and Persons by Derek Parfit
+* [*Reasons and Persons* by Derek Parfit](https://www.amazon.co.uk/dp/019824908X?bestFormat=true&k=reasons+and+persons+by+derek+parfit&crid=18SGBSOJNVZUW&sprefix=reasons+and+per&linkCode=ll2&tag=infinitycount-21&linkId=1a321eecc8e433a9d5cfb14b470a8578&ref_=as_li_ss_tl)
 
 
 

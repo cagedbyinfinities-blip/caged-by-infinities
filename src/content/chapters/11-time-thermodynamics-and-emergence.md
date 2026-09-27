@@ -49,19 +49,22 @@ One popular philosophical debate on emergence is weak emergence vs strong emerge
 
 ## Further Reading
 
+* [*Six Easy Pieces* by Richard Feynman](https://www.amazon.co.uk/dp/B06XK8GCJG?bestFormat=true&k=six+easy+pieces+richard+feynman&crid=U5MH5M2LVRXY&sprefix=six+ea&linkCode=ll2&tag=infinitycount-21&linkId=31ee6bdf394a6fad5337e39c3959c4fb&ref_=as_li_ss_tl)
+* [*Six Not-So-Easy Pieces* by Richard Feynman](https://www.amazon.co.uk/Six-Not-So-Easy-Pieces-Relativity-Space-Time/dp/0465025269?crid=2R41IBMMHY6W6&dib=eyJ2IjoiMSJ9.c2rPUR38CmhqLek7CbECcITAujOa4p5n5w7JqNGxt_2O7QZcJI0g-b5SCFk767owKpdnh72_VxVjJxhr_GC1JLRxQyKBJ7QQNC-8nbCLZ9hYKJ6KC6uvAOf603kvrcoaOYTB5L18IgcFd6ORz_eNm6P-bwHvKmGY2IvcVt-M_Ev5Cj6dFyv34eOzbF4oRMnBvWkAvC3amuqvxoepdS1_lPU1_aeV4sU9JOY_BVyjrsY.6dXC-PqPKz-Ba7jEGWWnoqS49WJW4vTsIvojBiHbWbw&dib_tag=se&keywords=six+pieces+feynman&qid=1790504048&sprefix=six+pieces+feynman%2Caps%2C122&sr=8-2&linkCode=ll2&tag=infinitycount-21&linkId=dc2c03f1f698a512374bbf2b0394b4dd&ref_=as_li_ss_tl)
 
+All The Feynman Lectures by Richard Feynman are good. The books listed above have some handpicked lectures which are particularly interesting.
 
-The Feynman Lectures by Richard Feynman
+* [*The Fabric of the Cosmos* by Brian Greene](https://www.amazon.co.uk/dp/0141011114?bestFormat=true&k=the+fabric+of+the+cosmos+brian+greene&crid=DR2OM1996TQ7&sprefix=the+fabric+of+cos&linkCode=ll2&tag=infinitycount-21&linkId=fcee0e3f590b8dc79369427409e2dfe1&ref_=as_li_ss_tl)
 
-The Fabric of the Cosmos by Brian Greene
+* [*A Brief History of Time* by Stephen Hawking](https://www.amazon.co.uk/Brief-History-Time-Black-Holes-ebook/dp/B0031RDVMI?crid=6CHDVT29G2ON&dib=eyJ2IjoiMSJ9.FmSmYRfIUFeVZ99hOeOLbuzElzh4remNOnqcTincjZmh1OHjAeRTWjNQUVtvc0DVycisev9H2W7i3Y40MPqikhevaO68boVYrLExROqUFafSoBPCPYO3jvFjYis75E_M9jMz5xlutoR5aQQreS1VQTQewWnIK_XTl9UxGobBP-lQkKLDh9gn-cvonlVuqS15cXC3IV23KYb2bA0wSkNU4bxBBDkB3PjcS4WQiRjG2EI.QkfYAdQ-Aq-2CT_Y_-Gh32ivh71StFJIjHZQG_Nq3E8&dib_tag=se&keywords=a+brief+history+of+time+kindle&qid=1790504195&s=books&sprefix=a+brief+history+of+time+kindle%2Cstripbooks%2C101&sr=1-1&linkCode=ll2&tag=infinitycount-21&linkId=95c195b41575022a0a9350a91ccd9d9d&ref_=as_li_ss_tl)
 
-A Brief History of Time by Stephen Hawking
+* [*What We Cannot Know* by Marcus du Sautoy](https://www.amazon.co.uk/dp/B01CPVE3LI?bestFormat=true&k=what+we+cannot+know&crid=3M7OL2SQYOQBE&sprefix=what+we+cannot+know&linkCode=ll2&tag=infinitycount-21&linkId=ff8d586c30bc8da2112548b72381ea9d&ref_=as_li_ss_tl)
 
-What We Cannot Know by Marcus du Sautoy
+* [*Reality Is Not What It Seems* by Carlo Rovelli](https://www.amazon.co.uk/dp/0141983213?bestFormat=true&k=reality+is+not+what+it+seems+carlo+rovelli&crid=362QF8Q6SV6PN&sprefix=reality+is+&linkCode=ll2&tag=infinitycount-21&linkId=953184e46362b91278120ba8718b66d1&ref_=as_li_ss_tl)
 
-Reality Is Not What It Seems by Carlo Rovelli
+* [*The Biggest Ideas in the Universe series* by Sean Carroll](https://www.amazon.co.uk/Carroll-Biggest-Universe-Collection-Motion/dp/0113310005?crid=2CEOSRUC0Y9KL&dib=eyJ2IjoiMSJ9.WywA3GBk-Y___M3zP79mX9jOIX7mcyOXZ8p1ebvtnBmzfBVOhV6FB6q3gaPXa4QgT1-MI6trHhjoQ_I6TcvddzPIYZ0bv_6bt14oJGLOq0zKa76v_zxE08jQcoUrOJ84xAqn_Q9MIPDGGo3vqJ0zSMUdpK9Q8cxyWncIvY8ZYADMJNmPaS1gFuQrkRBV7aJfb745dyBFEXsOHhBxPEcPddZGlutiT7TOCACyHRZi2S4.hwR5Uzs9GRs5evudJBCRYwbCxGUATViwTaHr0AR5nIE&dib_tag=se&keywords=the+biggest+ideas+in+the+universe&qid=1790504351&s=books&sprefix=the+biggest+ideas+in+the+universe%2Cstripbooks%2C97&sr=1-3&linkCode=ll2&tag=infinitycount-21&linkId=83b143f580e431d2b39046b2bc8729b2&ref_=as_li_ss_tl) if you want to get a little bit deeper into the Mathematics. Third book yet to be released at the time of writing.
 
-The Biggest Ideas in the Universe series by Sean Carroll if you want to get a little bit deeper into the Mathematics
+Sean Carroll's [blog](https://preposterousuniverse.com/) is also very good
 
 
 

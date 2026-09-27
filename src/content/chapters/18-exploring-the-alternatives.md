@@ -171,17 +171,19 @@ It is up to you to decide which one you prefer. Just don’t be a solipsist, ple
 
 ## Further Reading
 
+* [*Meditations on First Philosophy* by René Descartes](https://www.amazon.co.uk/Meditations-Philosophy-Selections-Objections-Classics/dp/0192806963?crid=3SJUJC4BF0TIH&dib=eyJ2IjoiMSJ9.Qy7qv4OoeR1PgTIXkXjJiGhhsd910nnoo_JvgSgaMIhMwQnkBuNvQhSpICYi7MEj-fo-dkEaPnHwcubeaqv4UBk6J4lh0XaOQ_A_eCF2Qn0IQCuTIklLN45ih8JbxGjg1FF4mFssapWTGsNy12XvKDCSW1n7AHHqr9VHxQaZNZlDqtbfw2U9kstTT1xpbCwZDtexodfjqx0oZs6MdMjH2FGw59wM7U1bDq_tRgALuIs.yjd7lx3--y0N_HJiCWumjrU11-lIIxbndz2ymeMHcxM&dib_tag=se&keywords=first+meditations+of+philosophy&qid=1790505181&s=books&sprefix=first+meditations+of+philosophy%2Cstripbooks%2C101&sr=1-1&linkCode=ll2&tag=infinitycount-21&linkId=146616632c99983b569a475416a3f2a3&ref_=as_li_ss_tl)
 
+* [*The Conscious Mind* by David Chalmers](https://www.amazon.co.uk/dp/0195117891?bestFormat=true&k=the+conscious+mind+in+search+of+a+fundamental+theory&crid=3IWZ3OJSV40IG&sprefix=the+consciou&linkCode=ll2&tag=infinitycount-21&linkId=7c6dba01d57d82a0d97a78199688799c&ref_=as_li_ss_tl)
 
-The Conscious Mind by David Chalmers
+* [*Phenomenology of Spirit* by Hegel](https://www.amazon.co.uk/dp/8120814738?bestFormat=true&k=the+phenomenology+of+spirit&crid=32ZPY791Q0IOA&sprefix=the+phenomenology+of+sp&linkCode=ll2&tag=infinitycount-21&linkId=6939bf5f9325b767ef7d5001bde7e9c1&ref_=as_li_ss_tl)
 
-The Phenomenology of Spirit by Hegel
+* [*Philosophy of Mind: A Comprehensive Introduction* by William Jaworski](https://www.amazon.co.uk/Philosophy-Mind-Comprehensive-William-Jaworski/dp/1444333682?crid=3MCAXBDHLNT3P&dib=eyJ2IjoiMSJ9.RMKVUB5LmeDGusAD5oWk6kc2z4c5V_dYuB4OD71Ibyo3o-LT5o11S1FL-QqvClEKPf6-fx1HpjypOyDUD0xjUDv_lreKEgkjoHgALdgXtwSTc35XaqEFnWkg9gwoXUKdJx9G46K6NWbIe4iVyCyrm6J_mwOibY-cakndYz-0SZMzhwtv1zzL55QIh35_DWEG-mU27qCmnAAMFynYWt32Cz7c1ixDjmVlsGOwYdHMLIw.WUDMdUs90A4NsAfx3IEtG81_9ROikKhJ20XFMHNKj3g&dib_tag=se&keywords=Philosophy+of+Mind%3A+A+Comprehensive+Introduction&qid=1790504716&sprefix=philosophy+of+mind+a+comprehensive+introduction%2Caps%2C119&sr=8-1&ufe=app_do%3Aamzn1.fos.95fd378e-6299-4723-b1f1-3952ffba15af&linkCode=ll2&tag=infinitycount-21&linkId=293ab7e4b829a09c702c3041853c013b&ref_=as_li_ss_tl)
 
-Philosophy of Mind: A Comprehensive Introduction by William Jaworski
+* [*What the Buddha Taught* by Walpola Rahula](https://www.amazon.co.uk/dp/B07ZWFMK6J?bestFormat=true&k=what+the+buddha+taught&crid=1CMHBI6C8O5JN&sprefix=what+the+buddha+tau&linkCode=ll2&tag=infinitycount-21&linkId=2574d1c85d3fcc50ee03a0a0e85d1368&ref_=as_li_ss_tl)
 
-What the Buddha Taught by Walpola Rahula
+* [*A Critical Survey of Indian Philosophy* by Chandradhar Sharma](https://www.amazon.co.uk/dp/8120803647?bestFormat=true&k=a+critical+survey+of+indian+philosophy&crid=31P6BA4EXOZTD&sprefix=a+critical+survey&linkCode=ll2&tag=infinitycount-21&linkId=c270cf41e12fdeb56dfae474edd488a0&ref_=as_li_ss_tl)
 
-A Critical Survey of Indian Philosophy by Chandradhar Sharma
+* [*A History of Indian Philosophy* by S.N Dasgupta](https://www.amazon.co.uk/History-Indian-Philosophy-Vol/dp/9358566515?crid=YJRRSBNYTR96&dib=eyJ2IjoiMSJ9.LUw4jEMas096lrfqPVVl1KzkgHoMryTMBYbfxcneDPt9tHjkpBZz9haP53D_pOXKnEMRCizNqChhAiUvCBJDrFv_Hoxa72unNYqeEoM8SvpIcHU5Zw-dksAjcEtmtiDGEcYW9gQTiX8wgzVNnssiU7Xt6SdEXpD4iQIoUU_ewtNenQTGpHoh9B8MvjO-jQcGb4zlsXmgePrrzGAykfPceTvW-uFBFBpj1KCmdJz8OuE.YaHUXz68NbKJT3xcssOXsFLFumwyzJIni6WpBeEkOCw&dib_tag=se&keywords=indian+philosophy+radhakrishnan&qid=1790505103&s=books&sprefix=indian+philosophy+radhakrishnan%2Cstripbooks%2C106&sr=1-2-spons&aref=88V8M5dESe&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1&linkCode=ll2&tag=infinitycount-21&linkId=68767a9871aa774bf2c7d9b208d298ef&ref_=as_li_ss_tl)
 
 
 

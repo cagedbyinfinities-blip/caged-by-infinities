@@ -138,15 +138,16 @@ The physicalist theories mentioned above have their own gaps which critics quest
 
 
 
-Book recommendations
+## Further Reading
 
-Philosophy of Mind: A Comprehensive Introduction by William Jaworski
+* [*Philosophy of Mind: A Comprehensive Introduction* by William Jaworski](https://www.amazon.co.uk/Philosophy-Mind-Comprehensive-William-Jaworski/dp/1444333682?crid=3MCAXBDHLNT3P&dib=eyJ2IjoiMSJ9.RMKVUB5LmeDGusAD5oWk6kc2z4c5V_dYuB4OD71Ibyo3o-LT5o11S1FL-QqvClEKPf6-fx1HpjypOyDUD0xjUDv_lreKEgkjoHgALdgXtwSTc35XaqEFnWkg9gwoXUKdJx9G46K6NWbIe4iVyCyrm6J_mwOibY-cakndYz-0SZMzhwtv1zzL55QIh35_DWEG-mU27qCmnAAMFynYWt32Cz7c1ixDjmVlsGOwYdHMLIw.WUDMdUs90A4NsAfx3IEtG81_9ROikKhJ20XFMHNKj3g&dib_tag=se&keywords=Philosophy+of+Mind%3A+A+Comprehensive+Introduction&qid=1790504716&sprefix=philosophy+of+mind+a+comprehensive+introduction%2Caps%2C119&sr=8-1&ufe=app_do%3Aamzn1.fos.95fd378e-6299-4723-b1f1-3952ffba15af&linkCode=ll2&tag=infinitycount-21&linkId=293ab7e4b829a09c702c3041853c013b&ref_=as_li_ss_tl)
 
-On Mind and Matter by Erwin Schrödinger
+* [*On Mind and Matter* by Erwin Schrödinger](https://www.amazon.co.uk/What-Life-Autobiographical-Sketches-Classics/dp/1107604664?crid=4O6DDABPI68O&dib=eyJ2IjoiMSJ9.yfPNuvxlRxwgyDldoKFzzjnONtm81sgJ2jT7k0jt1NTFZuzNJOMtZy7DxAlxB3ILz5Lssu7oT7qopTkPQBUxUA.LYC1Jgf9HGvInyJuB2WPp1Zd_m-FZETnXFwwY6mvl5k&dib_tag=se&keywords=mind+and+matter+schrodinger&qid=1790504765&sprefix=on+mind+and+matter+schr%2Caps%2C125&sr=8-2&linkCode=ll2&tag=infinitycount-21&linkId=9f93ae2fcabf263107fc2f817ad15c41&ref_=as_li_ss_tl)
 
-I am a Strange Loop by Douglas Hofstadter
 
-Consciousness Explained by Daniel Dennett
+* [*I am a Strange Loop* by Douglas Hofstadter](https://www.amazon.co.uk/dp/B07HJC6FY8?bestFormat=true&k=i+am+a+strange+loop&crid=RF1GV0N9H9Z&sprefix=i+am+a+stra&linkCode=ll2&tag=infinitycount-21&linkId=5320668dffad4c287149aed9e8d08067&ref_=as_li_ss_tl)
+
+* [*Consciousness Explained* by Daniel Dennett](https://www.amazon.co.uk/dp/0140128670?bestFormat=true&k=consciousness+explained+dennett&crid=1JAHQDNKU47NN&sprefix=consciousness+ex&linkCode=ll2&tag=infinitycount-21&linkId=9c2380507b97c0cf31f64eec57c91a75&ref_=as_li_ss_tl)
 
 Note: Dennett is on the other side of this debate - he argues the hard problem is an illusion. I've included him so you hear the strongest counterargument.
 

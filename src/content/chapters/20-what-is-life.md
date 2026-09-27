@@ -64,9 +64,11 @@ Overall, this is a philosophical question that doesn’t have a definitive answe
 
 ## Further Reading
 
-- What is Life? By Erwin Schrödinger
-- I am a Strange Loop by Douglas Hofstadter
-- If the Universe Is Teeming with Aliens... WHERE IS EVERYBODY?: Seventy-Five Solutions to the Fermi Paradox and the Problem of Extraterrestrial Life by Stephen Webb
+* [*What is Life?* By Erwin Schrödinger](https://www.amazon.co.uk/What-Life-Autobiographical-Sketches-Classics/dp/1107604664?crid=4O6DDABPI68O&dib=eyJ2IjoiMSJ9.yfPNuvxlRxwgyDldoKFzzjnONtm81sgJ2jT7k0jt1NTFZuzNJOMtZy7DxAlxB3ILz5Lssu7oT7qopTkPQBUxUA.LYC1Jgf9HGvInyJuB2WPp1Zd_m-FZETnXFwwY6mvl5k&dib_tag=se&keywords=mind+and+matter+schrodinger&qid=1790504765&sprefix=on+mind+and+matter+schr%2Caps%2C125&sr=8-2&linkCode=ll2&tag=infinitycount-21&linkId=9f93ae2fcabf263107fc2f817ad15c41&ref_=as_li_ss_tl)
+
+* [*I am a Strange Loop* by Douglas Hofstadter](https://www.amazon.co.uk/dp/B07HJC6FY8?bestFormat=true&k=i+am+a+strange+loop&crid=RF1GV0N9H9Z&sprefix=i+am+a+stra&linkCode=ll2&tag=infinitycount-21&linkId=5320668dffad4c287149aed9e8d08067&ref_=as_li_ss_tl)
+
+* [*If the Universe Is Teeming with Aliens... WHERE IS EVERYBODY?: Seventy-Five Solutions to the Fermi Paradox and the Problem of Extraterrestrial Life* by Stephen Webb](https://www.amazon.co.uk/dp/B08T67G75T?bestFormat=true&k=if+the+universe+is+teeming+with+aliens+...+where+is+everybody&crid=FWRNA4W0DVE4&sprefix=if+the+universe+i&linkCode=ll2&tag=infinitycount-21&linkId=3742fd7858b5821c3905777be6d687d4&ref_=as_li_ss_tl)
 
 
 

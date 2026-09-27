@@ -74,7 +74,6 @@ These are the two brute assumptions we make about reality in our day-to-day life
 Putting them all together, this is The layman’s philosophical system so far.
 
 * It has the following Brute statements
-
   * An objective world exists.
   * People around us have minds similar to ours.
 * You add inferred statements as you see fit.

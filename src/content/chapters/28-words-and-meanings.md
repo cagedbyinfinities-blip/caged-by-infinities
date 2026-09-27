@@ -85,10 +85,10 @@ CJ: Damn! You mighta just made fact. That's some real shit right there! A-Ha!
 ![I am you](/images/Ch15_Yu.jpg)
 
 
-Book recommendations
+# Further Reading
 
 
-Philosophical Investigations by Ludwig Wittgenstein
+* [*Philosophical Investigations* by Ludwig Wittgenstein](https://www.amazon.co.uk/dp/1405159294?bestFormat=true&k=philosophical+investigation+ludwig+wittgenstein&crid=35UFZGQKCNT5A&sprefix=philosophical+inve&linkCode=ll2&tag=infinitycount-21&linkId=5e9d77ae833a657ec2b32bde893066cb&ref_=as_li_ss_tl)
 
 
 

@@ -100,7 +100,7 @@ In the previous chapter, I mentioned how science explains the world (the object)
 
 ## Further Reading
 
-* What We Cannot Know by Marcus du Sautoy
+* [*What We Cannot Know* by Marcus du Sautoy](https://www.amazon.co.uk/dp/B01CPVE3LI?bestFormat=true&k=what+we+cannot+know&crid=3M7OL2SQYOQBE&sprefix=what+we+cannot+know&linkCode=ll2&tag=infinitycount-21&linkId=ff8d586c30bc8da2112548b72381ea9d&ref_=as_li_ss_tl)
 
 
 

@@ -74,9 +74,9 @@ I hope you're as frustrated with modern political discourse as I am. For most pe
 
 ## Further Reading
 
-* The Righteous Mind by Jonathan Haidt
-* Does the Center Hold? By Donald Palmer
-The Worldly Philosophers: The Lives, Times, and Ideas of the Great Economic Thinkers by Robert L Heilbroner
+* [*The Righteous Mind* by Jonathan Haidt](https://www.amazon.co.uk/Righteous-Mind-Divided-Politics-Religion/dp/0141039167?crid=7ICF39REFN13&dib=eyJ2IjoiMSJ9.t8MNN1aFkyLYKscTIyzx78XxZpLZXseOyJ7X07P_HEZIoF-kmwcQnvi2mIAoAcDSY5B3RbjyPe7lUon_aSDqnipms63IO62-D4o6f7Js4PknI6_gbdKZYhXeCZKKTPVxNDvrPQ5a_4cZ5Z55i37mdnb-VlanEgMef2MQn6a1gr8uaPxouEnsMQDTEtm6hkIBzuC3Y7O0FFJBacA_tlRmLp4mO1v-cM7Q3ujZZnQKLZ0.Ol_5c7kfe7Nh7mmfZuN8gCa8xVg6G1wPXf6hBV18vzY&dib_tag=se&keywords=the+righteous+mind&qid=1790506138&s=books&sprefix=the+righteous+mind%2Cstripbooks%2C103&sr=1-1&linkCode=ll2&tag=infinitycount-21&linkId=9a84f762b179a4196e09c6346a5ac89d&ref_=as_li_ss_tl)
+* [*Does the Center Hold?* By Donald Palmer](https://www.amazon.co.uk/dp/1559344830?bestFormat=true&k=does+the+centre+hold&crid=2A4TUGICDNE1D&sprefix=does+the+cen&linkCode=ll2&tag=infinitycount-21&linkId=a0e9356df9bbef8d935b281c9a8f7783&ref_=as_li_ss_tl)
+* [*The Worldly Philosophers: The Lives, Times, and Ideas of the Great Economic Thinkers* by Robert L Heilbroner](https://www.amazon.co.uk/Worldly-Philosophers-Economic-Thinkers-Business/dp/0140290060?crid=235SV1352PGTC&dib=eyJ2IjoiMSJ9.wgLfiQO0xNrt-ufKwIC28fLzR3Zpo1pu7oJIvY5KRdqU9NGA1u6y3ITHAEcmVWvctqK-73ifXMw-LNHTaGOW02GnWJPhJlQ9k8BzTwtizgw_Yls19Mf1VjRw8B9G_GJi3RhuBru1_JSEAXY0Zghp2pICjcTgrFytDWJoIGHWDC4XeemtZTci9LAX3u_c4Uoy-C1J2zJZQ-gzjpKCXCdaYTXuKkMrsasvoG1ii6GYl4M.SY5_j2NVfNMRF-uj1xLYy0NdVE-TmCrQnq4gGS7Dizs&dib_tag=se&keywords=the+worldly+philosophers&qid=1790506202&s=books&sprefix=the+worldly+philosophers%2Cstripbooks%2C95&sr=1-1&linkCode=ll2&tag=infinitycount-21&linkId=61b6b399af1f34de0486038f458f8f4c&ref_=as_li_ss_tl)
 
 
 

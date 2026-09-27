@@ -122,9 +122,9 @@ Many philosophers consider the philosophy of mind or the hard problem of conscio
 
 ## Further Reading
 
-* Gödel, Escher, Bach: an Eternal Golden Braid by Douglas Hofstadter
-* I am a Strange Loop by Douglas Hofstadter
-* Infinity and the Mind by Rudy Rucker
+* [*Gödel, Escher, Bach: an Eternal Golden Braid* by Douglas Hofstadter](https://www.amazon.co.uk/dp/0465026567?bestFormat=true&k=godel+escher+bach+book&crid=2WNS6ZOSOJZ47&sprefix=godel%2C+e&linkCode=ll2&tag=infinitycount-21&linkId=70f76f47a563a2df1a8b5cd0770532f1&ref_=as_li_ss_tl)
+* [*I am a Strange Loop* by Douglas Hofstadter](https://www.amazon.co.uk/dp/B07HJC6FY8?bestFormat=true&k=i+am+a+strange+loop&crid=RF1GV0N9H9Z&sprefix=i+am+a+stra&linkCode=ll2&tag=infinitycount-21&linkId=5320668dffad4c287149aed9e8d08067&ref_=as_li_ss_tl)
+* [*Infinity and the Mind* by Rudy Rucker](https://www.amazon.co.uk/Infinity-Mind-Princeton-Science-Library/dp/0691191387?crid=XVP14XGV2QYW&dib=eyJ2IjoiMSJ9.Q_7PPc5g6bgmK9FM58zLCeWA62NHXxvQoQfOySQipQZ2lT2wtfHhNbp4wCoG_PBP4owqUAU-MP-Qs8h_8gKh0IIl2MyF08ztTmlGqF5nO6LOh2C_pPUPJPDg6IZ8zvt13Z9dBNeOUOGDPYORh66LpCt9Wpy5Rg6geagPyPsbnxnBpOm9EpqKJziVInhncPGm.k8PBTj79r_6lTpYpQttwU8ms25gpHtpccVMY0hQeKnM&dib_tag=se&keywords=infinity+and+the+mind&qid=1790505623&s=books&sprefix=infinity+and+the+mind%2Cstripbooks%2C103&sr=1-1&linkCode=ll2&tag=infinitycount-21&linkId=36492b9ec84af00fbb2f61ed1f116b47&ref_=as_li_ss_tl)
 
 
 

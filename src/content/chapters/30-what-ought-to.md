@@ -96,11 +96,13 @@ As with the philosophy about reality, you are free to pick a moral philosophy.
 
 ## Further Reading
 
-- Groundwork of the Metaphysics of Morals by Immanuel Kant
-- Utilitarianism by John Stuart Mill
-- On the Genealogy of Morals by Friedrich Nietzsche
-- Beyond Good and Evil by Friedrich Nietzsche
-- The Iliad by Homer
+* [*Groundwork for the Metaphysics of Morals* by Immanuel Kant](https://www.amazon.co.uk/Groundwork-Metaphysics-Morals-Oxford-Classics/dp/0198786190?crid=1Z0VO68ZMS61W&dib=eyJ2IjoiMSJ9.sMD6oySqGqCqOb2vZ3tv3UwjYGRDZ_wHBVnb0rxqj9qdMGc_KsKDdZdDqJW5_bKwNesPJ1rIY51N4pykasNbLHJzXGG5l5hw3DoPJIj39BoGakSrEt9rBg_4-mRx91aPo9p40wt7rpZaPRxbhKxpv38U_NsmvjeO8sZjsJK-Box3lMHVX5mXJSLYwMdHYMgfaxCW-hMNQ5qFiuZ_7--RgLXVjdgCBA_37OIlZ2ar5OY.pWsLfhVyydRtp03MerzsRNvGbUeC2Xi_pMs1qPNCF1c&dib_tag=se&keywords=groundwork+of+the+metaphysics+of+morals+by+immanuel+kant&qid=1790505780&sprefix=Groundwork+of+%2Caps%2C100&sr=8-2&linkCode=ll2&tag=infinitycount-21&linkId=865f75998c03256f5aadbe0e91ccd744&ref_=as_li_ss_tl)
+* [*Utilitarianism* by John Stuart Mill](https://www.amazon.co.uk/Utilitarianism-Other-Essays-Classics-Mill/dp/0140432728?crid=33J2DYO34A35S&dib=eyJ2IjoiMSJ9.gx_-MktGbyw8vWSR_jDjZ6FKNZIxUf-Pcxqdo9k1mkMFVDCRo5imoMiPSpdN-Yp6NlfXSIVdXcLJDHNM8JCGrKHncT0mz_0XfDBvvdFW6EIwx2a99uI9T5B4NugUyyY02mKWzpaa5euDJHa3f-iKWxmurpG4LGoTKuwUxHnMVcGAqVSfswTRVZdq17gAAiGlpmPkwVMLX97tMX0vLLrK064obecczoafS-cIkkDER28.ZKbBhgYcTRX04ugZ0niVgY1FBthQKSbeYcA953B1vNU&dib_tag=se&keywords=utilitarianism+john+stuart+mill&qid=1790505845&sprefix=utilitarianis%2Caps%2C121&sr=8-1&linkCode=ll2&tag=infinitycount-21&linkId=35cbbd1eadc2bb5029b311fc1f82a6cd&ref_=as_li_ss_tl)
+* [*On the Genealogy of Morals* by Friedrich Nietzsche](https://www.amazon.co.uk/dp/0141195371?bestFormat=true&k=on+the+genealogy+of+morality&crid=2K9O8KD9RPCC8&sprefix=On+the+Gene&linkCode=ll2&tag=infinitycount-21&linkId=5104af07b85e6ce31699a7cac2f72533&ref_=as_li_ss_tl)
+* [*Beyond Good and Evil* by Friedrich Nietzsche](https://www.amazon.co.uk/Beyond-Good-Evil-Penguin-Classics/dp/014044923X?crid=BE9Y44SPRWSG&dib=eyJ2IjoiMSJ9.pMBFNXPL96eZWJAbIacJuBUufLKI6zkoPpbPPUOEUNkIiBDiLs60Xdrwhcj7EirCxxb7mu30eoH2O5pyxLq6iQfG1r7m7gbWgel9yspABR0_8qa_P0thq8Cp5WnVmgeOD3wqzeIvNy4GN5POGVu6V8oPHQa5_1xnuSonrt0-bHpTAANfR-enUly9vyCVpu90Z0A9y4DUjDfD0IHgp1twNEQxm-CDv34nQGeeQrNENGI.2InhxaVl-JgPzsW6HtckfBVDwHl6kl-MOqQSzFvkPG4&dib_tag=se&keywords=beyond+good+and+evil&qid=1790505895&s=books&sprefix=beyond+goo%2Cstripbooks%2C111&sr=1-4&linkCode=ll2&tag=infinitycount-21&linkId=7164bdfdc2e5c64ac54e2ea10bb9d98f&ref_=as_li_ss_tl)
+* [*The Iliad* by Homer](https://www.amazon.co.uk/Iliad-Homer/dp/0140275363?crid=2O1C09JU9O6AP&dib=eyJ2IjoiMSJ9.YNQC77bdztZNb2HRhspp-5kkevtqYmkTBmZrKAMXwuFhvag7U63nTMiv8wvYfDCZ3J1YRsMJmHzAtqALFr_8YIfI1Jf72i21RU0v4DQ8uTmCdnbhkssfgU91J0SGUiOiJPPR8JXtrPE8G8OTnhpclTMnkmy4f8IeKriWrWkYL8cV1lxBgyVGvT4TcRjaWGmQ9K1Lsf5zt2P-vHsHPgEllzqnn2rBM5DOMWrQBoJBCW4.dUE1ZQe75okWWpDKlrlOPTvf1gG1Odas9mehuqLtk6U&dib_tag=se&keywords=the+iliad+robert+fagles&qid=1790505987&s=books&sprefix=the+iliad+rob%2Cstripbooks%2C102&sr=1-4&linkCode=ll2&tag=infinitycount-21&linkId=07911fed0a8ae28155a8799ed9231676&ref_=as_li_ss_tl)
+
+The Iliad recommendation may look odd. The book gives you an insight into how morals have changed over time.
 
 
 
