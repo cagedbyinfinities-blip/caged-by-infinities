@@ -95,7 +95,7 @@ We will deal with the *What Is?* question in the upcoming chapters, after which 
 
 
 
-## Further Reading
+## Book Recommendations
 
 * [A Little History of Philosophy by Nigel Warburton](https://www.amazon.co.uk/dp/0300283261?bestFormat=true&k=a+little+history+of+philosophy&crid=1WF0GN7940TZ7&sprefix=a+little+history+of+ph&linkCode=ll2&tag=infinitycount-21&linkId=10d412574add1a24dced1065ab84ec66&ref_=as_li_ss_tl)
 
