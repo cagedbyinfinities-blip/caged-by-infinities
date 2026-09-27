@@ -34,7 +34,7 @@ It doesn’t matter if there is something after life or if there isn’t anythin
 The world is just about predictable enough to allow you to set goals and work towards them while also unpredictable enough to surprise you on a regular basis and make the goals more challenging. It has its share of joy, sorrow, surprises, births, deaths and many more. Set goals for yourself and strive to achieve them. Climb that mountain, write that book, publish that poem, build that family, have those kids, learn science, learn philosophy, go after that infinity. No goal is superior or inferior to one another.
 
 
-The goal doesn’t even have to be challenging. If you can get happiness and satisfaction from an ordinary but content life, go for that. Just make sure that they are compatible. It doesn't make sense to set one goal that you will travel 100 countries in a year and setting another goal that you will get promoted twice at your job in the same year, unless your travel is part of the job.
+The goal doesn’t even have to be challenging. If you can get happiness and satisfaction from an ordinary but content life, go for that. Just make sure that your goals are compatible. It doesn't make sense to set one goal that you will travel 100 countries in a year and setting another goal that you will get promoted twice at your job in the same year, unless your travel is part of the job.
 
 
 You can’t find a goal for yourself? Look around and see if anyone wants help with their goals. Offer help only if they ask for it. Maybe they want to go after their goals themselves. By the time you help achieve their goals, you may end up finding one for yourself.
