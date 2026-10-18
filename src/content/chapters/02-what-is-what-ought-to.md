@@ -5,7 +5,7 @@ description: "2. What Is? What Ought To?"
 order: 2
 ---
 
-Let us begin with the kind of problems Philosophy tries to solve. The first thing that comes to the mind of most people when they think about philosophy is “Why?” Let us look at some examples to see what the why question means in this context.
+Let us begin with the kind of problems philosophers try to solve. The first question that comes to the mind of most people when they think about philosophy is “Why?” But what does that question even mean? Let us look at some examples to see what the why question means in this context.
 
 
 
@@ -57,7 +57,7 @@ Because we humans are capable of thinking and acting, at least sometimes, there 
 
 
 
-How does the *What Ought To?* question relate to the why question? Other than the fact that we experience this world, we also seem to have something like free will and that means we act with intent, maybe not when we are drunk. We have a feeling that we have a choice to act in so many ways. The philosopher asks what one ought to do and the reason why one ought to do it. Consider the following question and the two potential answers.
+How does the *What Ought To?* question relate to the *Why/What Is?* question? Other than the fact that we experience this world, we also seem to have something like free will and that means we act with intent, except maybe when we are drunk. We have a feeling that we have a choice to act in so many ways. The philosopher asks what one ought to do and the reason why one ought to do it. How do we exercise this choice? Consider the following question and the two potential answers.
 
 
 
@@ -73,7 +73,7 @@ Answer 2: *Because humans need to have purpose and ambitions. And my ambition is
 
 
 
-The first answer explains it in biological terms which is primarily related to the *What Is?* question. The second answer explains it in terms of human will though one might argue that climbing the mountain might indeed kill him. The second one is the kind of answer we expect when we are dealing with the *What Ought To?* question. We have numerous choices when we decide what we want to do.
+The first answer explains it in biological terms which is primarily related to the *What Is?* question. The second answer explains it in terms of human will though one might argue that climbing the mountain might indeed kill him. The second one is the kind of answer we expect when we are dealing with the *What Ought To?* question. We have numerous choices when we decide what we want to do. How do we go about deciding our path forward?
 
 
 
@@ -83,7 +83,7 @@ Some philosophers argue that the *What Is?* question is the ultimate question an
 
 As I promised in the Introduction, I am not going to take sides here. All you have to know is that philosophy tries to answer two primary questions.
 
-1. We experience a world. What is the nature of this world?
+1. We experience a world. *What is* the nature of this world?
 
 2. We have the ability to choose how to act. *What Ought To?* The question deals with our moral values and purpose of life.
 

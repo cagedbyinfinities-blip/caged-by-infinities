@@ -5,7 +5,7 @@ description: "3. Knower, Knowing and The Known"
 order: 3
 ---
 
-To tackle the *What Is?* question about the nature of reality, we need to find the components of our experience which we should explain. To keep things simple, we need to find the bare minimum components which cover everything we experience. Simple, isn’t it? How do we go about that?
+To tackle the *What Is?* question about the nature of reality, we need to find the components of our experience which that any theory about the nature of reality should explain. To keep things simple, we need to find the bare minimum components which cover everything we experience. Simple, isn’t it? How do we go about that?
 
 
 
@@ -37,7 +37,7 @@ Similarly, I want you, the reader, to empty your mind of all the assumptions you
 
 
 
-If you are still with me and you are still wondering what that rambling was all about, I was trying to find the components of our experience which cover all of our experience. To summarise,
+If you are still with me and you are wondering what that rambling was all about, I was trying to find the components which cover all of our experience. To summarise,
 
 * We perceive a world through sensations (vision, hearing, touch, taste, smell). We have second-order internal sensations named feelings (anger, joy, sorrow, excitement, etc.)
 * We have the ability to think.
@@ -45,11 +45,11 @@ If you are still with me and you are still wondering what that rambling was all 
 
 
 
-Any solution we come up with, for the What Is? question, must explain how we perceive the external world and the internal world, how we think and how we experience the will to do things.
+Any solution we come up with, for the *What Is?* question, must explain how we perceive the external world and the internal world, how we think and how we experience the will to do things.
 
 
 
-Academic philosophy splits the whole What Is? question into two topics:
+Academic philosophy splits the whole *What Is?* question into two topics:
 
 * **Ontology** - The study of nature of reality. Both the knower and the known, the subject and the object, and their nature are studied as part of this.
 * **Epistemology** - The nature of knowledge. How do we learn about reality? What kind of knowledge is valid?
@@ -64,7 +64,7 @@ At this point, I have to point out the circular nature of epistemology/ontology.
 
 ![The epistemology ontology cycle](/images/Ch3circle.jpg)
 
-So, you need to know the reality to validate the knowledge. And you need to know the validity of your knowledge to make statements about reality. How do you know for sure that you are indeed from a different world and what you are experiencing is just a virtual reality? This is a classic circular dependency. Great place to start philosophy, isn’t it? In practice, most philosophies dealing with the What Is? questions come in pairs of Ontology and Epistemology. The challenge is to make sure that the relationship between the nature of reality and how you gain knowledge in this reality is consistent and don't contradict one another.
+So, you need to know the nature of reality to validate the knowledge. And you need to know the validity of your knowledge to make statements about reality. How do you know that your knowledge about your experience being a virtual reality from a different "real" world is true? This is a classic circular dependency. Great place to start philosophy, isn’t it? In practice, most philosophies dealing with the *What Is?* question come in pairs of Ontology and Epistemology. The challenge is to make sure that the relationship between the nature of reality and how you gain knowledge in this reality is consistent and don't contradict one another.
 
 
 
@@ -92,11 +92,11 @@ Ontology specifically must explain both the knower (our mind/self) and the known
 
 
 
-Before we finish, I will also quickly point out another circular reference. I said that part of our experience is thinking and it should also be explained by the ontology/epistemology pair. How are we trying to answer the question? By thinking.
+Before we finish, I will also quickly point out another circular reference. I said that part of our experience is thinking and it should also be explained by the ontology/epistemology pair. How are we trying to answer the question? By thinking. We are thinking about thinking about thinking.....
 
 
 
-Before we dive deeper, I would like to ask you to keep an open mind. Start with a clean slate as I mentioned in the start of this chapter and get rid of all the assumptions we have made in our lives so far. Many philosophies may sound outright stupid but you may not be able to prove them wrong. That is what makes it fun.
+Before we dive deeper, I would like to ask you to keep an open mind. Start with a clean slate as I mentioned in the start of this chapter and get rid of all the assumptions we have made in our lives so far. Many philosophies may sound outright stupid but you may not be able to prove them wrong or prove them correct, for that matter. That is what makes it fun.
 
 
 

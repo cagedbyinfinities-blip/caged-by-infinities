@@ -5,11 +5,11 @@ description: "5. The Blueprint"
 order: 5
 ---
 
-Where are we now? We are trying to answer the What Is? question. We want to explain the subject (our self/mind), the object (the world) and the nature of knowledge (how we learn about the world), put together as ontology and epistemology. We did a walk through of types of knowledge - Experience (empiricism), thinking (rationalism) and a mix of both. Different philosophies may accept one or more of these as valid types of knowledge.
+Where are we now? We are trying to answer the *What Is?* question. We want to explain the subject (our self/mind), the object (the world) and the nature of knowledge (how we learn about the world), put together as ontology and epistemology. We did a walk through of types of knowledge - Perception (empiricism), thinking (rationalism), a mix of both and mysticism. Different philosophies may accept one or more of these as valid types of knowledge.
 
 
 
-Now our job is to add an ontology to complete a philosophy that answers the What Is? question. Building a philosophy that explains the nature of reality and knowledge requires us to use multiple statements. For example,
+Now our job is to add an ontology to complete a philosophy that answers the *What Is?* question. Building a philosophy that explains the nature of reality and knowledge requires us to use multiple statements. For example,
 
 1. God created the world
 2. Both the world and God are real
@@ -18,7 +18,7 @@ Now our job is to add an ontology to complete a philosophy that answers the What
 
 
 
-These four statements together form a philosophy that is consistent. But none of these statements have any proof. I mentioned in the previous chapter that the requirements of a philosophical system are:
+These four statements together form a philosophy that is consistent. But none of these statements have any proof. I mentioned in a previous chapter that the requirements of a philosophical system are:
 
 1. The system must be consistent within itself
 2. The system must explain the self/mind, the world and the nature of knowledge
@@ -89,36 +89,32 @@ Mathematics on the other hand mostly uses the first approach where we generally 
 
 ### Münchhausen trilemma
 
-Before we go further into building this system, I am going to dampen your mood by pointing out a problem with it. The philosophical name for this is The Münchhausen trilemma.
+Before we go further into building this system, I am going to dampen your mood by pointing out a problem with it. The philosophical name for this problem is The Münchhausen trilemma.
 
 
 
-Let us say we want to add a statement to the system. We either add it as a brute statement or an inferred statement. Can any statement in the system be completely proven? As you can see from the system’s definition, any statement is a brute statement itself or inferred from other brute statements. Take one statement from the system and ask why it is true. If it is an inferred statement, the question can be answered by brute statements or other inferred statements which lets you derive the statement. If you ask why about one of these inferred statements, it would take you to other inferred or brute statements.
-
-
-
-If you keep asking why about the statements in a system, going back in the chain, what happens?
+Can any statement in the system be completely proven? As you can see from the system’s definition, any statement is a brute statement itself or inferred from other brute/inferred statements. Take one statement from the system and ask why it is true. If it is an inferred statement, the question can be answered by brute statements or other inferred statements which lets you derive the statement. Now you have to prove the statements which derived this statement and it will take you to more brute or inferred statements which derived those statements. Eventually you reach a list of all brute statements. Now how do you prove them? This is the problem I pointed out about expecting a philosophical system to be completely proven. They never are.
 
 
 
 According to the trilemma, there are only three ways of completing a proof of any statement:
 
-* **The dogmatic proof** - Accept it as a brute statement. For example - God Exists and you have to assume irrespective of a proof.
+* **The dogmatic proof** - Accept it as a brute statement that is taken for granted without a proof. For example - God Exists and you have to assume irrespective of a proof.
 * **The circular proof** - The proof of inferred statement A is inferred statement B. The proof of inferred statement B is inferred statement A. One could make bigger circular proofs too. Here is an example of a circular proof:
 
   * I have an idea of a God and hence God Exists.
   * A God wouldn’t deceive me and hence any ideas I have must be true.
-* **The regressive proof,** in which each proof requires a further proof which needs a further proof and it goes on to infinity.
+* **The regressive proof,** in which each proof requires a further proof which needs a further proof and it goes on, causing an infinite regression.
 
-For example, consider the statement “Light from the sun takes 8 minutes and 20 seconds to reach the earth.” If I ask for proof, one might say that the speed of the light is X and the distance of earth from the Sun is Y, that makes time to travel Y/X and so it takes 8 minutes and 20 seconds. There are multiple statements in this proof. I can point out one of them and ask for proof. For example, I can ask them to prove that the speed of light is indeed X. To prove that, they have to use the theory of electromagnetism. I can stop there or keep asking for proof for the theory of electromagnetism and I can keep going this way. There are only three possible outcomes if I keep asking for a proof -
+For example, consider the statement “Light from the sun takes 8 minutes and 20 seconds to reach the earth.” If I ask for proof, one might say that the speed of the light is X and the distance of earth from the Sun is Y, that makes time to travel Y/X and so it takes 8 minutes and 20 seconds. There are multiple statements in this proof. I can point out one of them and ask for proof. For example, I can ask them to prove that the speed of light is indeed X. To prove that, they have to use the theory of electromagnetism. I can stop there or keep asking for proof for the theory of electromagnetism and I can keep going this way. Informally, there are only three possible outcomes if I keep asking for a proof -
 
 * Stop at some point and say, “This statement is true because it’s a law and there is no further proof for it”
 * Lead me in circles.
 * Keep answering for an infinite period of time.
 
-Translating this to our informal philosophical system, if we keep going back in the chain, we will eventually end up with a brute statement we have to take for granted, go in a circular chain between statements in the system or go in an infinite regression with no end in sight. For the last thing to happen, the set must have an infinite number of statements.
+Translating this to our informal philosophical system, if we try to find the proof of a statement and we keep going back in the chain, we will eventually end up with a brute statement we have to take for granted, go in a circular chain between statements in the system or go in an infinite regression with no end in sight. For the last thing to happen, the system must have an infinite number of statements.
 
-Most popular philosophies rely on dogmatic proofs - A bunch of brute statements which set a solid philosophical foundation for the rest of the statements. There are some philosophies which rely on circular proofs too, something that René Descartes is accused of - the so-called 'Cartesian circle' spotted by his contemporary Antoine Arnauld. As for infinite regression, there are some obscure philosophies which are based on infinity itself.
+Most popular philosophies rely on dogmatic proofs - A bunch of brute statements which set a solid philosophical foundation for the rest of the statements. There are some philosophies which rely on circular proofs too, something that René Descartes is accused of - the so-called 'Cartesian circle' spotted by his contemporary Antoine Arnauld. As for infinite regression, there are some mystic philosophies which are based on infinity itself.
 
 This means that any informal philosophical system we build will have at least one of these:
 

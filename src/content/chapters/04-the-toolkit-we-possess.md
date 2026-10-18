@@ -19,7 +19,7 @@ This is the knowledge we gain through our senses, from our experience. In philos
 
 
 
-Depending on the proposed ontology, your dreams and hallucinations themselves may be real or not real. In our day-to-day life, we consider dreams as unreal. That’s because we live our day-to-day life assuming that there is a real objective world out there. That is an Ontology in itself. And in this Ontology, dreams aren’t real. But what if the whole experience of what we call this “real world” is a dream? Why would one dream be more real than another dream? Don’t scoff at this. This is why I asked you to keep an open mind in the last chapter. There is going to be more of it.
+Depending on the proposed ontology, your dreams and hallucinations themselves may be real or not real. In our day-to-day life, we consider dreams as unreal. That’s because we live our day-to-day life in what we assume is the "real world". That assumption is part of an Ontological theory in itself. And in this Ontology, dreams aren’t real. But what if the whole experience of what we call this “real world” is a dream? Why would one dream be more real than another dream? Don’t scoff at this. This is why I asked you to keep an open mind in the last chapter. There is going to be more of it.
 
 
 
@@ -35,14 +35,14 @@ The next type of knowledge is the one we get by just thinking. In philosophical 
 
 
 
-Maybe I am missing a few. But these are the primary ones. Our ability to detect patterns is fairly straightforward to explain. We do this almost every second of our waking lives. We see a car coming from far in our direction and we know that it will come close to us soon. It is not suddenly going to turn into flowers. We expect sunny weather in the same months every year because we have seen the same pattern every year. Again, this sounds trivial. But to understand why this is special, imagine that you wake up one day and you don’t see the world like it is now. Instead, you see random kaleidoscopic images everywhere that don't show any patterns. The fact that we live in a world that seems to have patterns makes our ability to detect these patterns incredibly valuable.
+Maybe I am missing a few. But these are the primary ones. Our ability to detect patterns is fairly straightforward to explain. We do this almost every second of our waking lives. We see a car coming from far in our direction and we know that it will come close to us soon. It is not suddenly going to turn into flowers. We expect sunny weather in the same months every year because we have seen the same pattern every year. Again, this sounds trivial. But to understand why this is special, imagine that you wake up one day and you don’t see the world like it is now. Instead, you see random kaleidoscopic images everywhere that don't show any patterns. What can we do in that situation? The fact that we live in a world that seems to have patterns makes our ability to detect these patterns incredibly valuable.
 
 
 
 We also have the ability to do logical reasoning. There are two fundamental laws of logical reasoning.
 
 * The law of identity - A thing is identical to itself. A goat is a goat. It is not a sheep.
-* Law of non-contradiction - A thing cannot be both something and its opposite at the same time. A room cannot be both small and big. A door cannot be both open and shut, in the same sense, at the same time.
+* The law of non-contradiction - A thing cannot be both something and its opposite at the same time. A room cannot be both small and big. A door cannot be both open and shut, in the same sense, at the same time.
 
 
 
@@ -66,7 +66,7 @@ The last is our ability to make inferences. If two sides of a triangle are of le
   * I heard my neighbour watching a football game with his friends and celebrating. His wife must be out of town.
 
 
-This is by no means complete. But this is enough to give you an idea of what rationalism is all about. It helps us validate if something is true or derive one statement from other statements. It also helps us to start with some statements which are true and derive other true statements from them. Like we do with Mathematics and Geometry. We start with axioms and we use rational thinking to derive theorems. We just have to follow the rules of logical reasoning and inferences.
+This is by no means complete. But this is enough to give you an idea of what rationalism is all about. It helps us validate if something is true or derive one statement from other statements. It also helps us to start with some statements which are true and derive other true statements from them. Like we do with Mathematics and Geometry where we start with axioms and we use rational thinking to derive theorems. We just have to follow the rules of logical reasoning and inferences. Some philosophies may pick only a subset of what I have listed here as rational knowledge.
 
 ### Mixing them up
 
@@ -88,11 +88,11 @@ Science itself is a mix of both as you use experimental evidence to verify the t
 
 ### Mysticism
 
-Are rationalism and empiricism all kinds of knowledge we are capable of? Maybe the mystics and the saints who meditate do get access to some other kind of knowledge that normal people don’t have access to. Don’t scoff at it. Keep an open mind, remember? That’s what makes philosophy fun.
+Are rationalism and empiricism the only kinds of knowledge we are capable of? Not according to many mystics and saints. They claim that they get access to some other kind of knowledge that normal people don’t have access to, through different methods like meditation, self-control and so on. Again, don’t scoff at it. Keep an open mind, remember? That’s what makes philosophy fun.
 
 
 
-Mystic philosophies believe that there is a different type of knowledge we could potentially access, that takes us to the Absolute Truth or God. By definition, this knowledge is not something we can explain with words to others, though the method to achieve this knowledge is generally shared and is obviously not easy.
+Mystic philosophies believe that there is a different type of knowledge we could potentially access, that takes us to the Absolute Truth or God. By definition, this knowledge is not something we can explain with words to others, though the method to achieve this knowledge is generally shared and is obviously not easy. Let us call this type of knowledge mysticism.
 
 
 ![I drink and I know things](/images/Ch4Drink.jpg)
