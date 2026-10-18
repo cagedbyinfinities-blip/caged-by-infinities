@@ -5,15 +5,15 @@ description: "7. The Scientific Philosophy"
 order: 7
 ---
 
-Where are we now? We are trying to answer the What Is? question. We want to explain the subject (ourselves), the object (the world) and the nature of knowledge, put together as ontology and epistemology. We walked through the potential types of knowledge. We started with a clean slate. What have we built so far? We built the blueprint of an informal philosophical system. We then built a layman’s philosophical system using the framework, which is something which we all agree on in our day-to-day lives.
+Where are we now? We are trying to answer the *What Is?* question. We want to explain the subject (ourselves), the object (the world) and the nature of knowledge, put together as ontology and epistemology. We walked through the potential types of knowledge. We started with a clean slate. What have we built so far? We built the blueprint of an informal philosophical system. We then built a layman’s philosophical system using the framework, which is something which we all agree on in our day-to-day lives.
 
 
 
-From here, we take it to the next level which is a Scientific Philosophical System which adds scientific laws to the system. What tweaks are we going to make to the Layman’s system to build the Scientific System?
+From here, we take it to the next level which is a Scientific Philosophical System which adds scientific laws to the system. This will be our first concrete philosophical system. What tweaks are we going to make to the Layman’s system to build the Scientific System?
 
 
 
-We are going to add 2 new rules along with the existing rule of logical reasoning and inferences and the necessity to posit truths about the nature of reality and knowledge. Remember that we said that it is fine to add rules to the system but not remove any of the existing rules. The new rules set more conditions on when a physical law can be added to the system.
+We are going to add 2 new rules along with the existing rule of logical reasoning and inferences and the necessity to posit truths about the nature of reality and knowledge. Remember, we said that it is fine to add rules to the system but not remove any of the existing rules. The new rules set more conditions on when a physical law can be added to the system.
 
 * The law must make observable predictions and be falsifiable. This is the philosopher Karl Popper's famous test for what counts as science.
 * Occam’s razor - When you have two competing theories that explain an event equally well, you should prefer the one that makes the fewest assumptions or has the least complexity. It is named after the 14th-century philosopher William of Ockham.
@@ -43,9 +43,7 @@ Now, we could either drop Newton's law entirely from the system, or retain it wi
 
 ### Occam’s Razor
 
-Repeating the definition of Occam’s Razor
-
-When you have two competing theories that explain an event equally well, you should prefer the one that makes the fewest assumptions or has the least complexity.
+Repeating the definition of Occam’s Razor - When you have two competing theories that explain an event equally well, you should prefer the one that makes the fewest assumptions or has the least complexity.
 
 
 
@@ -57,7 +55,7 @@ There is a God who pushes all the objects around the surface of the earth toward
 
 
 
-While both the statements could be experimentally verified by just dropping objects from buildings and observing their acceleration, we tend to pick up proposal 1 scientifically because it makes the fewest assumptions (No God) and it has least complexity. Proposal 1 has less number of entities than Proposal 2.
+While both the statements could be experimentally verified by just dropping objects from buildings and observing their acceleration, we tend to pick up proposal 1 scientifically because it makes the fewest assumptions (No God) and it has the least complexity. Proposal 1 has less number of entities than Proposal 2.
 
 
 

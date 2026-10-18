@@ -9,18 +9,18 @@ We have what we call a scientific philosophical system. Interestingly, no one de
 
 
 
-How well does science answer the *What Is?* question? Remember, the What Is? question has to explain the subject (mind/self), the object (the world) and the nature of knowledge.
+How well does science answer the *What Is?* question? Remember, the *What Is?* question has to explain the subject (mind/self), the object (the world) and the nature of knowledge.
 
 * Science is the best tool we have to explain the world we perceive. There are some caveats from a philosophical perspective which we discuss in later chapters.
-* The rules we have in the system already explains the nature of knowledge. For example, the rule about observable predictions tells us that empiricism is a valid form of knowledge. The rules of inferences and logical reasoning already cover some valid rational knowledge. We use Mathematics extensively to develop scientific theories. While not accurate, let us treat Mathematics as an advanced form or rational knowledge.
+* The rules we have in the system already explains the nature of knowledge. For example, the rule about observable predictions tells us that empiricism is a valid form of knowledge. The rules of inferences and logical reasoning already cover some valid rational knowledge. We use Mathematics extensively to develop scientific theories. While not accurate, let us treat Mathematics as an advanced form or rational knowledge. Hence both empiricism and rationalism are considered valid knowledge in the scientific philosophy
 
 
 
-What about the subject (mind/self)? Explaining that too will give us a complete philosophy. But we will deal with that after going on a journey through science as it is not that straightforward.
+What about the subject (mind/self)? Explaining that too will give us a complete philosophy. It gets tricky here. But we will deal with that after going on a journey through science as it is not that straightforward.
 
 
 
-About the world we perceive, science tries to come up with laws which explain everything that happens in the arena of the world, including the arena itself - Space and Time. We have three dimensions of space, a lot of matter and energy in it which evolves in one dimension of time. Science’s claim is that the entirety of the arena and its contents behave according to well-defined physical laws.
+About the world we perceive, science tries to come up with laws which explain everything that happens in the arena of the world - space and time - and also the arena itself. We experience three dimensions of space and a lot of matter and energy in it which evolves in one dimension of time. Science’s claim is that the entirety of the arena and its contents behave according to well-defined physical laws.
 
 
 
