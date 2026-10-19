@@ -5,15 +5,15 @@ description: "8.3 Time, Thermodynamics and Emergence"
 order: 11
 ---
 
-We walked through the laws of classical physics explaining the bigger things and the laws of quantum physics explaining the smaller things. If you look at most of the laws, they usually explain how the state of objects evolve from one time to another time. But neither of the theories explain clearly why time flows in one specific direction.
+We walked through the laws of classical physics explaining the bigger things and the laws of quantum physics explaining the smaller things. If you look at most of the laws, they usually explain how the state of objects evolve from one time to another time. But neither of the theories explain why time flows in one specific direction.
 
 
 
-There is a poignant song named Return to Innocence that shows the life of a couple from the end to the beginning. When we watch it, we can clearly say that the video is in reverse. How?
+There is a poignant song named *Return to Innocence* from Enigma that shows the life of a couple from the end to the beginning. When we watch it, we can clearly say that the video is in reverse. How?
 
 
 
-Imagine you are watching a video that shows a broken egg coming together to form a whole egg. You will immediately tell that the video is running in reverse. But the physical laws we have seen so far do not outlaw a broken egg coming together. Still, we seem to have a clear sense of direction in which Time flows. What scientific theory explains this?
+Imagine you are watching a video that shows a broken egg coming together to form a whole egg. You will immediately tell that the video is running in reverse. But the physical laws we have seen so far do not outlaw a broken egg coming together. Still, we seem to have a clear sense of direction in which time flows. What scientific theory explains this?
 
 
 
@@ -21,11 +21,11 @@ The explanation for the arrow of time comes from the second law of thermodynamic
 
 
 
-You've probably heard entropy described as "disorder." That's a handy shortcut: a broken egg looks more disorderly than a whole egg, so we say it has higher entropy. But "disorder" can be misleading (sometimes things look more ordered but actually have higher entropy).
+You've probably heard entropy described as "disorder." That's a handy shortcut - a broken egg looks more disorderly than a whole egg, so we say it has higher entropy. But "disorder" can be misleading (sometimes things look more ordered but actually have higher entropy).
 
 
 
-A better way to think about it: entropy counts how many different microscopic arrangements could produce the same big-picture appearance. A whole egg can only be arranged in a few ways and still look like a whole egg. A broken egg splattered on the floor could be arranged in countless different splatter patterns and still look like "a broken egg." More possible hidden arrangements = higher entropy.
+There is a better way to think about it - Entropy counts how many different microscopic arrangements could produce the same big-picture appearance. A whole egg can only be arranged in a few ways and still look like a whole egg. A broken egg splattered on the floor could be arranged in countless different splatter patterns and still look like "a broken egg." More possible hidden arrangements = higher entropy.
 
 
 
@@ -35,11 +35,11 @@ But we can always arrange a set of disorderly cards in a specific order, thereby
 
 
 
-The universe at its very beginning is said to have very low entropy and we are moving towards a state of high entropy. The second law of thermodynamics affects us in numerous ways. I personally believe that it is the cause of all our miseries.
+The universe at its very beginning is said to have very low entropy and we are moving towards a state of high entropy. The second law of thermodynamics affects us in numerous ways. One could argue that this property of reality is the cause of all our miseries.
 
 ![Entropy going](/images/Ch8_3entropy.jpg)
 
-Now, we will discuss the topic of emergence. The laws of classical and quantum physics work well in fundamental particles and simple objects. But how do we explain the behaviour of complex objects? We can easily predict how a perfect sphere would roll in the ground. But what if we have a sphere with lots of bumps. It gets difficult to do so. This doesn’t mean that the fundamental physical laws are weak. It is still theoretically possible to figure out the movement of the deformed sphere. But practically speaking, it would be insanely hard. We will have to combine multiple laws, apply them on each part of the deformed sphere and bring them all together.
+Now, we will discuss the topic of emergence. The laws of classical and quantum physics work well in fundamental particles and simple objects. But how do we explain the behaviour of complex objects? We can easily predict how a perfect sphere would roll in the ground. But what if we have a sphere with lots of bumps. It gets difficult to do so. This doesn’t mean that the fundamental physical laws are weak. It is still theoretically possible to reasonably predict the movement of the deformed sphere. But practically speaking, it would be insanely hard. We will have to combine multiple laws, apply them on each part of the deformed sphere and bring them all together.
 
 
 
