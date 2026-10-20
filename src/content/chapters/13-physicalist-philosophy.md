@@ -13,8 +13,11 @@ What is Physicalism? It is a philosophy that is built on the ontological claim t
 
 
 
-What does “physical” mean here? It doesn’t imply that everything has to be a tangible physical thing that we can directly sense and feel. It means that everything is ultimately explained by scientific entities like spacetime, quantum wave functions, electrons, quarks, etc. Though some of the constructs can only be indirectly observed and are never directly perceived, we believe that they are “real”. In the future, progress made in science could render some of these entities non-existent. But still, physicalists believe that it is better to believe in the entities predicted by science than to believe anything else.
+What does “physical” mean here? It doesn’t imply that everything has to be a tangible physical thing that we can directly sense and feel. It means that everything is ultimately explained by scientific entities like spacetime, quantum wave functions, electrons, quarks, etc. 
 
+Though some of the constructs can only be indirectly observed and are never directly perceived, we believe that they are “real”. For example, electrons can never be directly observed. But we can see its interactions with many experimental devices. Physicalists believe that electrons, the way they are described in physics are "real". In the future, progress made in science could describe these entities differently or posit that they don't exist at all. But still, physicalists believe that it is better to believe in the entities predicted by science than to believe anything else.
+
+Let us take space and time for example. Science used these entities for a long time before introducing spacetime as an entity that replaces both. For many of us, even imagining spacetime as an entity is difficult. But even keeping that issue aside, what is the guarantee that spacetime as an entity is correct and reality does not have some other entity which is much more complex than that? Maybe future science will come up with a new entity that replaces spacetime.
 
 
 Considering the success of science over the centuries, it is less controversial for people to admit that the world we perceive is purely made up of these physical entities. The controversial parts of physicalism are:
@@ -23,24 +26,19 @@ Considering the success of science over the centuries, it is less controversial 
 * Thanks to Occam’s razor, there is no other entity outside of the scientific entities, which goes against the philosophy of all theistic religions - no Gods, no literal hell or heaven, no supernatural forces of good or evil.
 
 
-
-Does this mean that if you believe in science, you must be a physicalist? Not really. There is a way for you to believe in science and still subscribe to other philosophies, which we will see later. The idea is that you admit that science is the best framework we have to explain the world we observe. But that doesn’t mean that the entities that science comes up with are absolutely real.
-
-
-
-Let us take space and time for example. Science used these entities for a long time before introducing spacetime as an entity that replaces both. For many of us, even imagining spacetime as an entity is difficult. But even keeping that issue aside, what is the guarantee that spacetime as an entity is correct and reality does not have some other entity which is much more complex than that? Maybe future science will come up with a new entity that replaces spacetime.
+Does this mean that if you believe in science, you must be a physicalist? Not really. There is a way for you to believe in science and still subscribe to other philosophies, which we will see later. The idea is that you admit that science is the best framework we have to explain the world we observe. But that doesn’t mean that the entities that science comes up with are absolutely real. One could also claim that science explains the perceived world well but not the mind which perceives the world.
 
 
 
-Another way is to stick with partial acceptance of the scientific framework to explain reality but just avoid the Occam’s razor. This way, you are free to add other entities like God, hell or heaven as long as it doesn’t interfere with the scientific theories about the world we live in. These new entities are isolated from the world we perceive.
+Another way is to stick with partial acceptance of the scientific framework to explain reality but just avoid the Occam’s razor. This way, you are free to add other entities like God, hell or heaven as long as it doesn’t interfere with the scientific theories about the world we live in. These philosophies posit that the new entities are outside the world we perceive and don't interact with it. So we can't perceive them. It still works as a consistent philosophy. But it goes against the Occam's razor.
 
 
 
-We will discuss them in detail in another chapter. For now, let’s focus on physicalism. Physicalism is a type of “monism”. Monist philosophies tend to explain everything based on one single fundamental entity. There are also other types of monism like idealism (everything is mental), neutral monism, Advaita (an Indian Philosophy). Physicalism says that the single fundamental entity is the physical world and there is nothing outside of it.
+We will discuss such philosophies in detail in another chapter. For now, let’s focus on physicalism. Physicalism is a type of “monism”. Monist philosophies tend to explain everything based on one single fundamental entity. There are also other types of monism like idealism (everything is mental), neutral monism, Advaita (an Indian Philosophy). Physicalism says that the physical entities are the fundamental entities and there is nothing outside of it.
 
 ![They are the same](/images/Ch9Same.jpg)
 
-If we add a brute statement making claims about physicalism to the system we built for science, it becomes something like this:
+If we extend the system we built for science, we can build the system for physicalism:
 
 
 
@@ -66,19 +64,19 @@ If we add a brute statement making claims about physicalism to the system we bui
 
   * Laws of thermodynamics.
 
-  * **Everything that exists can be explained using the entities that we develop in this framework.**
+  * **Everything that exists can be explained using the scientific method**
 
 
 
-The last brute statement is what makes the philosophical framework complete. That everything also includes the Mind. If we were to explain the whole thing in simplistic terms:
+The last brute statement is what makes the philosophical framework complete. That *everything* also includes the Mind. If we were to explain the whole thing in simplistic terms:
 
 
 
-We have a universe that is made of spacetime, matter and other scientific entities. We humans and our minds are also part of this universe. With time, the universe evolves. We humans get more knowledge as we observe the world, as more information reaches us in the form of light and other waves. We use our ability to detect patterns and do rational thinking to predict how the world behaves.
+We have a universe that is made of spacetime, matter and other scientific entities. We humans and our minds are also part of this universe. With time, the universe evolves. We humans get more knowledge as we observe the world, as more information reaches us in the form of light and other waves. We use our ability to detect patterns and do rational thinking to understand how the world behaves.
 
 
 
-The above passage explains both the ontology and epistemology of physicalism. Now, this new statement doesn’t really follow the “Any law added to the system must make observable predictions and be falsifiable” rule yet. The physicalist argument is that with time, we will eventually explain everything that exists using the scientific entities, proven by observable predictions.
+The above passage explains both the ontology and epistemology of physicalism. Now, the new statement about everything being explained by the scientific method doesn’t really follow the “Any law added to the system must make observable predictions and be falsifiable” rule yet. The physicalist argument is that with time, we will eventually explain everything that exists using the scientific entities, proven by observable predictions. Whether this is true or not, is yet to be seen.
 
 
 
