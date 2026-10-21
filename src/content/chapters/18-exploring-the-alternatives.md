@@ -9,15 +9,11 @@ We did a deep dive on Physicalism primarily because it goes well with science an
 
 
 
-Now we will look at other philosophies, which aren’t perfect by any means themselves. They all have their own demons to deal with. There are numerous types of ontological philosophies and subtypes. In theory, we could imagine infinite possible philosophies which are consistent with our experience. We will focus on the most popular ones.
+Now we will look at other philosophies, which aren’t perfect by any means themselves. They all have their own demons to deal with. There are numerous ontological philosophies and subtypes. In theory, we could imagine infinite possible philosophies which are consistent with our experience. We will only focus on the most popular ones.
 
 
 
-Remember that believing in these alternate philosophies does not mean you have to oppose science. You can treat science as a tool that allows you to make predictions in the world we perceive while rejecting the hypothesis of Occam’s Razor. You can refuse to believe that the mind can be explained based on physical processes. You can treat quarks, spacetime, etc. as imaginary constructs which help you predict what you perceive rather than things which exist for real.
-
-
-
-All these philosophies have their own problems, just like physicalism. With that in mind, let’s go over a few of them.
+Remember that believing in these alternate philosophies does not mean you have to oppose science. You can treat science as a tool that allows you to make predictions in the world we perceive while rejecting the hypothesis of Occam’s Razor. You can refuse to believe that the mind can be explained based on physical processes. You can treat quarks, spacetime, etc. as useful constructs which help you make experimental predictions in the world rather than things which exist for real. As I said before, all these philosophies have their own problems, just like physicalism. Philosophies which solve one problem expose themselves to other problems. With that in mind, let’s go over a few of them.
 
 ### Dualism
 
@@ -25,11 +21,11 @@ When philosophers hear the word Dualism, the first name that comes to their mind
 
 
 
-Dualism is just a philosophy that says there are two categories of entities making up the reality. One of them is almost always the physical reality which Physicalism treats as the one and only reality. The nature of the second entity making up reality and its relationship with the physical reality is where different dualist philosophies differ.
+Dualism is just a philosophy that says there are two categories of entities making up the reality. One of them is almost always the physical reality which Physicalism treats as the one and only reality. The nature of the second entity making up reality and its relationship with the physical reality is where the dualist philosophies differ.
 
 
 
-Most people believe in “souls”. We treat the soul as something that is unique per individual and can exist even if the physical body dies. So we have two categories of entities - the physical reality and the reality of the souls. Some dualistic philosophers claim that the second entity is that of mind as opposed to souls. If soul and mind are the same can be debated and understood only by the philosophers who proposed these philosophies. Both of these theories are still dualistic.
+Let us start with *souls*. Most people believe in souls. We treat the soul as something that is unique per individual and can exist even if the physical body dies. So we have two categories of entities - the physical reality and the reality of the souls. Some dualistic philosophies claim that the second entity is the mind as opposed to souls. Whether soul and mind are the same can be debated and understood only by the philosophers who proposed these philosophies. It depends on how the philosophers define soul and mind. Either way, they are all dualistic.
 
 
 
@@ -37,7 +33,7 @@ The ones who call it the mind usually use dualism as a solution to the hard prob
 
 
 
-There is another dualistic philosophy named Property Dualism which states there's only one kind of 'stuff' - ordinary physical matter like brains - but it has two irreducibly different kinds of features: physical features (weight, electrical activity) and mental features (what pain feels like). The mental ones can't be fully reduced to the physical ones. Property dualism has many subtypes. The property dualists have to answer what kind of matter actually has mental properties.
+There is another dualistic philosophy named Property Dualism which states there's only one kind of 'stuff' - ordinary physical matter like brains - but it has two irreducibly different kinds of features: physical features (weight, electrical activity) and mental features (what pain feels like). The mental ones can't be fully reduced to the physical ones, like how colour of a thing can be explained by the molecular properties. The mental features have their own existence. Property dualism has many subtypes, depending on how they answer the question of what kind of matter actually has mental properties.
 
 
 
@@ -56,13 +52,13 @@ Pros
 
 Cons
 
-* What is the nature of the relationship of this non-physical entity with the physical world? If we believe in free will of mind, the mind should be able to affect the physical world. But if we can see the impact of this supposed non-physical entity on real life, shouldn’t it just be considered a physical entity as we could make observation of its presence, albeit indirectly? Another way to look at it is that it would really break the scientific laws if a substance sitting outside of the physical reality can cause changes in the physical world.
+* The interaction problem - What is the nature of the relationship of this non-physical entity with the physical world? If we believe that the mind has free will, the mind should be able to affect the physical world to exercise its will. But if we can see the impact of this supposed non-physical entity on real life, shouldn’t it just be considered a physical entity as we could make observation of its presence, albeit indirectly? Another way to look at it is that it would really break the scientific laws if a substance sitting outside of the physical reality can cause changes in the physical world. Are we willing to admit that the scientific laws do get broken?
 * If a dualist says that this non-physical entity only experiences the world but doesn’t have an impact on the physical world, it makes the above problem go away. But still there is an open question of how this non-physical entity connects with the world to experience it. Dualists could argue that we will never find out.
 * Unlike science, dualism gets away with some hard problems of consciousness by handwaving and saying that we have no way to know how the second reality works because it is not part of physical reality. This puts off people who want some kind of explanation for these phenomena.
 
 
 
-For the systematic ones, this is what a substance dualist philosophical system that also trusts science would look like:
+To get back in touch with our method of building the informal philosophical system, this is what a substance dualist philosophical system that also trusts science would look like:
 
 * It has the following rules to add any statement to the system
 
@@ -84,11 +80,11 @@ As you can see, I have removed Occam's razor, physicalist statement about the mi
 
 ### Idealism
 
-Just like Descartes’s name is associated with Dualism, Berkeley’s name is most commonly associated with Idealism. Idealism asserts that the mind or the spirit is fundamental. One famous version of idealism - Berkeley's - says there's no mind-independent physical stuff at all; what we call physical things are really patterns of experience, a bit like a shared dream. (Other idealists, like Hegel, tell a different story - for him reality is a universal Spirit unfolding through history.) Everything about the world we observe is mental, like a dream. Unlike the dream we have inside this world, the world we think is “reality” is a shared dream with all the other people. It is a type of monism, with the only real entity being the mind.
+Just like Descartes’s name is associated with Dualism, Berkeley’s name is most commonly associated with Idealism. Idealism asserts that the mind or the spirit is fundamental. One famous version of idealism - Berkeley's - says there's no mind-independent physical stuff at all. What we call physical things are really patterns of experience, a bit like a shared dream. Everything about the world we observe is mental, like a dream. Unlike the dream we have inside this world, the world we think is “reality” is a shared dream with all the other people. It is a type of monism, with the only real entity being the mind.
 
 
 
-The biggest challenge for idealism is how do you account for the physical world which looks objective and also the other minds, the two brute statements we added to the layman’s system. In other words, how do you escape Solipsism in an idealistic philosophy? When I dream, I am the only conscious entity in the dream. The rest of the people in the dreams are just projections made in the dreamer’s mind. If this world where you are reading what I have written is also your dream, are all the other characters in this dream just your projection? Am I a projection that is not real? Wouldn’t that lead to solipsism?
+The biggest challenge for idealism is how do you account for the physical world which looks objective and also the other minds, the two brute statements we added to the layman’s system. In other words, how do you escape Solipsism in an idealistic philosophy? When I dream, I am the only conscious entity in the dream. The rest of the people in the dream are just projections made in the dreamer’s mind, which is mine in this example. If this world where you are reading what I have written is your dream, are all the other characters in your dream just your projection? Am I a projection that is not real? Wouldn’t that lead to solipsism?
 
 
 
@@ -100,11 +96,11 @@ There is also Hegel’s idealism that considers reality as a universal spirit th
 
 
 
-The advantage of idealism is similar to dualism. As the mind is a non-physical entity, they can easily explain its unity and indivisibility. The main disadvantage is that just like dualism, it handwaves most of the phenomena we observe to be part of mental entities we cannot understand and hence give up the responsibility to explain it all. Plus, let’s face it. It is so counter-intuitive that it is hard to believe for any normal person.
+The advantage of idealism is similar to dualism. As the mind is a non-physical entity, they can easily explain its unity and indivisibility. The main disadvantage is that just like dualism, it handwaves most of the phenomena we observe to be part of mental entities we cannot understand and hence give up the responsibility to explain it all. Plus, let’s face it. It is so counter-intuitive that most people will find it hard to believe. But that doesn't make the philosophy objectively weaker.
 
 ### Neutral Monism
 
-Neutral monism is another alternative worth knowing about, and it has an impressive pedigree: Spinoza gestured at it in the 1600s, and it was developed seriously by Ernst Mach, William James, and Bertrand Russell in the early 1900s. The idea is disarmingly simple. Dualism says reality is made of two kinds of stuff - mind-stuff and matter-stuff. Physicalism says there is only one kind of stuff, and it is physical. Neutral monism says there is only one kind of stuff, but it is neither mental nor physical. Mind and matter are just two different ways this neutral stuff can be arranged or viewed - like how the same curve looks concave from one side and convex from the other. The curve itself is neither; "concave" and "convex" are just perspectives on it.
+Neutral monism is another alternative worth knowing about, and it has an impressive pedigree. Spinoza gestured at it in the 1600s, and it was developed seriously by Ernst Mach, William James, and Bertrand Russell in the early 1900s. The idea is disarmingly simple. Dualism says reality is made of two kinds of stuff - mind-stuff and matter-stuff. Physicalism says there is only one kind of stuff, and it is physical. Neutral monism says there is only one kind of stuff, but it is neither mental nor physical. Mind and matter are just two different ways this neutral stuff can be arranged or viewed - like how the same curve looks concave from one side and convex from the other. The curve itself is neither, "concave" and "convex" are just perspectives on it.
 
 
 
@@ -112,7 +108,7 @@ Why would anyone believe this? Because it neatly sidesteps both of the classic t
 
 
 
-The catch, of course, is that nobody can tell you what the neutral stuff actually is. Say "it is neither mental nor physical" and the critic will ask what is left - and the honest answer is that neutral monists mostly describe what it is not. Push on the "experience-like intrinsic nature" and the theory starts looking like panpsychism wearing a different hat; push on the "physics describes its structure" and it starts looking like physicalism with extra steps. Russell himself never fully settled the matter. Still, as a logical possibility, it deserves its seat at the table: it shows that "mind versus matter" might be a false choice, and that the real answer could be neither.
+The catch, of course, is that nobody can tell you what the neutral stuff actually is. Say "it is neither mental nor physical" and the critic will ask what is left - and the honest answer is that neutral monists mostly describe what it is not. Push on the "experience-like intrinsic nature" and the theory starts looking like panpsychism wearing a different hat. Push on the "physics describes its structure" and it starts looking like physicalism with extra steps. Russell himself never fully settled the matter. Still, as a logical possibility, it deserves its seat at the table. It shows that "mind versus matter" might be a false choice, and that the real answer could be neither.
 
 ### Personal God
 
@@ -127,7 +123,7 @@ These philosophies tend to posit that the personal God has some level of control
 
 
 
-Different religions answer these differently which may be convincing for some but not for the others. And then there is the Greek religious philosophy, where Gods don’t seem to care about what is Good or Bad and they control the humans based on their whims. In such a philosophy, there is still the question of who created God.
+Different religions answer these differently which may be convincing for some but not for the others. And then there are the ancient Greek religions, where Gods don’t seem to care about what is Good or Bad and they control the humans based on their whims. In such a philosophy, there is still the question of who created God.
 
 ### Eastern philosophies
 
@@ -135,13 +131,13 @@ Eastern philosophies (both Hinduism/Vedic philosophies and Buddhism) deal a lot 
 
 
 
-While Advaita and Visishtadvaita are Vedic, meaning that they are philosophies based on the religious text of Vedas, Shunyavada, Vijnanavada and Svatantra Vijnanavada are Buddhist, based on interpretations of Buddha’s teachings. There are many more Vedic and Buddhist philosophies. It is interesting how the same teachings can be interpreted in numerous ways. The intellectual arguments made by these philosophers are quite profound and are in no way less intellectual than Western Philosophies. It is unfortunate that Eastern Philosophies don’t receive the respect they deserve Western World. They are often ignored as mystic or religious. While there are mystic philosophies as you will see in the section below, there are many non-mystic philosophies too.
+As you can see, some of the philosophies are based on the Vedas and the others are based on Buddha's teachings. There are many more Vedic and Buddhist philosophies. It is interesting how the same teachings can be interpreted in numerous ways. The intellectual arguments made by these philosophers are quite profound and are in no way less intellectual than Western Philosophies. It is unfortunate that Eastern Philosophies don’t receive the respect they deserve in the Western World. They are often ignored as mystic or religious. While there are mystic philosophies as you will see in the section below, there are many non-mystic eastern philosophies too.
 
 ### The Infinite God
 
 Many eastern philosophies and even some Western philosophers, describe the God as impersonal “Absolute”. They argue that God is just a type of infinity that humans cannot reach through rational or empirical knowledge. While some philosophies state that this infinite God is unreachable for humans, other philosophies claim that one can reach God through Mysticism.
 
-We came across mysticism when we discussed the type of knowledge. The perceived empirical knowledge and rational knowledge achieved by thinking are considered the two types of knowledge humans possess. The mystics argue that there is a third kind of knowledge that you cannot just share with one another, like empirical or rational knowledge. You have to learn it by yourself through the processes which will lead you there, like meditation.
+We came across mysticism when we discussed the type of knowledge. The empirical knowledge achieved by perception and rational knowledge achieved by thinking are commonly considered the two types of knowledge humans possess. The mystics argue that there is a third kind of knowledge that you cannot just share with one another, like empirical or rational knowledge. You have to learn it by yourself through the processes which will lead you there, like meditation.
 
 
 
@@ -149,7 +145,7 @@ How does this Absolute relate to the human mind? There are different theories. S
 
 
 
-If you do so, these philosophies claim that you can indeed reach or understand the Absolute. Whether you want to trust this and embark in this direction is up to you. It is a big decision.
+If you do so, these philosophies claim that you can indeed reach or understand the Absolute. Whether you want to trust this and embark in this direction is up to you. Big decision, I know.
 
 
 
