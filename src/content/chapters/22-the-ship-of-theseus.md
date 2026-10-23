@@ -5,15 +5,15 @@ description: "12.3 The Ship of Theseus"
 order: 22
 ---
 
-We all have seen this quote written or used in many places - Change is the only constant in life.
+We all have seen this quote used as-is or paraphrased in many places - Change is the only constant in life.
 
 
 
-It is attributed to the Greek Philosopher Heraclitus. It is popular because it is true in our perceived world. Though it doesn’t call out the fact that things get more disorderly with time, it says that things change with time. We see ourselves get old, cities getting gentrified, weather changing every month, politicians changing their opinions every week and so on. Some changes are rapid while others are slow. If you look at the planet earth from the time it formed around 4.5 billion years ago, it would look unrecognisable.
+It is attributed to the Greek Philosopher Heraclitus. It is popular because it is true in our perceived world. Though it doesn’t call out the fact that things get more disorderly with time, it says that things change with time. We see ourselves getting old, cities getting gentrified, weather changing every month, politicians changing their opinions every week and so on. Some changes are rapid while others are slow. If you look at the planet earth at the time it formed just a million years ago, it would look very different.
 
 
 
-This leads us to an interesting philosophical problem, popularly named the Ship of Theseus problem. This is how the story goes - An ancient Greek hero named Theseus sailed in a ship. The Athenians preserved this ship as a memorial. The ship was made of wood that rots with time. Whenever a piece of wood rotted, they replaced it with a new piece. After many years, all the wood from the original ship got replaced by new pieces. At that point, was it still the ship of Theseus?
+This leads us to an interesting philosophical problem, famously called the Ship of Theseus problem. This is how the story goes - An ancient Greek hero named Theseus sailed in a ship. The Athenians preserved this ship as a memorial. The ship was made of wood that rots with time. Whenever a piece of wood rotted, they replaced it with a new piece. After many years, all the wood from the original ship got replaced by new pieces. At that point, was it still the ship of Theseus?
 
 
 
@@ -21,11 +21,11 @@ Many of us feel sentimental towards things - The ones given to us by loved ones 
 
 
 
-This problem hits the root of our concept of a unique identity. There is a widespread myth that all the cells in your body get replaced in seven years. For now, let us assume that this is true. If you met your friend who you last saw about ten years ago, was it still the same person you're seeing? You may say, “Yes, he has changed a lot. But he is still George.”
+This problem hits the root of our concept of a unique identity. There is a widespread myth that all the cells in your body get replaced in seven years. For now, let us assume that this is true. If you are meeting your friend who you last saw about ten years ago, is it still the same person you're seeing? You may say, “Yes, he has changed a lot. But he is still George.”
 
 
 
-This is particularly a problem for physicalism because according to them the physical world is all that exists and if this world keeps changing, it is hard to define unique identities across time. A dualist, idealist or a theist may say that the soul or mind exists outside the physical world and is itself immutable, hence preserving identity.
+This is particularly a problem for physicalism because according to them the physical world is all that exists and if this world keeps changing, it is hard to define unique identities across time. A dualist, idealist or a theist may say that the soul or mind exists outside the physical world and is itself immutable, hence preserving identity. So though George's body in the physical world might have completely changed, he is still George because his identity outside the physical world is immutable.
 
 
 
@@ -41,13 +41,13 @@ There are more interesting thought experiments along these lines. There was a mo
 
 
 
-That probably already hints at the problem. I would like to discuss a few variants of this.
+That story is an example that exposes the problem of identity. I would like to discuss a few variants of this.
 
-1. Imagine a Teleportation device in Spain that deconstructs you, takes every atom in your body, beams them to Norway where you are assembled again. If you go through with this, is the person in Norway the same as the person who was in Spain before the teleportation happened?
-2. Imagine another Teleportation device in Spain that deconstructs you, but instead of beaming those same atoms, collects the exact types of atoms in Norway and builds the exact configuration of your body. For every hydrogen, carbon, oxygen, and other atom that was deconstructed in Spain, it takes the exact atoms in Norway to construct you again in the same structure. If you go through with this, is the person in Norway the same as the person who was in Spain before the teleportation happened?
-3. Now imagine a cloning machine that does the same as (2) but doesn’t really deconstruct you and instead creates a copy of you. Are the two people in Spain and Norway the same?
+1. Imagine a Teleportation device in your home that deconstructs you, takes every atom in your body, beams them to Norway where you are assembled again. If you go through with this, is the person in Norway the same as the person who was in your home before the teleportation happened?
+2. Imagine another Teleportation device in your home that deconstructs you, but instead of beaming those same atoms, collects the exact types of atoms in Norway and builds the exact configuration of your body. For every hydrogen, carbon, oxygen, and other atom that was deconstructed in Spain, it takes the exact atoms in Norway to construct you again in the same structure. If you go through with this, is the person in Norway the same as the person who was in your home before the teleportation happened?
+3. Now imagine a cloning machine that does the same as (2) but doesn’t really deconstruct you and instead creates a copy of you. Are the two people in your home and Norway the same?
 
-Philosopher Derek Parfit made this exact thought experiment famous.
+Philosopher Derek Parfit made this thought experiment famous.
 
 Depending on your answer, there are a lot of moral and legal implications. In the cloning situation, for example, who owns the original person’s properties? One can see why the fictional government in the movie Dual wanted them to fight it out. What about relationships? Which of the clones is your husband or wife? While it could indeed be convenient in some situations, it is overall hard to figure out the logistics of such a relationship.
 
