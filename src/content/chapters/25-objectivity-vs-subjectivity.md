@@ -9,7 +9,7 @@ We touched on this subject when we discussed the philosophy of mind. It is a wid
 
 
 
-What is the difference between objective and subjective? If a person perceives something that is the same as how all the other people perceive, it is objective. If it is different for different people, it is subjective. We assume that the colour of an object is objective whereas a sense of beauty is subjective. Before we dive deeper, I need to clear some confusion around the word “relative”. While “relative” is used interchangeably with “subjective”, it could also mean something different. When we describe an object we observe in terms of another object, then relative is the better word. For example,
+What is the difference between objective and subjective? If a person perceives something that is the same as how all the other people perceive it, then it is objective. If it is different for different people, it is subjective. We generally assume that the colour of an object is objective whereas a sense of beauty is subjective. We always tend to agree that a painting uses predominantly blue colour though we may not agree that the painting is beautiful. Before we dive deeper, I need to clear some confusion around the word “relative”. While “relative” is used interchangeably with “subjective”, it could also mean something different. When we describe an object we observe in terms of another object, then relative is the better word. For example,
 
 *This blue is darker than the other blue.*
 
@@ -21,21 +21,19 @@ Science deals with the concept of subjectivity using the term “relativity”. 
 
 
 
-Other concepts like space and time were considered absolute. If you measure the length of an object, it is assumed that it would be the same as someone else measuring the length of the same object. We expect that the same time is measured in different watches unless there is a problem in the watch. As we learned in the chapter on classical physics, both of these came into question when Einstein published his theory of relativity. We found that the length of an object measured by one person could be different from the length of the same object measured by another person who is travelling fast relative to the first person. The difference will be insignificant unless the person is travelling at close to the speed of light. That is why we don’t notice this difference.
+Other concepts like space and time were considered absolute. If you measure the length of an object, it is assumed that it would be the same as someone else measuring the length of the same object. We expect that the same time is measured in different watches between two events unless there is a problem with the watch. As we learned in the chapter on classical physics, both of these views turned out to be not always true based on Einstein's theory of relativity. 
+
+We found that the length of an object measured by one person could be different from the length of the same object measured by another person who is travelling fast relative to the first person. The difference will be insignificant unless the person is travelling at close to the speed of light. That is why we don’t notice this difference. Same with time. The time measurements in the watches of the two people could be different if one person is moving with respect to the other person. Again, the differences become noticeable as one person moves closer to the speed of light, with respect to the other person. This also happens when one of the two persons is on a planet of huge mass as gravity bends spacetime.
 
 
 
-Same with time. The time measurements in the watches of the two people could be different if one person is moving with respect to the other person. This also happens when one of the two is on a planet of huge mass as gravity bends spacetime.
+What is the implication? Space and Time are also relative. If that is the case, what is absolute? The current consensus is that the spacetime interval is absolute - all observers agree on it - even though space and time individually are relative. We just move (if we can use this word when we talk about spacetime instead of just space) from point to point in spacetime. The spacetime graph is dynamic, not static as we thought as it can be bent and stretched by mass, which is what causes gravitational force. But it can be treated as objective, at least as far as we know.
 
 
 
-What is the implication? Space and Time are also relative. If that is the case, what is absolute? The current consensus is that the spacetime interval is absolute - all observers agree on it - even though space and time individually are relative. We just move (if we can use this word when we talk about spacetime instead of just space) from point to point in spacetime. The spacetime graph is dynamic, not static as we thought as it can be bent and stretched by mass. But it can be treated as objective, at least as far as we know.
+Physicists hate it when people say, “Everything is relative. Even Einstein agrees.” This is because spacetime is still objective according to relativity and it is wrong to ignore this important detail.
 
-
-
-Physicists hate it when people say, “Everything is relative. Even Einstein agrees.” This is because spacetime is still objective according to relativity and it is wrong to miss this completely.
-
-An interesting topic on this subject is the Mach's principle by Austrian physicist Ernst Mach. He said that the inertia of an object is measured against the mass in the rest of the universe. If the universe doesn’t have any other mass and just one object, this object will not feel inertia. Imagine a bucket half filled with water. If it is rotated, you will see the water around the sides of the bucket go up because of inertia. Mach’s theory is that this wouldn’t happen in an empty universe. It is a theory that has neither been proven nor disproven. I will email you all when we have an empty universe with just a bucket full of water. But… Never mind.
+An interesting topic on this subject is the Mach's principle by Austrian physicist Ernst Mach. To remind you of the high school physics, inertia is what makes you jerk forward when you are in a vehicle which suddenly stops. Mach said that the inertia of an object is measured against the mass in the rest of the universe. If the universe doesn’t have any other mass and just one object, this object will not feel inertia. Imagine a bucket half filled with water. If it is rotated, you will see the water around the sides of the bucket go up because of inertia. Mach’s theory is that this wouldn’t happen in an empty universe. It is a theory that has neither been proven nor disproven. I will update this blog when we have an empty universe with just a bucket full of water. But… Never mind.
 
 
 
