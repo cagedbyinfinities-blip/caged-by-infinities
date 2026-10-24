@@ -14,7 +14,7 @@ What types of political philosophy are out there? People use many labels - socia
 
 ### What Are You Free to Do?
 
-Most political philosophies come down to a question of what you should be free to do and what you should not be. A free-market libertarian says that individuals and businesses must be free to indulge in any economic activity while a socialist says that there must be limits to what individuals can do in the name of economic activity. This is where regulation and taxes come in. A social liberal wants less restrictions on people immigrating into the country, while a conservative wants more restrictions.
+Most political philosophies come down to a question of what you should be free to do and what you should not be. A free-market libertarian says that individuals and businesses must be free to indulge in any economic activity while a socialist says that there must be limits to what individuals can do in the name of economic activity. This is where regulation and taxes come in. A social liberal wants less restrictions on people's social activities for freedom while a conservative wants more restrictions for safety and social cohesion.
 
 Depending on the type of governance in the society, the rulers use different methods to decide what the people are free to do and where there must be restrictions.
 
@@ -26,11 +26,11 @@ Under an authoritarian government, you don't have that much of a choice. You let
 
 Why do governments exist in the first place? Even smaller tribes have some power structure, with leader(s) who lead the tribes. Do humans, by nature, need power structures like this?
 
-Thomas Hobbes argued that a government is essential to save humanity from a "state of nature," a lawless condition where competitive human nature inevitably leads to a perpetual "war of all against all" and lives that are "solitary, poor, nasty, brutish, and short." To escape this constant fear of violent death, individuals enter into a social contract, collectively surrendering their absolute personal freedom to a single, all-powerful sovereign authority (the Leviathan). In Hobbes's view, only a ruler with absolute power can successfully enforce laws, punish wrongdoers, maintain public order, and guarantee the physical safety required for civilization to exist.
+Thomas Hobbes argued that a government is essential to save humanity from a "state of nature," a lawless condition where competitive human nature inevitably leads to a perpetual "war of all against all" and lives that are "solitary, poor, nasty, brutish, and short." To escape this constant fear of violent death, individuals enter into a social contract, collectively surrendering their absolute personal freedom to a single, all-powerful sovereign authority (the Leviathan). In Hobbes' view, only a ruler with absolute power can successfully enforce laws, punish wrongdoers, maintain public order, and guarantee the physical safety required for civilization to exist.
 
-The thing about absolute freedom is that it cannot exist without an entity that guarantees that to you. And that entity protects your freedom by taking away the freedom of people who try to take other people’s freedom. This puzzle - freedom needs a protector, and the protector limits freedom - is a well-known objection to anarchist ideas. Both these political philosophies still need people to follow certain rules. In an anarcho-communist society, you need people to not hog resources and in an anarcho-capitalist society, you need people to respect property rights. How to ensure this happens? Any pseudo-enforcer you create eventually becomes a power structure and hence a government. The anarcho-communist and anarcho-capitalist may argue that people themselves are the enforcers. Unless one can genetically modify the population to ensure that they will follow these rules automatically, how can this happen? That's for the anarchists to answer.
+The thing about absolute freedom is that it cannot exist without an entity that guarantees that to you. And that entity protects your freedom by taking away the freedom of people who try to take other people’s freedom. This puzzle - freedom needs a protector, and the protector limits freedom - is a well-known objection to anarchist ideas. Anarchist political philosophies still need people to follow certain rules. In an anarcho-communist society, you need people to not hog resources and in an anarcho-capitalist society, you need people to respect property rights. How to ensure this happens? Any pseudo-enforcer you create eventually becomes a power structure and hence a government. The anarcho-communist and anarcho-capitalist may argue that people themselves are the enforcers. Unless one can genetically modify the population to ensure that they will follow these rules automatically, how can this happen? That's for the anarchists to answer.
 
-A similar tension shows up in Karl Popper's paradox of tolerance. He posits that a truly tolerant society must retain the right to be intolerant of intolerance to protect its own existence. He says that if a society is tolerant without limit, its freedom will eventually be seized or destroyed by the intolerant
+A similar tension shows up in Karl Popper's paradox of tolerance. He posits that a truly tolerant society must retain the right to be intolerant of intolerance to protect its own existence. He says that if a society is tolerant without limit, its freedom will eventually be seized or destroyed by the intolerant.
 
 
 
@@ -40,30 +40,33 @@ Politics also suffers from the same problem of nuance that morals suffer from. L
 
 
 
-How should laws solve this problem? Some tend to have a clause that says which side to err in case of doubt. For example, American courts have developed a guideline for free-speech cases: when it's a close call, they lean toward protecting the speaker. That comes from court decisions over the years, not from the actual words of the First Amendment.
+How should laws solve this problem? Some legal systems have a default rule for close calls. For example, American courts have developed an approach for free-speech cases: when it's a close call, they lean toward protecting the speaker. That comes from court decisions over the years, not from the actual words of the First Amendment.
 
 
 
-In other cases, it is usually left to the courts and police to decide which way to lean. This usually results in lots of inconsistencies in decisions made, depending on the bias of the judges and the police.
+In most situations, it is usually left to the courts and police to decide which way to lean. This usually results in lots of inconsistencies in decisions made, depending on the bias of the judges and the police.
 
 ### Political Debates
 
-Modern politics can be exhilarating and frustrating at the same time. You see debates raging across social media, where millions of people make billions of posts and comments with random strangers who they have not met in their lives. You see people fight with their family and friends over politics. Avoiding politics in your life gets harder and harder, no matter how hard you try. Sometimes, all I want to watch is funny animal videos but the social media recommendation algorithms won't let me.
+Modern politics can be exhilarating and frustrating at the same time. You see debates raging across social media, where millions of people make billions of posts and comments, arguing with random strangers who they have not met in their lives. You see people fight with their family and friends over politics. Avoiding politics in your life gets harder and harder, no matter how hard you try. Sometimes, all I want to watch is funny animal videos but the social media recommendation algorithms won't let me.
 
 
-What is the supposed goal of these political debates? It is to resolve the conflicts between the moral values of different people. As laws have to be objective, we need to resolve the conflicts which arise out of the subjectivity of morals. There are fundamentally, two types of conflicts:
+What is the supposed goal of these political debates? It is to resolve the conflicts between the moral values of different people. As laws have to be objective, we need to resolve the conflicts which arise out of the subjectivity of morals. There are two types of conflicts:
 
 1. The fundamental beliefs of the debaters are different. 
 2. The moral goals may align a bit but they still argue over how they achieve these goals. They argue about which method is better. 
 
+For (1), there is no easy solution. It is incredibly hard to change one's fundamental beliefs. The conflicts of type (2) are relatively easier to resolve if the people arguing are doing so in good faith.
+
 In practice, if you just watch the political debates as a neutral observer, you will notice the following quirks:
 
-* Objectivity vs Subjectivity - This happens often with debates of category (1) above. People tend to argue for the objective nature of morals they care about and the subjective nature of issues they don't.
-* Knowledge gap - As we saw in the chapters about science, we have lots of gaps in the understanding of the world. People fill the knowledge gaps in different ways. Take any popular criminal case. You see people taking sides with very little information they have. Is that wrong? Not at all. But I am surprised how confident people can be when they are debating these cases. Even the lawyers in the real court cases aren’t generally this confident.
-* Predicting the future - This is an extension of knowledge gaps. We know how hard it is, to predict the future accurately. In the political debates, you see different people make different predictions for the future - A future where their political philosophy succeeds usually leads to a utopian world and a future where the opponent's philosophy succeeds leads to a dystopian world.
-* Language inaccuracies, nuances and generalisations -  Many people jump into debates using words like socialism and communism without a shared understanding of what they mean - so all you get is people talking past each other. Both the left and right are notorious for making this mistake.
+* Objectivity vs Subjectivity - This happens often with debates of category (1) above. People tend to claim that their own morals are objectively correct while the morals of others are subjective.
+* Knowledge gap - As we saw in the chapters about science, we have lots of gaps in the understanding of the world. People fill the knowledge gaps in ways that align with their political views. Take any popular criminal case. You see people taking sides with very little information they have. Is that wrong? Not at all. But I am surprised how confident people can be when they are debating these cases. Even the lawyers in the real court cases aren’t generally this confident.
+* Predicting the future - This is an extension of knowledge gaps. We know how hard it is, to predict the future accurately. In the political debates, you see different people make different predictions for the future - A future where their own political philosophy succeeds usually leads to a utopian world and a future where the opponent's philosophy succeeds leads to a dystopian world.
+* Language inaccuracies and nuances -  Many people jump into debates using words like socialism and communism without a shared understanding of what they mean - so all you get is people talking past each other. Both the left and right are notorious for making this mistake.
    1. For example, some people treat communism as equivalent to Marxism. But communism, as an end-state, is just a society with no private ownership where property is owned by all - and Marxist communism is only one route to it. Even Christian communes count as communist on this definition.
    2. Some people see socialism as state ownership of the means of production. Sometimes, people treat social democracy where higher taxes are used to give services to people as socialism. Again, not entirely wrong. But people need to agree on definitions before jumping into arguments.
+* Generalisations - Laws mostly apply restrictions on all the people and are by definition generalisations. If you add a restriction, there will almost always be people for whom the restriction was not intended. People care about this collateral damage to these laws only when it affects their own side. Someone who supports immigration argues how laws restricting immigration might also affect some good immigrants. Someone who opposes strict regulations argues how a regulation designed to stop businesses from doing an action deemed unethical might also affect businesses who genuinely need to do the same for legitimate ethical reasons.
 
 I am not saying that political debates are futile. But it is very rare that you see a constructive debate in the social media space. I just see one common pattern:
 ![We all want to be authoritarian](/images/Ch18Auth.jpg)
