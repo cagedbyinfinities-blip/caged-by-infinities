@@ -5,22 +5,22 @@ description: "14. Getting on with Life"
 order: 27
 ---
 
-As we saw in the previous chapter, we have 4 choices - Don’t care about the What Is? question, try to find the truth, pick some philosophy with some brute statements or pick a philosophy with self-references and infinite regressions.
+As we saw in the previous chapter, we have three choices: Don’t care about the *What Is?* question, pick a philosophy with some brute statements or embark on a search and embrace the self-references and infinite regressions.
 
 
 
-As we don’t have a clear answer anyway, what is a person supposed to do in their day-to-day life? Fortunately or unfortunately, most people just choose the first option. They don’t care or they have some vague idea about the nature of reality but they don’t think much about it or even validate if it makes sense. If we did, many will realise the logical contradictions and inconsistencies in our beliefs. Historically, many people just stuck with religious philosophies and hardly questioned it. Now that many people are giving up religion, it creates a void for other philosophies to fill in and many people seem to pick physical laws.
+As we don’t have a clear explanation of the nature of reality right now, what is a person supposed to do in their day-to-day life? Fortunately or unfortunately, most people just choose the first option. They don’t care or they have some vague idea about the nature of reality but they don’t think much about it or even validate if it makes sense. If we did, many would realise the logical contradictions and inconsistencies in our beliefs. Historically, many people just stuck with religious philosophies and hardly questioned them. Now that many people are giving up religion in the West, it creates a void for other philosophies to fill and many people seem to pick philosophies based on scientific laws.
 
 
 
-In this situation, how do we answer the What Ought To? question. For most people, things are simple:
+In this situation, how do we answer the *What Ought To?* question? For most people, things are simple:
 
 * I want to be happy
 * I can be happy if I achieve my desires
 
 
 
-The desires are different for different people. One’s desires may conflict with other people’s desires. Sometimes one’s own desires may conflict with one’s own. We will deal with those conflicts later when we get into morals. But for now, let us focus on an individual’s desire and assume that they don’t conflict with each other.
+The desires are different for different people. One’s desires may conflict with other people’s desires. Sometimes one’s own desires may conflict with one’s own. We will deal with those conflicts later when we get into morals. But for now, let us focus on an individual’s desire and ignore the conflicts.
 
 
 
@@ -29,8 +29,8 @@ How do we go about achieving those desires? We generally go through a cycle of l
 1. We have knowledge and desires.
 2. We think and predict what we should do to achieve our desires.
 3. We act.
-4. We gain more knowledge. We update our knowledge base
-5. Back to step 1
+4. We gain more knowledge. We update our knowledge base.
+5. Back to step 1.
 
 
 
@@ -42,7 +42,7 @@ Let us take an example. Assume that you have a desire to climb up a mountain. Th
 
 
 
-You decide to come down, so that your photo doesn’t show up in the news the next day, either in passport size or being taken in a stretcher. You learned a couple of things - there are steep sections in the mountain. The weather uphill can change drastically.
+You decide to come down, so that your photo doesn’t show up in the news the next day. You learned a couple of things - there are steep sections in the mountain. The weather uphill can change drastically.
 
 
 
@@ -54,7 +54,7 @@ There are people who would have gone ahead, trying to climb without proper climb
 
 
 
-Then there is the ability to act. Some people may understand it is risky and it needs climbing gear and go home to never come back? Why? They may feel that they don’t have the physical strength to do the climb.
+The above explains the importance of knowledge and the ability to think. Then there is the ability to act. Some people may give up climbing this mountain. Why? They may feel that they don’t have the physical strength to do the climb.
 
 
 
@@ -62,20 +62,23 @@ Ultimately, there are two things which affect your ability to achieve your desir
 
 
 
-Based on our philosophical discussion so far, our knowledge will never be complete or perfect. There is always a chance that things go south. Weather predictions aren’t always accurate. Even if you are all prepared, a sudden wind gust may push you off and injure you. The food you had the previous night might have been bad and you may have to take multiple stops to supply organic manure to the mountain vegetation, thereby slowing you down and tiring you out. Climbers still die on Everest even after years of planning and preparation to climb the mountain.
+Based on our philosophical discussion so far, our knowledge will never be complete or perfect. There is always a chance that things go south. Weather predictions aren’t always accurate. Even if you are all prepared, a sudden wind gust may push you off and injure you. The food you had the previous night might have been bad and you may have to take multiple stops to supply organic manure to the mountain vegetation, thereby slowing you down and tiring you out. Climbers still die on Everest even after years of planning and preparation to climb the mountain because they made a wrong decision somewhere.
 
 
 
-You can do all you can to improve the probability of success. But that probability will never be 100%. Someone who is intelligent and well-planned might fail to reach his goal whereas someone who is neither may end up succeeding even though the probability of success maybe just 10%.
+You can do all you can to improve the probability of success. But that probability will never be 100%. Someone who is intelligent and well-planned might fail to reach their goal whereas someone who is neither may end up succeeding even though their probability of success may be just 10%.
 
 
 
-How does one’s philosophical beliefs affect this? A physicalist may stick to facts and use the scientific framework to work towards their goals. A dualist or an idealist or a theist may still stick to the scientific framework to get knowledge and work towards their goals. But depending on their belief system, they may sometimes not worry about their low probability of success. They may hope that some external entity like a spirit or God will help them do it. If their probability of success is just 15% and still succeed, they will credit the external entity for their success while a physicalist will point to the 15% probability and say that the 15% shows it was still possible as the physicalist cannot accept these external entities.
+How does one’s philosophical beliefs affect this? A physicalist or a dualist who doesn't believe that the external entity influences the physical world may stick to facts and use the scientific framework to work towards their goals. 
+
+
+A dualist who believes that an external entity influences the physical world, or an idealist or a theist may still stick to the scientific framework to get knowledge and work towards their goals. But some of them may not worry about a low probability of success. They may hope that some external entity like a spirit or God will help them do it. If their probability of success is just 15% and still succeed, they will credit the external entity for their success while a physicalist will point to the 15% probability and say that the 15% shows it was still possible as the physicalist cannot accept these external entities.
 
 
 
 
-No matter what happens, they will always find a way to justify our beliefs. Unless the probability is 0 or 1, you can justify any outcome. We do things. We tell ourselves a story about what happened there and move on with our life.
+No matter what happens, we always find a way to justify our beliefs. Unless the probability is 0 or 1, you can justify any outcome. We do things. We tell ourselves a story about what happened there and move on with our life. Practically, we tend to discuss these concepts in terms of intelligence, effort and luck. Some people give huge amount of importance to luck while others don't and try their best to stick to the facts and physical laws.
 
 
 
