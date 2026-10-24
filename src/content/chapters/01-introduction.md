@@ -9,11 +9,11 @@ order: 1
 
 
 
-In the Hitchhiker books, Marvin is a paranoid android that goes through existential dread all the time and is pessimistic. If you are an adult, you must have been a Marvin at some point in your life. We all go through different phases and moods in our lives. Life feels so simple one day but incredibly hard another day. When it is simple for too long, we get bored. When it is hard for too long, we get depressed.
+In the Hitchhiker books, Marvin is a paranoid android that goes through existential dread all the time and is pessimistic. If you are an adult, you must have been a Marvin at some point in your life. We all go through different phases and moods. Life feels so simple one day but incredibly hard another day. When it is simple for too long, we get bored. When it is hard for too long, we get depressed.
 
 
 
-One day we feel motivated enough to run a marathon in a storm and to start reading *War and Peace*. Another day, a gentle sneeze feels like a good enough excuse to not get out of the bed and a tweet requires a TL;DR.
+One day we feel motivated enough to run a marathon in a storm and to start reading *War and Peace*. Another day, a gentle sneeze feels like a good enough excuse to not get out of bed and a tweet requires a TL;DR.
 
 
 
@@ -21,7 +21,7 @@ Then there are those rare days when we stop and ask ourselves the question - Why
 
 
 
-In spite of the fact that we humans tend to smack the top of the TV remote with our hands when it stops working, we pride ourselves on being rational creatures. So it is unsurprising that we ask such questions. After all, asking the *Why* question is what makes us rational creatures. We have a tendency to look for reasons for everything.
+Despite the fact that we humans smack the top of the TV remote when it stops working, we pride ourselves on being rational creatures. So it is unsurprising that we ask such questions. After all, asking the *Why* question is what makes us rational creatures. We have a tendency to look for reasons for everything.
 
 
 
@@ -29,11 +29,11 @@ When we ask ourselves serious questions about the world, life and existence, we 
 
 
 
-In a way, satisfying ourselves with a simple answer and movingx` on with our lives is probably good for us. Darwinians might find an evolutionary explanation for this too. Trying to dig deeper would eventually expose us to the baseless assumptions on which the entire foundation of our lives and belief systems is built. Questioning those assumptions will get in the way of spreading our genes. But more importantly, questioning these assumptions will destroy the foundation of all the values in our lives. While some take this as a challenge and get joy out of it, others may struggle handling this existential and moral crisis. There are quite a few philosophers who struggled with mental health issues, while a few of them suffered serious mental breakdowns.
+In a way, satisfying ourselves with a simple answer and moving on with our lives is probably good for us. Darwinians might find an evolutionary explanation for this too. Trying to dig deeper would eventually expose us to the baseless assumptions on which the entire foundation of our lives and belief systems is built. Questioning those assumptions will get in the way of spreading our genes. But more importantly, questioning these assumptions will destroy the foundation of all the values in our lives. While some take this as a challenge and get joy out of it, others may struggle with handling this existential and moral crisis. There are quite a few philosophers who struggled with mental health issues, while a few of them suffered serious mental breakdowns.
 
 
 
-On the other hand, if you come to terms with the absurdity all around us, the philosophical questions become fun puzzles you enjoy trying to solve, even though you know that you will most probably never find an answer. Once you learn to surf the world of paradoxes, the waves give you feelings of joy instead of fear. Someone who is well-read in philosophy might ask if I am absurdist based on these last lines. I would like to clarify that though I have my own philosophical beliefs, my writings will not attempt to promote one or the other philosophy and that applies to absurdism. It is not my goal to direct people towards a philosophy I like.
+On the other hand, if you come to terms with the absurdity all around us, the philosophical questions become fun puzzles you enjoy trying to solve, even though you know that you will most probably never find an answer. Once you learn to surf the world of paradoxes, the waves give you feelings of joy instead of fear. Someone who is well-read in philosophy might ask if I am an absurdist based on these last lines. I would like to clarify that though I have my own philosophical beliefs, my writing will not attempt to promote one or the other philosophy and that applies to absurdism. It is not my goal to direct people towards a philosophy I like.
 
 
 
