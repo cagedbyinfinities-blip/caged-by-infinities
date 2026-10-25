@@ -21,7 +21,7 @@ If the mind wants to avoid this infinite regression, either it has to accept the
 
 The mind is never satisfied with the brute statements. Self-references come with a lot of paradoxes and create an infinite loop themselves. So, the only way to avoid an infinite regression seems to be to swallow our pride and accept brute statements. Or embrace these infinities and self-references.
 
-It is not totally bleak, though. The world we perceive does follow some patterns, which allows us to at least disprove some philosophies. And that is what we humans have been trying to do for millennia. We have empirical knowledge about the world we perceive which along with our rational knowledge helps us discount some possibilities that are logically inconsistent as impossible.
+It is not totally bleak though. The world we perceive does follow some patterns, which allows us to at least disprove some philosophies. And that is what we humans have been trying to do for millennia. We have empirical knowledge about the world we perceive which along with our rational knowledge helps us discount some possibilities that are logically inconsistent as impossible.
 
 But things don't seem to be as straightforward with the mind. Empirical knowledge of the mind is trickier. The mind is the very tool we use to observe anything, so studying it isn't like pointing a telescope at a planet. 
 
@@ -32,7 +32,7 @@ The **I**, the sense of self, feels lasting, unitary and unchanging. But the phy
 
 Irrespective of the philosophy, there is also the question of free-will. Is it real or illusion? If it is real, where does it come from? 
 
-While empirical knowledge allows us to at least filter out some explanations of the world, it doesn't seem to help much with the mind. Either way, we aren't escaping the infinite regression that I pointed out originally. Considering the situation, what options do we have?
+While empirical knowledge allows us to at least filter out some explanations of the world, it doesn't seem to help much with the mind. Either way, we aren't escaping the infinite regression that I pointed out originally. Not to mention the paradoxes and potential infinities we see around us in space, time, and even when we try to construct definitions of truth. Considering the situation, what options do we have?
 
 #### Don’t know. Don’t care.
 
