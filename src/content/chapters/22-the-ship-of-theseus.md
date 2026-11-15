@@ -9,7 +9,7 @@ We all have seen this quote used as-is or paraphrased in many places - Change is
 
 
 
-It is attributed to the Greek Philosopher Heraclitus. It is popular because it is true in our perceived world. Though it doesn’t call out the fact that things get more disorderly with time, it says that things change with time. We see ourselves getting old, cities getting gentrified, weather changing every month, politicians changing their opinions every week and so on. Some changes are rapid while others are slow. If you look at the planet earth at the time it formed just a million years ago, it would look very different.
+It is attributed to the Greek Philosopher Heraclitus. It is popular because it is widely accepted as truth in our perceived world. Though it doesn’t call out the fact that things get more disorderly with time as shown by the second law of thermodynamics, it says that things change with time. We see ourselves getting old, cities getting gentrified, weather changing every month, politicians changing their opinions every week and so on. Some changes are rapid while others are slow. If you look at Earth just after it formed, about 4.5 billion years ago, it would look nothing like the planet we know. It was just a molten ball with no oceans, no breathable air, and no life.
 
 
 
