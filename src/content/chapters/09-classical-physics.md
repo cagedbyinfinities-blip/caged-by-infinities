@@ -1,7 +1,7 @@
 ﻿---
 
 title: "8.1 Classical Physics"
-description: "8.1 Classical Physics"
+description: "Newton, gravity, and the clockwork universe. Classical physics explained simply - and why it worked so well for 300 years."
 order: 9
 ---
 
