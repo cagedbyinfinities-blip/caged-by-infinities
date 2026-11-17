@@ -1,6 +1,6 @@
 ﻿---
 title: "16. The Weight of Responsibility"
-description: "16. The Weight of Responsibility"
+description: "If you can choose your values, are you responsible for them? Cause, effect, responsibility, freedom, choice, and what your actions cost others."
 order: 29
 ---
 
