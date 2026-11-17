@@ -1,7 +1,7 @@
 ﻿---
 
 title: "4. The Toolkit We Possess"
-description: "4. The Toolkit We Possess"
+description: "A layman's guide to the types of knowledge and how they fit within epistemology."
 order: 4
 ---
 
