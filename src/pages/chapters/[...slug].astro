@@ -11,7 +11,7 @@ const all = (await getCollection('chapters')).sort((a,b)=>a.data.order-b.data.or
 const idx = all.findIndex(c => c.slug === chapter.slug);
 const prev = all[idx-1]; const next = all[idx+1];
 ---
-<Base title={chapter.data.title}>
+<Base title={post.data.title} description={post.data.description}>
   <h1>{chapter.data.title}</h1>
   <Content />
   <nav style="display:flex; justify-content:space-between; margin-top:3rem;">
