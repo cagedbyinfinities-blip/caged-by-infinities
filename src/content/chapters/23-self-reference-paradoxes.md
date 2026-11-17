@@ -18,9 +18,9 @@ Let’s start with the simple one.
 
 
 1. This statement is a lie.
-2. .
-3. Everything I say is a lie.
-4. All statements are subjective. There is no objective truth.
+2. I am lying right now.
+4. Everything I say is a lie.
+5. All statements are subjective. There is no objective truth.
 
 
 
