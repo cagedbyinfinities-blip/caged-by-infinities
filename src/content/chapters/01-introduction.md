@@ -1,7 +1,7 @@
 ﻿---
 
 title: "1. Introduction"
-description: "1. Introduction"
+description: "New to philosophy? Start here. An easy, funny introduction to philosophy — paradoxes, infinities, and why simple answers never hold up."
 order: 1
 ---
 
