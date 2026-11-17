@@ -1,6 +1,6 @@
 ﻿---
 title: "15. Words and Meanings"
-description: "15. Words and Meanings"
+description: "What do we actually mean when we say "true", "good", or "real"? Words and meanings explained - how language shapes philosophy, and what its limitations are."
 order: 28
 ---
 
