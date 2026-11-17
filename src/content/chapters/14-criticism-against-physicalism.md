@@ -1,6 +1,6 @@
 ﻿---
 title: "10. Criticism Against Physicalism"
-description: "10. Criticism Against Physicalism"
+description: "If physicalism is true, why does consciousness feel like something? The main criticisms against physicalism, explained without jargon."
 order: 14
 ---
 
