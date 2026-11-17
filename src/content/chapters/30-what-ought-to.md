@@ -1,6 +1,6 @@
 ﻿---
 title: "17. What Ought To?"
-description: "17. What Ought To?"
+description: "From what is, to what should be. What ought to? - the second big question of philosophy. A simple explanation of the challenges Moral philosophy tries to solve."
 order: 30
 ---
 
