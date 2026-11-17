@@ -1,7 +1,7 @@
 ﻿---
 
 title: "12.5 Infinities Everywhere"
-description: "12.5 Infinities Everywhere"
+description: "Infinity shows up in space, time, maths, and even in definitions of truth. Where infinities come from, and why they break our intuitions."
 order: 24
 ---
 
