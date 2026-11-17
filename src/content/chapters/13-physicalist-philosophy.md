@@ -1,7 +1,7 @@
 ﻿---
 
 title: "9. Physicalist Philosophy"
-description: "9. Physicalist Philosophy"
+description: "Is everything just matter and energy? Physicalism explained simply - the idea that the physical world is all there is, and why it's so popular."
 order: 13
 ---
 
