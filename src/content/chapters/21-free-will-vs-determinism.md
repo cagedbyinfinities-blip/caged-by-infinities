@@ -1,7 +1,7 @@
 ﻿---
 
 title: "12.2 Free Will vs Determinism"
-description: "12.2 Free Will vs Determinism"
+description: "Do we really choose what we do, or was it pre-determined? Free will vs determinism explained in plain language, with examples."
 order: 21
 ---
 
