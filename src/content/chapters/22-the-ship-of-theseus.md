@@ -1,7 +1,7 @@
 ﻿---
 
 title: "12.3 The Ship of Theseus"
-description: "12.3 The Ship of Theseus"
+description: "If every plank of a ship is replaced, is it still the same ship? A simple explanation of identity, change, and the Ship of Theseus paradox."
 order: 22
 ---
 
