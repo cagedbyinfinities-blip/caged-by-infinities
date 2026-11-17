@@ -1,7 +1,7 @@
 ﻿---
 
 title: "8.4 The Gaps"
-description: "8.4 The Gaps"
+description: "What science still can't explain. The gaps in our current physics - dark matter, dark energy, quantum gravity, and consciousness."
 order: 12
 ---
 
