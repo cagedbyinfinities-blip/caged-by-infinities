@@ -1,7 +1,7 @@
 ﻿---
 
 title: "10.2 The Hard Problem of Consciousness"
-description: "10.2 The Hard Problem of Consciousness"
+description: "What makes our mental experience so difficult to explain? The hard problem of consciousness explained simply, without jargon."
 order: 16
 ---
 
