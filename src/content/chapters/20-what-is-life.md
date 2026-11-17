@@ -1,6 +1,6 @@
 ﻿---
 title: "12.1 What is Life?"
-description: "12.1 What is Life?"
+description: "What makes something alive? A layman's look at the definition of life, and why scientists still can't agree on one."
 order: 20
 ---
 
