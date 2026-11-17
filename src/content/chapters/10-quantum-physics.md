@@ -1,7 +1,7 @@
 ﻿---
 
 title: "8.2 Quantum Physics"
-description: "8.2 Quantum Physics"
+description: "Particles that are waves, cats that are dead and alive. Basics of Quantum physics explained without maths."
 order: 10
 ---
 
