@@ -1,7 +1,7 @@
 ﻿---
 
 title: "18. From Morals to Politics"
-description: "18. From Morals to Politics"
+description: "How conflicts between morals and needs of individuals turn political philosophy."
 order: 31
 ---
 
