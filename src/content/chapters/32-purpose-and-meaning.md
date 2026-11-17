@@ -1,7 +1,7 @@
 ﻿---
 
 title: "19. Purpose and Meaning"
-description: "19. Purpose and Meaning"
+description: "If life has no built-in purpose, should you make your own? Purpose, meaning, and nihilism explained without preaching."
 order: 32
 ---
 
