@@ -1,7 +1,7 @@
 ﻿---
 
 title: "5. The Blueprint"
-description: "5. The Blueprint"
+description: "An informal way to build a consistent philosophical system and what The Münchhausen trilemma means for such a system."
 order: 5
 ---
 
