@@ -1,7 +1,7 @@
 ﻿---
 
 title: "7. The Scientific Philosophy"
-description: "7. The Scientific Philosophy"
+description: "What makes science different from just guessing? The scientific philosophy explained simply - observation, falsifiability, and why science corrects itself."
 order: 7
 ---
 
