@@ -1,7 +1,7 @@
 ﻿---
 
 title: "14. Getting on with Life"
-description: "14. Getting on with Life"
+description: "So what do we do with all this philosophy? Getting on with life - building morals and goals when you can't prove the nature of reality."
 order: 27
 ---
 
