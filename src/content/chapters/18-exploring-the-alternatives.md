@@ -1,7 +1,7 @@
 ﻿---
 
 title: "11. Exploring the Alternatives"
-description: "11. Exploring the Alternatives"
+description: "If physicalism isn't the whole story, what else is there? Dualism, idealism, and the alternatives to physicalism, explained in plain language."
 order: 18
 ---
 
