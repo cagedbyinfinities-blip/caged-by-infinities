@@ -1,7 +1,7 @@
 ﻿---
 
 title: "8. The State of Art of Science"
-description: "8. The State of Art of Science"
+description: "What does modern science actually say about reality? A layman's tour of physics today - what we know, what we don't, and where the gaps are."
 order: 8
 ---
 
