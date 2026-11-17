@@ -1,6 +1,6 @@
 ﻿---
 title: "12. Popular Philosophical Debates and Paradoxes"
-description: "12. Popular Philosophical Debates and Paradoxes"
+description: "The greatest hits of philosophy. Life, free will, identity, self-reference, infinities, and subjectivity - the debates that never get settled."
 order: 19
 ---
 
