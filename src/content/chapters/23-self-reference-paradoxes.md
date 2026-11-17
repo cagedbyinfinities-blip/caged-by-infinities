@@ -1,7 +1,7 @@
 ﻿---
 
 title: "12.4 Self Reference Paradoxes"
-description: "12.4 Self Reference Paradoxes"
+description: "This sentence is false - What happens when a sentence talks about itself? Self-reference paradoxes explained simply - liar paradox, Russell, and why they break logic."
 order: 23
 ---
 
