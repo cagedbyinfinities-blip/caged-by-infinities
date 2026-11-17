@@ -1,7 +1,7 @@
 ﻿---
 
 title: "12.6 Objectivity vs Subjectivity"
-description: "12.6 Objectivity vs Subjectivity"
+description: "Is anything truly objective, or is everything just how it seems to you? Objectivity vs subjectivity explained simply, with everyday examples."
 order: 25
 ---
 
