@@ -1,7 +1,7 @@
 ﻿---
 
 title: "3. Knower, Knowing and The Known"
-description: "3. Knower, Knowing and The Known"
+description: "Who is doing the knowing, and what is being known? A simple introduction to Ontology and Epistemology."
 order: 3
 ---
 
