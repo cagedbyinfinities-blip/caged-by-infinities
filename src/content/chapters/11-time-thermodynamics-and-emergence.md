@@ -1,7 +1,7 @@
 ﻿---
 
 title: "8.3 Time, Thermodynamics and Emergence"
-description: "8.3 Time, Thermodynamics and Emergence"
+description: "Why does time only go forward? Time, thermodynamics, and emergence explained simply - entropy, order, and how complexity appears."
 order: 11
 ---
 
