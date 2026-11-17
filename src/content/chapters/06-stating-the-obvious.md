@@ -1,7 +1,7 @@
 ﻿---
 
 title: "6. Stating The Obvious"
-description: "6. Stating The Obvious"
+description: "The fundamental philosophical assumptions which everyone makes without evidence."
 order: 6
 ---
 
