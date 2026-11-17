@@ -1,7 +1,7 @@
 ﻿---
 
 title: "2. What Is? What Ought To?"
-description: "2. What Is? What Ought To?"
+description: "2. The ultimate questions which philosophy tries to answer."
 order: 2
 ---
 
