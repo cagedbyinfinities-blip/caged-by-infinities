@@ -1,6 +1,6 @@
 ﻿---
 title: "20. Where does this leave us?"
-description: "20. Where does this leave us?"
+description: "After all the paradoxes and infinities, what now? Where does this leave us - picking a path, setting goals, and living with purpose anyway."
 order: 33
 ---
 
