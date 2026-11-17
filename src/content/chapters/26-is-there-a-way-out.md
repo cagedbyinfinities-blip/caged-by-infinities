@@ -1,7 +1,7 @@
 ﻿---
 
 title: "13. Is There a Way Out?"
-description: "13. Is There a Way Out?"
+description: "Every explanation needs another explanation. The Münchhausen trilemma, brute facts, and the ways out of infinite regression."
 order: 26
 ---
 
