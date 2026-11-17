@@ -1,7 +1,7 @@
 ﻿---
 
 title: "10.3 Quantum Physics Interpretations"
-description: "10.3 Quantum Physics Interpretations"
+description: "Same maths, different realities. Quantum physics interpretations explained simply - Copenhagen, many-worlds, and what they mean for reality."
 order: 17
 ---
 
