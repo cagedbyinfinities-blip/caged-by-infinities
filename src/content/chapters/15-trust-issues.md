@@ -1,6 +1,6 @@
 ﻿---
 title: "10.1 Trust Issues"
-description: "10.1 Trust Issues"
+description: "Can we trust our senses, our brain, or science itself? Trust issues in philosophy - why even physicalists have to take some things on faith."
 order: 15
 ---
 
