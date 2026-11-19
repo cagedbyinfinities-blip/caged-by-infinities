@@ -44,14 +44,14 @@ Philosophers sometimes distinguish potential infinity from actual infinity. Pote
 
 ### Mental infinities
 
-That brings us to the next question. What about the human mind? Is there an infinity? Just like we had questions about the infinite nature of multiple entities like space, time and matter, there are a couple of different issues with mental infinities.
+That brings us to the next question. What about the our mind and mental concepts? Is there an infinity? Just like we had questions about the infinite nature of physical entities like space, time and matter, we could also consider the infinite nature of some mental entities.
 
 1. Infinite nature of contents of the mind. Can the mind hold the idea of an infinite entity? Can the mind hold infinite entities?
 2. What happens when the mind tries to understand itself? Does it take us into an infinite loop or is it just a self-reference problem like we saw in the last chapter?
 
-To answer the question, let us take the list of all natural numbers. We consider them to be infinite. Can you imagine them all? We obviously could not visualise all of them in our mind. We just imagine 1, 2, 3, 4,...... What does the “....” mean? We just use it as a shorthand for the infinite numbers.
+To answer the question, let us take the list of all natural numbers. We consider it to be an infinite list. Can you mentally visualise all these numbers? We could not. We just imagine 1, 2, 3, 4,...... What does the “....” mean? We just use it as a shorthand for the infinite numbers. But we do have an idea of the set of all natural numbers.
 
-How about this? We just imagine all natural numbers using their finite mathematical description - N is a set. It has 1. And for any number x in the set, it also has x+1. This uses the principle of mathematical induction. The set has 1. Because it needs to have x+1 for any number x, it has 2 and because it has 2, it also has 3, and so on.
+Now consider this - We just imagine all natural numbers using their finite mathematical description. N is a set. It has 1. And for any number x in the set, it also has x+1. This uses the principle of mathematical induction. The set has 1. Because it needs to have x+1 for any number x, it has 2 and because it has 2, it also has 3, and so on.
 
 If we just visualise this rules-based description, aren’t we practically holding an infinite set in our mind? There is one problem here. The description we have here can also be used to describe other sets and hence this description is not unique to just a set of all natural numbers. The details of how to find that set is a bit technical. But Thoralf Skolem showed something unsettling: any precise formal description of the natural numbers (in the kind of logic mathematicians use) also fits some other, weird set N\* that isn't exactly the set of all natural numbers. So even our best formal description doesn't pin down the natural numbers uniquely. This doesn’t prove that infinite thoughts are impossible. They may still be possible, but they may not be unique.
 
